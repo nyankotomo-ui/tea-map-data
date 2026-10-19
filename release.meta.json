@@ -1,0 +1,27 @@
+{
+  "schema_version": "1.1",
+  "release_format_version": "1.0",
+  "data_version": "2026-10-20",
+  "generated_at": "2026-10-20T07:38:45+09:00",
+  "shop_count": 97,
+  "source_workbook": "tea_master_canonical_v1_1_2026-09-30_final_qa.xlsx",
+  "source_sheet": "Canonical_Master_100",
+  "release_scope": {
+    "included_scope_status": [
+      "master_list",
+      "adjacent"
+    ],
+    "excluded_scope_status": [
+      "out_of_scope"
+    ],
+    "included_business_status": [
+      "active"
+    ]
+  },
+  "coordinate_policy": {
+    "source": "tea_shop_viewer_app_ui_v0_2 legacy map seed",
+    "precision": "approximate_legacy_seed",
+    "note": "Coordinates are retained for immediate map rendering and must not be treated as verified storefront coordinates. Re-geocode full addresses when available."
+  },
+  "runtime_file": "www/data/shops.release.json"
+}
