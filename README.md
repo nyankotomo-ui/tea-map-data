@@ -6,7 +6,7 @@
 
 | ファイル | 内容 |
 |---|---|
-| `shops.release.json` | 店舗データ本体（現在 213 件） |
+| `shops.release.json` | 店舗データ本体（現在 255 件） |
 | `release.meta.json` | バージョン情報（`data_version`、`generated_at`、`shop_count` など） |
 | `SHA256SUMS.txt` | 上の 2 ファイルの SHA-256 |
 

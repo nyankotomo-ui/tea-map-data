@@ -2,8 +2,8 @@
   "schema_version": "1.1",
   "release_format_version": "1.0",
   "data_version": "2026-10-21",
-  "generated_at": "2026-10-21T07:56:59+09:00",
-  "shop_count": 213,
+  "generated_at": "2026-10-21T08:40:53+09:00",
+  "shop_count": 255,
   "source_workbook": "tea_master_canonical_v1_1_2026-09-30_final_qa.xlsx",
   "source_sheet": "Canonical_Master_100",
   "release_scope": {
@@ -23,6 +23,5 @@
     "precision": "per shop: coordinate_precision = approximate_legacy_seed | address | block | municipality",
     "note": "Coordinates are approximate and must not be treated as verified storefront coordinates: approximate_legacy_seed = old rough seed, address / block = the point of the residential-display address / block, municipality = a town-level representative point. Contains data from the Address Base Registry published by the Digital Agency (PDL1.0)."
   },
-  "runtime_file": "www/data/shops.release.json",
-  "held_back_count": 42
+  "runtime_file": "www/data/shops.release.json"
 }

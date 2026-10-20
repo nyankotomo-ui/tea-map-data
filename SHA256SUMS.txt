@@ -1,2 +1,2 @@
-bb0da23b5322e788a0dd536515e7d05dafd155974ef87b0f65fb1db72764acfa  release.meta.json
-8366893d41cd2532b661c23ca0ee1e9cf3fc19efa5bef4b5e549192b19874c6a  shops.release.json
+6beac2efe91c9f1da3f64ff5620d8da18c08e29479b089cc98bffb158ab55c98  release.meta.json
+58f60e0de7861fe65d0a570577df6ffa8fea7863bc4d85d5b95b5fcbe452ec02  shops.release.json
