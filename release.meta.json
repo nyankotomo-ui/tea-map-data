@@ -2,8 +2,8 @@
   "schema_version": "1.1",
   "release_format_version": "1.0",
   "data_version": "2026-10-20",
-  "generated_at": "2026-10-20T07:38:45+09:00",
-  "shop_count": 97,
+  "generated_at": "2026-10-20T20:17:11+09:00",
+  "shop_count": 153,
   "source_workbook": "tea_master_canonical_v1_1_2026-09-30_final_qa.xlsx",
   "source_sheet": "Canonical_Master_100",
   "release_scope": {
@@ -19,9 +19,10 @@
     ]
   },
   "coordinate_policy": {
-    "source": "tea_shop_viewer_app_ui_v0_2 legacy map seed",
-    "precision": "approximate_legacy_seed",
-    "note": "Coordinates are retained for immediate map rendering and must not be treated as verified storefront coordinates. Re-geocode full addresses when available."
+    "source": "tea_shop_viewer_app_ui_v0_2 legacy map seed; Address Base Registry (Digital Agency, Japan) residential-display / town data, trial release, retrieved 2026-10-20",
+    "precision": "per shop: coordinate_precision = approximate_legacy_seed | address | block | municipality",
+    "note": "Coordinates are approximate and must not be treated as verified storefront coordinates: approximate_legacy_seed = old rough seed, address / block = the point of the residential-display address / block, municipality = a town-level representative point. Contains data from the Address Base Registry published by the Digital Agency (PDL1.0)."
   },
-  "runtime_file": "www/data/shops.release.json"
+  "runtime_file": "www/data/shops.release.json",
+  "held_back_count": 13
 }
