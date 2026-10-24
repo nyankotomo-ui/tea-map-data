@@ -1,8 +1,8 @@
 {
-  "schema_version": "1.1",
+  "schema_version": "1.2",
   "release_format_version": "1.0",
-  "data_version": "2026-10-21",
-  "generated_at": "2026-10-21T08:40:53+09:00",
+  "data_version": "2026-10-24",
+  "generated_at": "2026-10-24T22:12:11+09:00",
   "shop_count": 255,
   "source_workbook": "tea_master_canonical_v1_1_2026-09-30_final_qa.xlsx",
   "source_sheet": "Canonical_Master_100",

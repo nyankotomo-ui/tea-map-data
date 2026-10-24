@@ -12,6 +12,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -38,6 +41,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -64,6 +68,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -90,6 +98,11 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -116,6 +129,11 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -142,6 +160,11 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -168,6 +191,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -194,6 +220,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -220,6 +249,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -246,6 +278,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -272,6 +307,9 @@
     "venue_type": "retail",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -298,6 +336,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -324,6 +365,7 @@
     "venue_type": "retail",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -350,6 +392,9 @@
     "venue_type": "retail",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": false,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -376,6 +421,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -402,6 +448,7 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -428,6 +475,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -454,6 +504,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -480,6 +533,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -506,6 +562,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -532,6 +591,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "chai"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -558,6 +621,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -584,6 +650,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -610,6 +677,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -636,6 +704,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -662,6 +734,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -688,6 +763,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -714,6 +792,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -740,6 +821,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -766,6 +850,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -792,6 +879,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -818,6 +908,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -844,6 +935,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -870,6 +964,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -896,6 +993,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -922,6 +1022,12 @@
     "venue_type": "tea_shop",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea",
+      "taiwanese_tea",
+      "chinese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -948,6 +1054,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -974,6 +1083,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1000,6 +1112,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "taiwanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1026,6 +1142,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1052,6 +1171,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1078,6 +1200,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1104,6 +1229,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1130,6 +1258,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1156,6 +1287,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -1182,6 +1316,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1208,6 +1345,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "chai"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1234,6 +1374,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1260,6 +1403,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1286,6 +1432,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1312,6 +1461,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1338,6 +1490,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1364,6 +1517,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1390,6 +1546,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1416,6 +1575,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1442,6 +1604,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1468,6 +1633,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1494,6 +1660,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1520,6 +1689,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1546,6 +1718,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1572,6 +1748,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -1598,6 +1775,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1624,6 +1804,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1650,6 +1833,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1676,6 +1862,7 @@
     "venue_type": "retail",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1702,6 +1889,7 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1728,6 +1916,7 @@
     "venue_type": "retail",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -1754,6 +1943,7 @@
     "venue_type": "retail",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -1780,6 +1970,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -1806,6 +1999,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1832,6 +2026,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1858,6 +2053,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1884,6 +2082,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1910,6 +2111,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1936,6 +2138,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -1962,6 +2167,10 @@
     "venue_type": "retail",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -1988,6 +2197,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -2014,6 +2226,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -2040,6 +2255,9 @@
     "venue_type": "hotel_lounge",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": false,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -2066,6 +2284,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -2092,6 +2313,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2118,6 +2340,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2144,6 +2367,7 @@
     "venue_type": "cafe",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2170,6 +2394,7 @@
     "venue_type": "restaurant",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2196,6 +2421,9 @@
     "venue_type": "retail",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -2222,6 +2450,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2248,6 +2479,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2274,6 +2508,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2300,6 +2537,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2326,6 +2566,10 @@
     "venue_type": "producer",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2352,6 +2596,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2378,6 +2623,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2404,6 +2652,7 @@
     "venue_type": "restaurant",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": true,
@@ -2430,6 +2679,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": false,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2456,6 +2709,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": false,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2482,6 +2739,7 @@
     "venue_type": "retail",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": false,
     "afternoon_tea": null,
@@ -2508,6 +2766,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2538,6 +2797,9 @@
       "烏龍茶",
       "ジャスミン茶",
       "チャイ"
+    ],
+    "tea_genre": [
+      "chinese_tea"
     ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
@@ -2570,6 +2832,9 @@
       "アッサム",
       "ルイボスティー"
     ],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2596,6 +2861,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2625,6 +2893,10 @@
       "台湾茶",
       "中国茶"
     ],
+    "tea_genre": [
+      "taiwanese_tea",
+      "chinese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2651,6 +2923,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2679,6 +2954,9 @@
     "tea_specialty": [
       "チャイ"
     ],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2705,6 +2983,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2731,6 +3012,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2757,6 +3041,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2783,6 +3070,9 @@
     "venue_type": "producer",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2809,6 +3099,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2835,6 +3128,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2861,6 +3157,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2887,6 +3186,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2914,6 +3214,9 @@
     "tea_focus": "tea_focused",
     "tea_specialty": [
       "中国茶"
+    ],
+    "tea_genre": [
+      "chinese_tea"
     ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
@@ -2946,6 +3249,9 @@
       "アッサム",
       "ルイボスティー"
     ],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -2972,6 +3278,7 @@
     "venue_type": "hotel_lounge",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -2998,6 +3305,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3024,6 +3332,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3055,6 +3366,10 @@
       "中国茶",
       "白茶"
     ],
+    "tea_genre": [
+      "black_tea",
+      "taiwanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3084,6 +3399,7 @@
       "中国茶",
       "台湾茶"
     ],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -3110,6 +3426,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3138,6 +3455,9 @@
     "tea_specialty": [
       "中国茶"
     ],
+    "tea_genre": [
+      "chinese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3164,6 +3484,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -3190,6 +3513,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -3216,6 +3542,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -3242,6 +3571,7 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -3268,6 +3598,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3294,6 +3625,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3320,6 +3652,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3346,6 +3679,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3372,6 +3708,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3398,6 +3735,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3424,6 +3764,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3450,6 +3793,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3476,6 +3822,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3502,6 +3851,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3528,6 +3880,11 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea",
+      "chinese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3554,6 +3911,10 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "taiwanese_tea",
+      "chinese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3580,6 +3941,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3606,6 +3970,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3632,6 +3999,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3658,6 +4028,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3684,6 +4057,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3710,6 +4084,7 @@
     "venue_type": "hotel_lounge",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3736,6 +4111,7 @@
     "venue_type": "hotel_lounge",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3762,6 +4138,7 @@
     "venue_type": "hotel_lounge",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3788,6 +4165,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3814,6 +4195,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3840,6 +4225,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3866,6 +4255,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3892,6 +4285,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3918,6 +4315,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3944,6 +4345,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -3970,6 +4375,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -3996,6 +4404,9 @@
     "venue_type": "tea_stand",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "chinese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4022,6 +4433,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4048,6 +4462,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "taiwanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4074,6 +4491,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4100,6 +4520,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4126,6 +4547,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4152,6 +4576,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4178,6 +4605,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4204,6 +4632,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4230,6 +4661,10 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4256,6 +4691,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4282,6 +4720,9 @@
     "venue_type": "cafe",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4308,6 +4749,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4334,6 +4778,10 @@
     "venue_type": "tea_stand",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4360,6 +4808,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4386,6 +4837,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4412,6 +4866,10 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4438,6 +4896,9 @@
     "venue_type": "cafe",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4464,6 +4925,9 @@
     "venue_type": "cafe",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4491,6 +4955,9 @@
     "tea_focus": "tea_focused",
     "tea_specialty": [
       "チャイ"
+    ],
+    "tea_genre": [
+      "black_tea"
     ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
@@ -4520,6 +4987,10 @@
     "tea_specialty": [
       "ハーブティー"
     ],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4546,6 +5017,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4573,6 +5047,9 @@
     "tea_focus": "specialist",
     "tea_specialty": [
       "番茶"
+    ],
+    "tea_genre": [
+      "japanese_tea"
     ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
@@ -4603,6 +5080,9 @@
       "チャイ",
       "アッサム"
     ],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4630,6 +5110,9 @@
     "tea_focus": "specialist",
     "tea_specialty": [
       "チャイ"
+    ],
+    "tea_genre": [
+      "black_tea"
     ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
@@ -4659,6 +5142,9 @@
     "tea_specialty": [
       "ダージリン"
     ],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4687,6 +5173,9 @@
     "tea_specialty": [
       "抹茶"
     ],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4713,6 +5202,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4740,6 +5232,9 @@
     "tea_focus": "specialist",
     "tea_specialty": [
       "ハーブティー"
+    ],
+    "tea_genre": [
+      "black_tea"
     ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
@@ -4771,6 +5266,9 @@
       "白茶",
       "黒茶"
     ],
+    "tea_genre": [
+      "chinese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4797,6 +5295,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": true,
@@ -4823,6 +5322,10 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4849,6 +5352,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -4880,6 +5386,9 @@
       "煎茶",
       "玉露"
     ],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4908,6 +5417,9 @@
     "tea_specialty": [
       "ほうじ茶",
       "玉露"
+    ],
+    "tea_genre": [
+      "japanese_tea"
     ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
@@ -4939,6 +5451,9 @@
       "煎茶",
       "番茶"
     ],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4965,6 +5480,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -4993,6 +5511,9 @@
     "tea_specialty": [
       "ハーブティー"
     ],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5019,6 +5540,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5045,6 +5569,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5071,6 +5598,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5097,6 +5627,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5123,6 +5656,10 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5149,6 +5686,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5175,6 +5715,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5201,6 +5744,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5227,6 +5771,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5253,6 +5798,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5279,6 +5827,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5305,6 +5856,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5331,6 +5885,7 @@
     "venue_type": "producer",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5357,6 +5912,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5383,6 +5941,7 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5409,6 +5968,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5435,6 +5997,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5461,6 +6026,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5487,6 +6053,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5513,6 +6080,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5539,6 +6107,7 @@
     "venue_type": "producer",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5565,6 +6134,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5591,6 +6163,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5617,6 +6190,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5643,6 +6217,7 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5669,6 +6244,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5695,6 +6271,9 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5721,6 +6300,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5747,6 +6329,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5773,6 +6358,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5799,6 +6387,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5825,6 +6416,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5851,6 +6445,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5877,6 +6474,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5903,6 +6503,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -5929,6 +6532,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5955,6 +6561,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -5981,6 +6590,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6007,6 +6619,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6033,6 +6648,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6059,6 +6677,9 @@
     "venue_type": "producer",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6085,6 +6706,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6111,6 +6735,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6137,6 +6764,7 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6163,6 +6791,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6189,6 +6820,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6215,6 +6849,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6241,6 +6878,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6267,6 +6907,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6293,6 +6936,9 @@
     "venue_type": "tea_stand",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6319,6 +6965,7 @@
     "venue_type": "tea_room",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6345,6 +6992,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6371,6 +7019,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6397,6 +7048,9 @@
     "venue_type": "producer",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "japanese_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6423,6 +7077,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6449,6 +7106,7 @@
     "venue_type": "tea_shop",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6475,6 +7133,9 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6501,6 +7162,9 @@
     "venue_type": "cafe",
     "tea_focus": "general",
     "tea_specialty": [],
+    "tea_genre": [
+      "herbal"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6527,6 +7191,7 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6553,6 +7218,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6579,6 +7247,10 @@
     "venue_type": "tea_room",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6605,6 +7277,9 @@
     "venue_type": "tea_room",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": null,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6631,6 +7306,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
@@ -6657,6 +7335,11 @@
     "venue_type": "tea_shop",
     "tea_focus": "tea_focused",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea",
+      "taiwanese_tea",
+      "herbal"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": true,
     "afternoon_tea": null,
@@ -6683,6 +7366,9 @@
     "venue_type": "tea_shop",
     "tea_focus": "specialist",
     "tea_specialty": [],
+    "tea_genre": [
+      "black_tea"
+    ],
     "tea_leaf_sales": true,
     "cafe_seating": null,
     "afternoon_tea": null,
