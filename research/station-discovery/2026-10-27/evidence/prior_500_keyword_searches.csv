@@ -1,0 +1,501 @@
+query_id,prefecture,query_text,station_keyword,station_queue_id,station_match_status,search_date_jst,search_tool,six_genres_covered,result_does_not_prove_absence
+LIVE01-01,東京,東京 西馬込駅 紅茶専門店 台湾茶 日本茶 ティールーム,西馬込,東京-0001,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-02,東京,東京 大井町駅 台湾茶 紅茶専門店 日本茶 カフェ,大井町,東京-0004,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-03,東京,東京 京王多摩センター駅 茶房 台湾茶 紅茶 茶専門店,京王多摩センター,東京-0011,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-04,東京,東京 目黒駅 日本茶 台湾茶 チャイ 紅茶専門店,目黒,東京-0020,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-05,東京,東京 新木場駅 茶専門店 紅茶 日本茶,新木場,東京-0033,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-06,東京,東京 竹芝駅 ティールーム 日本茶 台湾茶 紅茶,竹芝,東京-0041,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-07,東京,東京 泉岳寺駅 紅茶専門店 中国茶 ティースタンド,泉岳寺,東京-0024,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-08,東京,東京 芝公園駅 台湾茶 日本茶専門店 紅茶,芝公園,東京-0042,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-09,東京,東京 東陽町駅 紅茶専門店 茶房 台湾茶,東陽町,東京-0069,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-10,東京,東京 四ツ谷駅 中国茶 台湾茶 紅茶専門店,四ツ谷,東京-0097,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-11,神奈川,神奈川 港南中央駅 紅茶専門店 日本茶 台湾茶 カフェ,港南中央,神奈川-0003,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-12,神奈川,神奈川 上永谷駅 茶専門店 紅茶 台湾茶,上永谷,神奈川-0004,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-13,神奈川,神奈川 下飯田駅 紅茶 日本茶 ティールーム,下飯田,神奈川-0007,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-14,神奈川,神奈川 中田駅 横浜 茶専門店 紅茶 日本茶,中田,神奈川-0010,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-15,神奈川,神奈川 弘明寺駅 中国茶 台湾茶 日本茶 紅茶専門店,弘明寺,,ambiguous_same_station_name,2026-10-25,web.fast,NO,YES
+LIVE01-16,神奈川,神奈川 蒔田駅 台湾茶 紅茶 茶専門店,蒔田,神奈川-0013,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-17,神奈川,神奈川 吉野町駅 茶専門店 日本茶 紅茶,吉野町,神奈川-0014,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-18,神奈川,神奈川 伊勢佐木長者町駅 台湾茶 紅茶専門店,伊勢佐木長者町,神奈川-0016,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-19,神奈川,神奈川 片倉町駅 茶専門店 紅茶 台湾茶,片倉町,神奈川-0023,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE01-20,神奈川,神奈川 仲町台駅 紅茶専門店 台湾茶 日本茶,仲町台,神奈川-0030,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-01,大阪,大阪 孝子駅 茶葉専門店 紅茶 台湾茶 日本茶,孝子,大阪-0001,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-02,大阪,大阪 みさき公園駅 日本茶 紅茶専門店 ティールーム,みさき公園,大阪-0005,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-03,大阪,大阪 尾崎駅 日本茶 台湾茶 紅茶専門店,尾崎,大阪-0011,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-04,大阪,大阪 和泉砂川駅 紅茶専門店 中国茶 お茶屋,和泉砂川,大阪-0012,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-05,大阪,大阪 日根野駅 茶専門店 台湾茶 日本茶,日根野,大阪-0017,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-06,大阪,大阪 熊取駅 茶葉店 ティールーム 日本茶,熊取,大阪-0023,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-07,大阪,大阪 貝塚駅 紅茶専門店 台湾茶 茶房,貝塚,大阪-0043,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-08,大阪,大阪 河内長野駅 和紅茶 台湾茶 茶専門店,河内長野,大阪-0045,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-09,大阪,大阪 堺東駅 茶房 台湾茶 中国茶 紅茶専門店,堺東,大阪-0119,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-10,大阪,大阪 布施駅 日本茶カフェ 台湾茶 紅茶専門店,布施,大阪-0261,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-11,愛知,愛知 三河田原駅 紅茶専門店 台湾茶 日本茶茶房,三河田原,愛知-0001,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-12,愛知,愛知 老津駅 お茶専門店 台湾茶 紅茶,老津,愛知-0006,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-13,愛知,愛知 二川駅 日本茶 紅茶専門店 中国茶,二川,愛知-0011,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-14,愛知,愛知 高師駅 日本茶 台湾茶 紅茶専門店,高師,愛知-0012,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-15,愛知,愛知 南栄駅 日本茶 紅茶専門店 チャイ,南栄,愛知-0013,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-16,愛知,愛知 愛知大学前駅 お茶屋 台湾茶 中国茶,愛知大学前,愛知-0014,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-17,愛知,愛知 内海駅 紅茶専門店 日本茶カフェ,内海,愛知-0015,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-18,愛知,愛知 亀崎駅 日本茶 紅茶専門店 台湾茶,亀崎,愛知-0116,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-19,愛知,愛知 知多半田駅 中国茶 紅茶専門店 和紅茶,知多半田,愛知-0098,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE02-20,愛知,愛知 西尾駅 抹茶 ティールーム 茶専門店,西尾,愛知-0079,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-01,兵庫,兵庫 朝霧駅 紅茶専門店 台湾茶 日本茶カフェ,朝霧,兵庫-0015,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-02,兵庫,兵庫 東垂水駅 茶専門店 紅茶 台湾茶,東垂水,兵庫-0003,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-03,兵庫,兵庫 塩屋駅 お茶専門店 チャイ 日本茶,塩屋,兵庫-0007,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-04,兵庫,兵庫 舞子駅 紅茶専門店 茶房 台湾茶,舞子,兵庫-0008,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-05,兵庫,兵庫 西舞子駅 台湾茶 お茶 紅茶,西舞子,兵庫-0012,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-06,兵庫,兵庫 須磨寺駅 日本茶カフェ 台湾茶 紅茶,須磨寺,兵庫-0016,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-07,兵庫,兵庫 鷹取駅 中国茶 お茶専門店 紅茶,鷹取,兵庫-0024,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-08,兵庫,兵庫 板宿駅 台湾茶 紅茶専門店 日本茶,板宿,兵庫-0034,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-09,兵庫,兵庫 魚住駅 紅茶専門店 日本茶カフェ,魚住,兵庫-0085,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-10,兵庫,兵庫 三木駅 茶房 日本茶 紅茶専門店,三木,兵庫-0213,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-11,兵庫,兵庫 淡路島 茶専門店 台湾茶 紅茶 日本茶,,,region_only_not_station,2026-10-25,web.fast,NO,YES
+LIVE03-12,兵庫,兵庫 豊岡駅 日本茶専門店 紅茶 ティールーム,豊岡,兵庫-0353,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-13,兵庫,兵庫 丹波篠山 篠山口駅 和紅茶 茶専門店 台湾茶,篠山口,兵庫-0329,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-14,兵庫,兵庫 城崎温泉駅 日本茶 抹茶カフェ 茶屋,城崎温泉,兵庫-0359,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-15,兵庫,兵庫 相生駅 紅茶専門店 日本茶 台湾茶,相生,兵庫-0232,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-16,兵庫,兵庫 播州赤穂駅 台湾茶 中国茶 紅茶専門店,播州赤穂,兵庫-0170,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-17,兵庫,兵庫 伊丹駅 日本茶専門店 台湾茶,伊丹,,ambiguous_same_station_name,2026-10-25,web.fast,NO,YES
+LIVE03-18,兵庫,兵庫 仁川駅 茶専門店 紅茶 ティールーム,仁川,兵庫-0186,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-19,兵庫,兵庫 武庫之荘駅 紅茶専門店 台湾茶,武庫之荘,兵庫-0163,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE03-20,兵庫,兵庫 夙川駅 中国茶 台湾茶 日本茶カフェ,夙川,兵庫-0151,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-01,東京,東京都 羽村駅 日本茶専門店 紅茶専門店 台湾茶,羽村,東京-0619,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-02,東京,東京都 小平駅 中国茶 台湾茶 ティールーム,小平,東京-0578,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-03,東京,東京都 石神井公園駅 日本茶カフェ 紅茶専門店,石神井公園,東京-0594,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-04,東京,東京都 東久留米駅 台湾茶 中国茶 紅茶専門店,東久留米,東京-0623,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-05,東京,東京都 江古田駅 チャイ 日本茶 ティールーム,江古田,東京-0580,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-06,東京,東京都 国立駅 中国茶 台湾茶 紅茶専門店 2026,国立,東京-0497,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-07,東京,東京都 東村山駅 日本茶 専門店 台湾茶,東村山,東京-0622,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-08,東京,東京都 高尾駅 紅茶専門店 台湾茶 抹茶,高尾,東京-0369,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-09,東京,東京都 青梅駅 和紅茶 茶房 中国茶専門店,青梅,東京-0651,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-10,東京,東京都 福生駅 ティールーム 和紅茶 チャイ,福生,東京-0589,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-11,神奈川,神奈川 真鶴駅 茶専門店 紅茶 台湾茶,真鶴,神奈川-0042,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-12,神奈川,神奈川 伊勢原駅 紅茶専門店 日本茶カフェ,伊勢原,神奈川-0181,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-13,神奈川,神奈川 鶴巻温泉駅 茶房 中国茶 ティールーム,鶴巻温泉,神奈川-0174,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-14,神奈川,神奈川 大雄山駅 茶専門店 和紅茶 台湾茶,大雄山,神奈川-0122,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-15,神奈川,神奈川 寒川駅 紅茶専門店 日本茶 台湾茶,寒川,神奈川-0165,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-16,神奈川,神奈川 橋本駅 台湾茶専門店 紅茶茶葉専門店,橋本,神奈川-0327,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-17,神奈川,神奈川 伊豆箱根鉄道 岩原駅 茶専門店 紅茶 カフェ,岩原,神奈川-0097,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-18,神奈川,神奈川 箱根湯本駅 日本茶専門 カフェ お茶,箱根湯本,神奈川-0051,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-19,神奈川,神奈川 平塚駅 和紅茶 台湾茶専門店,平塚,神奈川-0130,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE04-20,神奈川,神奈川 津久井浜駅 茶葉専門店 チャイ 日本茶,津久井浜,神奈川-0045,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-01,大阪,大阪 泉佐野駅 紅茶専門店 日本茶カフェ 台湾茶,泉佐野,大阪-0027,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-02,大阪,大阪 岸和田駅 日本茶専門店 台湾茶 中国茶,岸和田,大阪-0048,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-03,大阪,大阪 北野田駅 紅茶専門店 台湾茶 茶房,北野田,大阪-0076,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-04,大阪,大阪 河内長野駅 日本茶専門店 茶房 和紅茶,河内長野,大阪-0045,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-05,大阪,大阪 箕面駅 台湾茶 中国茶 紅茶専門店,箕面,大阪-0472,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-06,大阪,大阪 枚方市駅 茶専門店 中国茶 日本茶カフェ,枚方市,大阪-0459,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-07,大阪,大阪 万博記念公園駅 日本茶 台湾茶 茶葉販売,万博記念公園,大阪-0449,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-08,大阪,大阪 高槻駅 紅茶専門店 和紅茶 チャイ,高槻,大阪-0478,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-09,大阪,大阪 富田林駅 茶専門店 日本茶 紅茶,富田林,大阪-0067,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-10,大阪,大阪 阪南市 尾崎駅 チャイ 紅茶カフェ 日本茶,尾崎,大阪-0011,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-11,愛知,愛知 三河田原駅 日本茶専門店 茶房 和紅茶,三河田原,愛知-0001,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-12,愛知,愛知 豊橋駅 台湾茶専門店 中国茶 紅茶専門店,豊橋,愛知-0019,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-13,愛知,愛知 新城駅 茶専門店 日本茶カフェ 和紅茶,新城,愛知-0102,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-14,愛知,愛知 蒲郡駅 台湾茶 紅茶専門店 茶房,蒲郡,愛知-0061,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-15,愛知,愛知 豊田市駅 中国茶専門店 台湾茶 紅茶,豊田市,愛知-0212,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-16,愛知,愛知 常滑駅 茶専門店 日本茶 中国茶,常滑,愛知-0094,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-17,愛知,愛知 江南駅 紅茶専門店 台湾茶 カフェ,江南,愛知-0467,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-18,愛知,愛知 犬山駅 和紅茶 中国茶 台湾茶専門店,犬山,愛知-0477,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-19,愛知,愛知 瀬戸市駅 日本茶専門店 台湾茶 紅茶,瀬戸市,愛知-0420,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE05-20,愛知,愛知 尾張旭駅 紅茶専門店 台湾茶 日本茶カフェ,尾張旭,愛知-0409,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-01,東京,東京都 赤羽駅 中国茶 専門店 台湾茶 日本茶 茶房,赤羽,東京-0639,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-02,東京,東京都 西国分寺駅 茶専門店 紅茶専門店 台湾茶,西国分寺,東京-0498,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-03,東京,東京都 青梅街道駅 紅茶専門店 和紅茶 中国茶,青梅街道,東京-0565,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-04,東京,東京都 武蔵増戸駅 日本茶 台湾茶 紅茶専門店,武蔵増戸,東京-0564,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-05,東京,東京都 東小金井駅 日本茶カフェ 台湾茶 紅茶,東小金井,東京-0507,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-06,東京,東京都 町屋駅 和紅茶 台湾茶 茶専門店,町屋,東京-0215,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-07,東京,東京都 府中駅 日本茶専門店 中国茶 台湾茶,府中,東京-0451,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-08,東京,東京都 国領駅 和紅茶 紅茶専門店 チャイ,国領,東京-0393,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-09,東京,東京都 学芸大学駅 台湾茶 茶房 紅茶専門店,学芸大学,東京-0350,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-10,東京,東京都 江戸川橋駅 台湾茶専門 中国茶 茶藝館,江戸川橋,東京-0161,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-11,神奈川,神奈川県 海老名駅 日本茶専門店 台湾茶カフェ,海老名,神奈川-0213,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-12,神奈川,神奈川県 金沢八景駅 台湾茶 中国茶 紅茶専門店,金沢八景,神奈川-0134,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-13,神奈川,神奈川県 本郷台駅 日本茶専門店 台湾茶,本郷台,神奈川-0164,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-14,神奈川,神奈川県 鵠沼海岸駅 紅茶専門店 和紅茶,鵠沼海岸,神奈川-0125,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-15,神奈川,神奈川県 野島公園駅 日本茶 中国茶 台湾茶,野島公園,神奈川-0133,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-16,神奈川,神奈川県 津田山駅 茶専門店 紅茶 中国茶,津田山,神奈川-0332,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-17,神奈川,神奈川県 新百合ヶ丘駅 日本茶カフェ 台湾茶専門店,新百合ヶ丘,神奈川-0333,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-18,神奈川,神奈川県 相模大野駅 紅茶専門店 台湾茶 茶葉,相模大野,神奈川-0286,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-19,神奈川,神奈川県 逗子駅 紅茶専門店 和紅茶 カフェ,逗子,神奈川-0094,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE06-20,神奈川,神奈川県 二宮駅 茶専門店 紅茶 日本茶,二宮,神奈川-0095,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-01,兵庫,兵庫 明石駅 中国茶専門店 紅茶専門店 日本茶,明石,兵庫-0021,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-02,兵庫,兵庫 西宮北口駅 台湾茶専門店 ティールーム 紅茶,西宮北口,兵庫-0154,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-03,兵庫,兵庫 丹波市 石生駅 日本茶カフェ 和紅茶,石生,兵庫-0339,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-04,兵庫,兵庫 和田山駅 茶専門店 紅茶 台湾茶,和田山,兵庫-0348,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-05,兵庫,兵庫 三田駅 中国茶専門店 日本茶 茶房,三田,兵庫-0286,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-06,兵庫,兵庫 宝塚駅 日本茶カフェ 紅茶専門店,宝塚,兵庫-0225,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-07,兵庫,兵庫 網干駅 日本茶 台湾茶 紅茶専門店,網干,兵庫-0228,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-08,兵庫,兵庫 神戸市 六甲駅 台湾茶 中国茶専門店,六甲,兵庫-0116,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-09,兵庫,兵庫 加古川駅 日本茶専門店 和紅茶,加古川,兵庫-0180,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-10,兵庫,兵庫 新神戸駅 台湾茶 チャイ 紅茶専門店,新神戸,兵庫-0092,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-11,東京,東京都 あきる野市 秋川駅 日本茶専門店 紅茶,秋川,東京-0556,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-12,東京,東京都 武蔵境駅 台湾茶 紅茶専門店 中国茶,武蔵境,東京-0508,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-13,東京,東京都 千歳烏山駅 紅茶専門店 日本茶カフェ,千歳烏山,東京-0435,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-14,東京,東京都 京成立石駅 茶房 台湾茶 茶専門店,京成立石,東京-0583,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-15,東京,東京都 江北駅 茶専門店 紅茶 台湾茶,江北,東京-0249,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-16,神奈川,神奈川 鎌倉高校前駅 茶専門店 和紅茶 台湾茶,鎌倉高校前,神奈川-0104,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-17,神奈川,神奈川 相武台前駅 紅茶専門店 日本茶 中国茶,相武台前,神奈川-0257,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-18,神奈川,神奈川 向ヶ丘遊園駅 台湾茶専門店 日本茶カフェ,向ヶ丘遊園,神奈川-0344,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-19,神奈川,神奈川 秦野駅 日本茶専門店 紅茶 和紅茶,秦野,神奈川-0166,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE07-20,神奈川,神奈川 新杉田駅 中国茶 台湾茶専門店,新杉田,神奈川-0178,matched_exact_name,2026-10-25,web.fast,NO,YES
+LIVE08-01,東京,東京都 羽田空港第3ターミナル駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,羽田空港第3ターミナル,東京-0274,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-02,東京,東京都 東青梅駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,東青梅,東京-0650,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-03,東京,東京都 秋津駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,秋津,東京-0642,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-04,東京,東京都 光が丘駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,光が丘,東京-0240,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-05,東京,東京都 高島平駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,高島平,東京-0261,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-06,東京,東京都 東武練馬駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,東武練馬,東京-0631,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-07,東京,東京都 浜松町駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,浜松町,東京-0046,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-08,東京,東京都 千駄木駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,千駄木,東京-0189,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-09,東京,東京都 下落合駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,下落合,東京-0528,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-10,東京,東京都 金町駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,金町,東京-0633,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-11,神奈川,神奈川県 小田原駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,小田原,神奈川-0069,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-12,神奈川,神奈川県 鶴見駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,鶴見,神奈川-0266,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-13,神奈川,神奈川県 久里浜駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,久里浜,神奈川-0050,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-14,神奈川,神奈川県 逗子・葉山駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,逗子・葉山,神奈川-0092,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-15,神奈川,神奈川県 藤沢駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,藤沢,神奈川-0141,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-16,神奈川,神奈川県 菊名駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,菊名,神奈川-0270,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-17,神奈川,神奈川県 元住吉駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,元住吉,神奈川-0310,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-18,神奈川,神奈川県 中山駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,中山,神奈川-0026,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-19,神奈川,神奈川県 金沢文庫駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,金沢文庫,神奈川-0146,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE08-20,神奈川,神奈川県 青葉台駅 紅茶専門店 日本茶 台湾茶 中国茶 チャイ ハーブティー,青葉台,神奈川-0298,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-01,大阪,大阪府 吹田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,吹田,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-02,大阪,大阪府 山田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,山田,大阪-0448,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-03,大阪,大阪府 香里園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,香里園,大阪-0431,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-04,大阪,大阪府 河内松原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,河内松原,大阪-0117,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-05,大阪,大阪府 和泉中央駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,和泉中央,大阪-0049,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-06,大阪,大阪府 泉ケ丘駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,泉ケ丘,大阪-0063,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-07,大阪,大阪府 河内磐船駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,河内磐船,大阪-0426,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-08,大阪,大阪府 四条畷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,四条畷,大阪-0384,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-09,大阪,大阪府 豊中駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,豊中,大阪-0434,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-10,大阪,大阪府 大日駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大日,大阪-0404,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-11,愛知,愛知県 大曽根駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大曽根,愛知-0368,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-12,愛知,愛知県 日進駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,日進,愛知-0246,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-13,愛知,愛知県 覚王山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,覚王山,愛知-0317,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-14,愛知,愛知県 稲沢駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,稲沢,愛知-0433,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-15,愛知,愛知県 小牧駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小牧,愛知-0451,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-16,愛知,愛知県 大府駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大府,愛知-0179,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-17,愛知,愛知県 名鉄一宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,名鉄一宮,愛知-0455,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-18,愛知,愛知県 豊明駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,豊明,愛知-0194,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-19,愛知,愛知県 勝川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,勝川,愛知-0422,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE09-20,愛知,愛知県 上小田井駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,上小田井,愛知-0414,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-01,兵庫,兵庫県 尼崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,尼崎,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-02,兵庫,兵庫県 芦屋川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,芦屋川,兵庫-0141,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-03,兵庫,兵庫県 灘駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,灘,兵庫-0094,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-04,兵庫,兵庫県 阪神西宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西宮,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-05,兵庫,兵庫県 明石駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,明石,兵庫-0021,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-06,兵庫,兵庫県 竜野駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,竜野,兵庫-0243,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-07,兵庫,兵庫県 養父駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,養父,兵庫-0349,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-08,兵庫,兵庫県 加古川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,加古川,兵庫-0180,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-09,兵庫,兵庫県 社町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,社町,兵庫-0299,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-10,兵庫,兵庫県 三ノ宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,三ノ宮,兵庫-0083,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-11,兵庫,兵庫県 西脇市駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西脇市,兵庫-0311,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-12,兵庫,兵庫県 六甲道駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,六甲道,兵庫-0106,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-13,兵庫,兵庫県 神戸三宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,神戸三宮,兵庫-0082,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-14,兵庫,兵庫県 三田本町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,三田本町,兵庫-0280,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-15,兵庫,兵庫県 塚口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,塚口,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-16,兵庫,兵庫県 山陽明石駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,山陽明石,兵庫-0020,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-17,兵庫,兵庫県 長田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,長田,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-18,兵庫,兵庫県 福崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,福崎,兵庫-0310,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-19,兵庫,兵庫県 篠山口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,篠山口,兵庫-0329,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE10-20,兵庫,兵庫県 豊岡駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,豊岡,兵庫-0353,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-01,東京,東京都 中央大学・明星大学駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,中央大学・明星大学,東京-0028,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-02,東京,東京都 南砂町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,南砂町,東京-0063,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-03,東京,東京都 方南町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,方南町,東京-0094,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-04,東京,東京都 西新宿駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西新宿,東京-0126,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-05,東京,東京都 西早稲田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西早稲田,東京-0157,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-06,東京,東京都 新大塚駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新大塚,東京-0190,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-07,東京,東京都 西ケ原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西ケ原,東京-0222,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-08,東京,東京都 西新井大師西駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西新井大師西,東京-0255,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-09,東京,東京都 蓮沼駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,蓮沼,東京-0288,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-10,東京,東京都 鮫洲駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,鮫洲,東京-0319,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-11,東京,東京都 小田急永山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小田急永山,東京-0351,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-12,東京,東京都 稲城長沼駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,稲城長沼,東京-0383,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-13,東京,東京都 つつじヶ丘駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,つつじヶ丘,東京-0414,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-14,東京,東京都 芦花公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,芦花公園,東京-0446,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-15,東京,東京都 大手町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大手町,東京-0478,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-16,東京,東京都 阿佐ヶ谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,阿佐ヶ谷,東京-0513,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-17,東京,東京都 東向島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東向島,東京-0545,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-18,東京,東京都 江戸川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,江戸川,東京-0581,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-19,東京,東京都 王子駅前 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,王子駅前,東京-0615,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE11-20,東京,東京都 石神前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,石神前,東京-0655,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-01,神奈川,神奈川県 高島町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,高島町,神奈川-0019,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-02,神奈川,神奈川県 東山田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東山田,神奈川-0037,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-03,神奈川,神奈川県 入生田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,入生田,神奈川-0056,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-04,神奈川,神奈川県 緑町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,緑町,神奈川-0072,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-05,神奈川,神奈川県 安針塚駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,安針塚,神奈川-0088,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-06,神奈川,神奈川県 栢山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,栢山,神奈川-0108,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-07,神奈川,神奈川県 上大井駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,上大井,神奈川-0124,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-08,神奈川,神奈川県 八景島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,八景島,神奈川-0144,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-09,神奈川,神奈川県 並木中央駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,並木中央,神奈川-0161,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-10,神奈川,神奈川県 磯子駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,磯子,神奈川-0182,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-11,神奈川,神奈川県 阿夫利神社駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,阿夫利神社,神奈川-0197,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-12,神奈川,神奈川県 南万騎が原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,南万騎が原,神奈川-0212,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-13,神奈川,神奈川県 瀬谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,瀬谷,神奈川-0229,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-14,神奈川,神奈川県 新子安駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新子安,神奈川-0244,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-15,神奈川,神奈川県 花月総持寺駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,花月総持寺,神奈川-0260,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-16,神奈川,神奈川県 川崎新町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,川崎新町,神奈川-0277,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-17,神奈川,神奈川県 東門前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東門前,神奈川-0294,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-18,神奈川,神奈川県 淵野辺駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,淵野辺,神奈川-0311,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-19,神奈川,神奈川県 梶が谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,梶が谷,神奈川-0326,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE12-20,神奈川,神奈川県 はるひ野駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,はるひ野,神奈川-0345,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-01,大阪,大阪府 三ヶ山口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,三ヶ山口,大阪-0022,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-02,大阪,大阪府 汐ノ宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,汐ノ宮,大阪-0051,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-03,大阪,大阪府 高師浜駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,高師浜,大阪-0077,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-04,大阪,大阪府 石津北駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,石津北,大阪-0100,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-05,大阪,大阪府 堺駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,堺,大阪-0125,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-06,大阪,大阪府 住ノ江駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,住ノ江,大阪-0148,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-07,大阪,大阪府 東粉浜駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東粉浜,大阪-0170,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-08,大阪,大阪府 河内山本駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,河内山本,大阪-0193,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-09,大阪,大阪府 美章園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,美章園,大阪-0216,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-10,大阪,大阪府 恵美須町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,恵美須町,大阪-0239,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-11,大阪,大阪府 今里駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,今里,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-12,大阪,大阪府 心斎橋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,心斎橋,大阪-0286,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-13,大阪,大阪府 千鳥橋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,千鳥橋,大阪-0309,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-14,大阪,大阪府 京橋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,京橋,大阪-0332,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-15,大阪,大阪府 出来島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,出来島,大阪-0355,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-16,大阪,大阪府 西中島南方駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西中島南方,大阪-0378,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-17,大阪,大阪府 忍ヶ丘駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,忍ヶ丘,大阪-0401,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-18,大阪,大阪府 正雀駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,正雀,大阪-0425,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-19,大阪,大阪府 石橋阪大前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,石橋阪大前,大阪-0453,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE13-20,大阪,大阪府 彩都西駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,彩都西,大阪-0479,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-01,愛知,愛知県 井原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,井原,愛知-0025,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-02,愛知,愛知県 河和口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,河和口,愛知-0047,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-03,愛知,愛知県 御油駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,御油,愛知-0071,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-04,愛知,愛知県 米津駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,米津,愛知-0095,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-05,愛知,愛知県 長篠城駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,長篠城,愛知-0121,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-06,愛知,愛知県 安城駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,安城,愛知-0143,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-07,愛知,愛知県 刈谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,刈谷,愛知-0166,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-08,愛知,愛知県 富士松駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,富士松,愛知-0189,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-09,愛知,愛知県 本星崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,本星崎,愛知-0214,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-10,愛知,愛知県 弥富駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,弥富,愛知-0236,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-11,愛知,愛知県 瑞穂運動場西駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,瑞穂運動場西,愛知-0260,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-12,愛知,愛知県 高畑駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,高畑,愛知-0282,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-13,愛知,愛知県 鶴舞駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,鶴舞,愛知-0305,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-14,愛知,愛知県 名鉄名古屋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,名鉄名古屋,愛知-0328,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-15,愛知,愛知県 名古屋城駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,名古屋城,愛知-0351,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-16,愛知,愛知県 平安通駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,平安通,愛知-0374,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-17,愛知,愛知県 大森・金城学院前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大森・金城学院前,愛知-0397,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-18,愛知,愛知県 比良駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,比良,愛知-0423,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-19,愛知,愛知県 小牧口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小牧口,愛知-0447,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE14-20,愛知,愛知県 羽黒駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,羽黒,愛知-0472,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-01,兵庫,兵庫県 須磨海浜公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,須磨海浜公園,兵庫-0018,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-02,兵庫,兵庫県 中央市場前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,中央市場前,兵庫-0039,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-03,兵庫,兵庫県 湊川公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,湊川公園,兵庫-0055,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-04,兵庫,兵庫県 花隈駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,花隈,兵庫-0071,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-05,兵庫,兵庫県 岩屋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,岩屋,兵庫-0090,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-06,兵庫,兵庫県 播磨町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,播磨町,兵庫-0110,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-07,兵庫,兵庫県 摂津本山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,摂津本山,兵庫-0127,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-08,兵庫,兵庫県 阪神国道駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,阪神国道,兵庫-0144,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-09,兵庫,兵庫県 園田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,園田,兵庫-0162,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-10,兵庫,兵庫県 花山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,花山,兵庫-0182,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-11,兵庫,兵庫県 小林駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小林,兵庫-0199,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-12,兵庫,兵庫県 北伊丹駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,北伊丹,兵庫-0216,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-13,兵庫,兵庫県 生瀬駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,生瀬,兵庫-0235,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-14,兵庫,兵庫県 京口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,京口,兵庫-0253,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-15,兵庫,兵庫県 太市駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,太市,兵庫-0269,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-16,兵庫,兵庫県 山下駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,山下,兵庫-0287,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-17,兵庫,兵庫県 滝野駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,滝野,兵庫-0304,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-18,兵庫,兵庫県 黒田庄駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,黒田庄,兵庫-0323,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-19,兵庫,兵庫県 黒井駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,黒井,兵庫-0341,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE15-20,兵庫,兵庫県 香住駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,香住,兵庫-0361,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-01,東京,東京都 五反田駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,五反田,東京-0014,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-02,東京,東京都 神谷町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,神谷町,東京-0051,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-03,東京,東京都 京橋駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,京橋,東京-0083,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-04,東京,東京都 竹橋駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,竹橋,東京-0115,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-05,東京,東京都 飯田橋駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,飯田橋,東京-0145,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-06,東京,東京都 根津駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,根津,東京-0177,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-07,東京,東京都 荒川二丁目駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,荒川二丁目,東京-0209,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-08,東京,東京都 綾瀬駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,綾瀬,東京-0242,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-09,東京,東京都 羽田空港第1ターミナル駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,羽田空港第1ターミナル,東京-0276,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-10,東京,東京都 大井競馬場前駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,大井競馬場前,東京-0307,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-11,東京,東京都 新馬場駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,新馬場,東京-0338,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-12,東京,東京都 長沼駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,長沼,東京-0371,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-13,東京,東京都 西八王子駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,西八王子,東京-0403,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-14,東京,東京都 築地駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,築地,東京-0434,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-15,東京,東京都 東京駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,東京,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-16,東京,東京都 御茶ノ水駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,御茶ノ水,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-17,東京,東京都 沼袋駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,沼袋,東京-0533,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-18,東京,東京都 大塚駅前駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,大塚駅前,東京-0567,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-19,東京,東京都 青砥駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,青砥,東京-0603,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE16-20,東京,東京都 成増駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,成増,東京-0640,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-01,神奈川,神奈川県 上大岡駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,上大岡,神奈川-0009,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-02,神奈川,神奈川県 都筑ふれあいの丘駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,都筑ふれあいの丘,神奈川-0031,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-03,神奈川,神奈川県 YRP野比駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,YRP野比,神奈川-0048,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-04,神奈川,神奈川県 北久里浜駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,北久里浜,神奈川-0065,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-05,神奈川,神奈川県 穴部駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,穴部,神奈川-0082,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-06,神奈川,神奈川県 稲村ヶ崎駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,稲村ヶ崎,神奈川-0101,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-07,神奈川,神奈川県 追浜駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,追浜,神奈川-0117,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-08,神奈川,神奈川県 相模金子駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,相模金子,神奈川-0137,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-09,神奈川,神奈川県 香川駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,香川,神奈川-0155,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-10,神奈川,神奈川県 南部市場駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,南部市場,神奈川-0173,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-11,神奈川,神奈川県 山手駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,山手,神奈川-0191,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-12,神奈川,神奈川県 厚木駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,厚木,神奈川-0206,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-13,神奈川,神奈川県 二俣川駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,二俣川,神奈川-0223,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-14,神奈川,神奈川県 座間駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,座間,神奈川-0238,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-15,神奈川,神奈川県 生麦駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,生麦,神奈川-0253,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-16,神奈川,神奈川県 つきみ野駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,つきみ野,神奈川-0271,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-17,神奈川,神奈川県 小島新田駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,小島新田,神奈川-0288,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-18,神奈川,神奈川県 新川崎駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,新川崎,神奈川-0304,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-19,神奈川,神奈川県 南橋本駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,南橋本,神奈川-0320,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE17-20,神奈川,神奈川県 黒川駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,黒川,神奈川-0338,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-01,大阪,大阪府 鳥取ノ荘駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,鳥取ノ荘,大阪-0010,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-02,大阪,大阪府 関西空港駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,関西空港,大阪-0038,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-03,大阪,大阪府 泉大津駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,泉大津,大阪-0066,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-04,大阪,大阪府 船尾駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,船尾,大阪-0091,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-05,大阪,大阪府 恵我ノ荘駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,恵我ノ荘,大阪-0114,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-06,大阪,大阪府 法善寺駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,法善寺,大阪-0139,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-07,大阪,大阪府 南港東駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,南港東,大阪-0162,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-08,大阪,大阪府 玉出駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,玉出,大阪-0185,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-09,大阪,大阪府 岸里駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,岸里,大阪-0208,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-10,大阪,大阪府 寺田町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,寺田町,大阪-0231,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-11,大阪,大阪府 小路駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,小路,大阪-0254,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-12,大阪,大阪府 ユニバーサルシティ駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,ユニバーサルシティ,大阪-0277,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-13,大阪,大阪府 吉田駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,吉田,大阪-0300,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-14,大阪,大阪府 徳庵駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,徳庵,大阪-0323,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-15,大阪,大阪府 扇町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,扇町,大阪-0346,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-16,大阪,大阪府 新森古市駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,新森古市,大阪-0368,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-17,大阪,大阪府 守口駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,守口,大阪-0392,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-18,大阪,大阪府 寝屋川市駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,寝屋川市,大阪-0416,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-19,大阪,大阪府 光善寺駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,光善寺,大阪-0442,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE18-20,大阪,大阪府 総持寺駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,総持寺,大阪-0468,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-01,愛知,愛知県 芦原駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,芦原,愛知-0010,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-02,愛知,愛知県 こどもの国駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,こどもの国,愛知-0039,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-03,愛知,愛知県 諏訪町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,諏訪町,愛知-0062,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-04,愛知,愛知県 東上駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,東上,愛知-0086,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-05,愛知,愛知県 三河東郷駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,三河東郷,愛知-0111,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-06,愛知,愛知県 東浦駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,東浦,愛知-0135,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-07,愛知,愛知県 緒川駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,緒川,愛知-0157,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-08,愛知,愛知県 三河八橋駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,三河八橋,愛知-0181,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-09,愛知,愛知県 大高駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,大高,愛知-0204,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-10,愛知,愛知県 荒子川公園駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,荒子川公園,愛知-0228,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-11,愛知,愛知県 赤池駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,赤池,愛知-0251,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-12,愛知,愛知県 瑞穂区役所駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,瑞穂区役所,愛知-0274,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-13,愛知,愛知県 御器所駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,御器所,愛知-0296,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-14,愛知,愛知県 中村公園駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,中村公園,愛知-0320,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-15,愛知,愛知県 自由ヶ丘駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,自由ヶ丘,愛知-0342,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-16,愛知,愛知県 名城公園駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,名城公園,愛知-0365,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-17,愛知,愛知県 六輪駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,六輪,愛知-0388,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-18,愛知,愛知県 丸渕駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,丸渕,愛知-0412,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-19,愛知,愛知県 大山寺駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,大山寺,愛知-0438,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE19-20,愛知,愛知県 奥町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,奥町,愛知-0463,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-01,兵庫,兵庫県 舞子公園駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,舞子公園,兵庫-0009,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-02,兵庫,兵庫県 和田岬駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,和田岬,兵庫-0031,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-03,兵庫,兵庫県 北埠頭駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,北埠頭,兵庫-0049,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-04,兵庫,兵庫県 西元町駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,西元町,兵庫-0065,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-05,兵庫,兵庫県 アイランド北口駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,アイランド北口,兵庫-0081,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-06,兵庫,兵庫県 東鳴尾駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,東鳴尾,兵庫-0102,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-07,兵庫,兵庫県 土山駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,土山,兵庫-0121,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-08,兵庫,兵庫県 今津駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,今津,兵庫-0137,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-09,兵庫,兵庫県 備前福河駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,備前福河,兵庫-0156,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-10,兵庫,兵庫県 谷上駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,谷上,兵庫-0174,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-11,兵庫,兵庫県 志染駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,志染,兵庫-0193,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-12,兵庫,兵庫県 恵比須駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,恵比須,兵庫-0209,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-13,兵庫,兵庫県 英賀保駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,英賀保,兵庫-0227,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-14,兵庫,兵庫県 雲雀丘花屋敷駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,雲雀丘花屋敷,兵庫-0246,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-15,兵庫,兵庫県 野里駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,野里,兵庫-0263,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-16,兵庫,兵庫県 一の鳥居駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,一の鳥居,兵庫-0279,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-17,兵庫,兵庫県 香呂駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,香呂,兵庫-0297,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-18,兵庫,兵庫県 甘地駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,甘地,兵庫-0316,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-19,兵庫,兵庫県 石井駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,石井,兵庫-0334,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE20-20,兵庫,兵庫県 コウノトリの郷駅 紅茶専門店 台湾茶専門店 日本茶専門店 中国茶 チャイ ハーブティー,コウノトリの郷,兵庫-0354,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-01,東京,東京都 東雲駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東雲,東京-0026,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-02,東京,東京都 乃木坂駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,乃木坂,東京-0061,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-03,東京,東京都 代々木駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,代々木,東京-0093,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-04,東京,東京都 神田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,神田,東京-0125,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-05,東京,東京都 本郷三丁目駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,本郷三丁目,東京-0156,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-06,東京,東京都 東池袋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東池袋,東京-0188,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-07,東京,東京都 上北台駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,上北台,東京-0221,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-08,東京,東京都 志茂駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,志茂,東京-0254,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-09,東京,東京都 玉川学園前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,玉川学園前,東京-0287,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-10,東京,東京都 九品仏駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,九品仏,東京-0318,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-11,東京,東京都 品川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,品川,東京-0349,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-12,東京,東京都 葛西臨海公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,葛西臨海公園,東京-0382,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-13,東京,東京都 駒場東大前駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,駒場東大前,東京-0415,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-14,東京,東京都 代田橋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,代田橋,東京-0447,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-15,東京,東京都 矢川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,矢川,東京-0477,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-16,東京,東京都 西立川駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西立川,東京-0511,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-17,東京,東京都 下井草駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,下井草,東京-0543,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-18,東京,東京都 田端駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,田端,東京-0577,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-19,東京,東京都 新柴又駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新柴又,東京-0613,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE21-20,東京,東京都 竹ノ塚駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,竹ノ塚,東京-0653,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-01,神奈川,神奈川県 桜木町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,桜木町,神奈川-0018,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-02,神奈川,神奈川県 センター北駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,センター北,神奈川-0036,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-03,神奈川,神奈川県 小涌谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小涌谷,神奈川-0055,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-04,神奈川,神奈川県 新大津駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新大津,神奈川-0071,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-05,神奈川,神奈川県 螢田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,螢田,神奈川-0087,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-06,神奈川,神奈川県 片瀬江ノ島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,片瀬江ノ島,神奈川-0107,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-07,神奈川,神奈川県 西鎌倉駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西鎌倉,神奈川-0123,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-08,神奈川,神奈川県 北茅ヶ崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,北茅ヶ崎,神奈川-0143,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-09,神奈川,神奈川県 善行駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,善行,神奈川-0160,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-10,神奈川,神奈川県 倉見駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,倉見,神奈川-0180,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-11,神奈川,神奈川県 東戸塚駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東戸塚,神奈川-0196,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-12,神奈川,神奈川県 桜ヶ丘駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,桜ヶ丘,神奈川-0211,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-13,神奈川,神奈川県 相模大塚駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,相模大塚,神奈川-0228,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-14,神奈川,神奈川県 海芝浦駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,海芝浦,神奈川-0243,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-15,神奈川,神奈川県 安善駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,安善,神奈川-0259,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-16,神奈川,神奈川県 下溝駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,下溝,神奈川-0276,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-17,神奈川,神奈川県 綱島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,綱島,神奈川-0293,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-18,神奈川,神奈川県 平間駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,平間,神奈川-0309,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-19,神奈川,神奈川県 柿生駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,柿生,神奈川-0325,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE22-20,神奈川,神奈川県 相模湖駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,相模湖,神奈川-0343,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-01,大阪,大阪府 水間観音駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,水間観音,大阪-0021,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-02,大阪,大阪府 久米田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,久米田,大阪-0050,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-03,大阪,大阪府 富木駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,富木,大阪-0075,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-04,大阪,大阪府 百舌鳥駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,百舌鳥,大阪-0098,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-05,大阪,大阪府 安堂駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,安堂,大阪-0123,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-06,大阪,大阪府 長原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,長原,大阪-0146,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-07,大阪,大阪府 帝塚山四丁目駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,帝塚山四丁目,大阪-0169,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-08,大阪,大阪府 新加美駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新加美,大阪-0192,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-09,大阪,大阪府 衣摺加美北駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,衣摺加美北,大阪-0215,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-10,大阪,大阪府 今宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,今宮,大阪-0238,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-11,大阪,大阪府 河内永和駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,河内永和,大阪-0262,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-12,大阪,大阪府 安治川口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,安治川口,大阪-0284,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-13,大阪,大阪府 西九条駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西九条,大阪-0307,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-14,大阪,大阪府 新福島駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新福島,大阪-0330,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-15,大阪,大阪府 大阪梅田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大阪梅田,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-16,大阪,大阪府 千林大宮駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,千林大宮,大阪-0376,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-17,大阪,大阪府 だいどう豊里駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,だいどう豊里,大阪-0400,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-18,大阪,大阪府 緑地公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,緑地公園,大阪-0424,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-19,大阪,大阪府 千里中央駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,千里中央,大阪-0452,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE23-20,大阪,大阪府 高槻市駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,高槻市,大阪-0477,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-01,愛知,愛知県 赤岩口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,赤岩口,愛知-0023,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-02,愛知,愛知県 小坂井駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,小坂井,愛知-0046,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-03,愛知,愛知県 国府駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,国府,愛知-0069,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-04,愛知,愛知県 野田城駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,野田城,愛知-0093,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-05,愛知,愛知県 美合駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,美合,愛知-0119,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-06,愛知,愛知県 中岡崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,中岡崎,愛知-0142,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-07,愛知,愛知県 南加木屋駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,南加木屋,愛知-0164,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-08,愛知,愛知県 東栄駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東栄,愛知-0188,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-09,愛知,愛知県 大同町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大同町,愛知-0211,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-10,愛知,愛知県 桜本町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,桜本町,愛知-0235,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-11,愛知,愛知県 米野木駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,米野木,愛知-0258,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-12,愛知,愛知県 八事駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,八事,愛知-0281,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-13,愛知,愛知県 篠原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,篠原,愛知-0303,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-14,愛知,愛知県 千種駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,千種,愛知-0327,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-15,愛知,愛知県 愛・地球博記念公園駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,愛・地球博記念公園,愛知-0349,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-16,愛知,愛知県 木田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,木田,愛知-0373,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-17,愛知,愛知県 新守山駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,新守山,愛知-0395,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-18,愛知,愛知県 大里駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大里,愛知-0421,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-19,愛知,愛知県 萩原駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,萩原,愛知-0445,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE24-20,愛知,愛知県 黒田駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,黒田,愛知-0471,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-01,兵庫,兵庫県 大蔵谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,大蔵谷,兵庫-0017,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-02,兵庫,兵庫県 市民広場駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,市民広場,兵庫-0038,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-03,兵庫,兵庫県 ハーバーランド駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,ハーバーランド,兵庫-0054,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-04,兵庫,兵庫県 みなと元町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,みなと元町,兵庫-0070,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-05,兵庫,兵庫県 春日野道駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,春日野道,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-06,兵庫,兵庫県 青木駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,青木,兵庫-0109,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-07,兵庫,兵庫県 西鈴蘭台駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,西鈴蘭台,兵庫-0126,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-08,兵庫,兵庫県 六甲ケーブル下駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,六甲ケーブル下,兵庫-0143,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-09,兵庫,兵庫県 塚口駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,塚口,,ambiguous_same_station_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-10,兵庫,兵庫県 坂越駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,坂越,兵庫-0181,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-11,兵庫,兵庫県 山陽網干駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,山陽網干,兵庫-0198,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-12,兵庫,兵庫県 三木上の丸駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,三木上の丸,兵庫-0215,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-13,兵庫,兵庫県 手柄駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,手柄,兵庫-0234,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-14,兵庫,兵庫県 田尾寺駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,田尾寺,兵庫-0252,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-15,兵庫,兵庫県 網引駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,網引,兵庫-0268,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-16,兵庫,兵庫県 東觜崎駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,東觜崎,兵庫-0285,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-17,兵庫,兵庫県 北条町駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,北条町,兵庫-0303,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-18,兵庫,兵庫県 古市駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,古市,兵庫-0322,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-19,兵庫,兵庫県 生野駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,生野,兵庫-0340,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
+LIVE25-20,兵庫,兵庫県 久谷駅 紅茶 日本茶 台湾茶 中国茶 チャイ ハーブティー 専門店,久谷,兵庫-0360,matched_exact_name,2026-10-25,web.fast,YES_KEYWORDS_IN_ONE_QUERY_ONLY,YES
