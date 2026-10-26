@@ -1,0 +1,33 @@
+name: Tea stations OSM research checkpoints
+on:
+  push:
+    branches:
+      - research/tea-station-discovery-5pref-20261027
+    paths:
+      - 'research/station-discovery/2026-10-27/run_osm_prescreen.py'
+      - '.github/workflows/tea-stations-research.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: tea-stations-research-20261027
+  cancel-in-progress: false
+jobs:
+  prescreen:
+    runs-on: ubuntu-latest
+    timeout-minutes: 350
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: research/tea-station-discovery-5pref-20261027
+          persist-credentials: true
+      - name: Configure commit identity
+        run: |
+          git config user.name "tea-map-research-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+      - name: Run 200-station checkpointed OSM candidate scan
+        run: python3 research/station-discovery/2026-10-27/run_osm_prescreen.py
+      - name: Summarize limitation
+        if: always()
+        run: |
+          echo "This is a provisional OSM-only candidate scan, not completed station-by-station Web or Instagram verification." >> "$GITHUB_STEP_SUMMARY"
