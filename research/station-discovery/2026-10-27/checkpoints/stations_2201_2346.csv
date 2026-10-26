@@ -1,0 +1,147 @@
+station_queue_id,prefecture,station_name,source_version,prior_search_status,matched_current_group_queries,current_group_query_count,search_status_now,independent_station_by_station_search,all_six_genres_searched,station_keyword_candidate_count,note,independent_new_query_count,independent_new_query_refs,final_status,additional_60_query_count,all_new_individual_queries,additional_100_query_count,new_300_query_count,additional_100_round2_queries,new_400_query_count,additional_100_round3_queries,new_500_query_count
+兵庫-0221,兵庫,五社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0222,兵庫,大村,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0223,兵庫,はりま勝原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-13,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0224,兵庫,亀山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0225,兵庫,宝塚,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-06|GROUP-兵庫-16,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE07-06,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0226,兵庫,清荒神,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-16,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0227,兵庫,英賀保,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0228,兵庫,網干,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-13,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE07-07,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0229,兵庫,売布神社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0230,兵庫,中山寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0231,兵庫,御着,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0232,兵庫,相生,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-15,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0233,兵庫,市場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0234,兵庫,手柄,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0235,兵庫,生瀬,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0236,兵庫,中山観音,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0237,兵庫,樫山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0238,兵庫,岡場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0239,兵庫,山本,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0240,兵庫,東姫路,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0241,兵庫,市場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0242,兵庫,川西池田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0243,兵庫,竜野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0244,兵庫,西宮名塩,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0245,兵庫,姫路,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-03,1,partial_keyword_group_search,NO,NO,2,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0246,兵庫,雲雀丘花屋敷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0247,兵庫,川西能勢口,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-06|GROUP-兵庫-16,2,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0248,兵庫,山陽姫路,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0249,兵庫,有年,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0250,兵庫,小野町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0251,兵庫,絹延橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0252,兵庫,田尾寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0253,兵庫,京口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0254,兵庫,播磨高岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0255,兵庫,滝山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0256,兵庫,小野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0257,兵庫,鴬の森,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0258,兵庫,二郎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0259,兵庫,葉多,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0260,兵庫,鼓滝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0261,兵庫,武田尾,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0262,兵庫,道場南口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0263,兵庫,野里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0264,兵庫,余部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0265,兵庫,粟生,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0266,兵庫,多田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0267,兵庫,本竜野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0268,兵庫,網引,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0269,兵庫,太市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0270,兵庫,田原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0271,兵庫,上郡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0272,兵庫,神鉄道場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0273,兵庫,砥堀,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0274,兵庫,道場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0275,兵庫,平野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0276,兵庫,法華口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0277,兵庫,横山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0278,兵庫,河合西,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0279,兵庫,一の鳥居,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0280,兵庫,三田本町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0281,兵庫,畦野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0282,兵庫,仁豊野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0283,兵庫,フラワータウン,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-19,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0284,兵庫,播磨下里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0285,兵庫,東觜崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0286,兵庫,三田,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-07|GROUP-兵庫-19,2,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,1,LIVE07-05,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0287,兵庫,山下,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0288,兵庫,笹部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0289,兵庫,苔縄,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0290,兵庫,長,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0291,兵庫,青野ヶ原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0292,兵庫,南ウッディタウン,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0293,兵庫,日生中央,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0294,兵庫,ウッディタウン中央,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-19,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0295,兵庫,新三田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0296,兵庫,播磨横田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0297,兵庫,香呂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0298,兵庫,河野原円心,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0299,兵庫,社町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0300,兵庫,播磨新宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0301,兵庫,溝口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0302,兵庫,広野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0303,兵庫,北条町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0304,兵庫,滝野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0305,兵庫,千本,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0306,兵庫,相野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0307,兵庫,滝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0308,兵庫,西栗栖,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0309,兵庫,久崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0310,兵庫,福崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0311,兵庫,西脇市,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-兵庫-21,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0312,兵庫,藍本,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0313,兵庫,新西脇,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0314,兵庫,上月,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0315,兵庫,三日月,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0316,兵庫,甘地,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0317,兵庫,比延,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0318,兵庫,播磨徳久,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0319,兵庫,草野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0320,兵庫,日本へそ公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-21,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0321,兵庫,佐用,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0322,兵庫,古市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0323,兵庫,黒田庄,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-21,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0324,兵庫,鶴居,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0325,兵庫,南矢代,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0326,兵庫,平福,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0327,兵庫,新野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0328,兵庫,本黒田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0329,兵庫,篠山口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-10|GROUP-兵庫-17,2,partial_keyword_group_search,NO,NO,2,Group query is not exhaustive; result omissions are possible,1,LIVE03-13,partial_individual_keyword_search,1,2,0,2,0,2,0,2
+兵庫-0330,兵庫,船町口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0331,兵庫,寺前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0332,兵庫,丹波大山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-17,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0333,兵庫,久下村,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0334,兵庫,石井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0335,兵庫,谷川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-17|GROUP-兵庫-21,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0336,兵庫,下滝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0337,兵庫,長谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0338,兵庫,柏原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-10|GROUP-兵庫-17,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0339,兵庫,石生,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE07-03,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0340,兵庫,生野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0341,兵庫,黒井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0342,兵庫,市島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0343,兵庫,新井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0344,兵庫,丹波竹田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0345,兵庫,青倉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0346,兵庫,竹田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0347,兵庫,梁瀬,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0348,兵庫,和田山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE07-04,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0349,兵庫,養父,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+兵庫-0350,兵庫,八鹿,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0351,兵庫,江原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0352,兵庫,国府,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0353,兵庫,豊岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-09|GROUP-兵庫-18,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE03-12,partial_individual_keyword_search,1,2,0,2,0,2,0,2
+兵庫-0354,兵庫,コウノトリの郷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0355,兵庫,玄武洞,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0356,兵庫,居組,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0357,兵庫,諸寄,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0358,兵庫,浜坂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-09|GROUP-兵庫-18,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0359,兵庫,城崎温泉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-09|GROUP-兵庫-18,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE03-14,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0360,兵庫,久谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0361,兵庫,香住,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-09|GROUP-兵庫-18,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0362,兵庫,柴山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0363,兵庫,餘部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0364,兵庫,竹野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0365,兵庫,鎧,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0366,兵庫,佐津,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
