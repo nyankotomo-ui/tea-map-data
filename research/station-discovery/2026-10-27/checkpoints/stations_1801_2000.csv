@@ -1,0 +1,201 @@
+station_queue_id,prefecture,station_name,source_version,prior_search_status,matched_current_group_queries,current_group_query_count,search_status_now,independent_station_by_station_search,all_six_genres_searched,station_keyword_candidate_count,note,independent_new_query_count,independent_new_query_refs,final_status,additional_60_query_count,all_new_individual_queries,additional_100_query_count,new_300_query_count,additional_100_round2_queries,new_400_query_count,additional_100_round3_queries,new_500_query_count
+愛知-0301,愛知,烏森,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0302,愛知,名古屋大学,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0303,愛知,篠原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0304,愛知,黄金,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0305,愛知,鶴舞,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0306,愛知,上前津,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0307,愛知,岩塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0308,愛知,吹上,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0309,愛知,東山公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0310,愛知,米野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0311,愛知,ささしまライブ,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0312,愛知,大須観音,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+愛知-0313,愛知,星ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+愛知-0314,愛知,本山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0315,愛知,矢場町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0316,愛知,日比野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0317,愛知,覚王山,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-01,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0318,愛知,太閤通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0319,愛知,池下,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0320,愛知,中村公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0321,愛知,一社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0322,愛知,近鉄名古屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0323,愛知,伏見,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-01,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0324,愛知,今池,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0325,愛知,栄,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-01,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0326,愛知,栄町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0327,愛知,千種,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0328,愛知,名鉄名古屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0329,愛知,新栄町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0330,愛知,名古屋,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-01,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0331,愛知,長久手古戦場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0332,愛知,杁ヶ池公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0333,愛知,芸大通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0334,愛知,国際センター,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0335,愛知,中村日赤,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0336,愛知,上社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0337,愛知,車道,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0338,愛知,丸の内,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0339,愛知,久屋大通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0340,愛知,高岳,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0341,愛知,公園西,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0342,愛知,自由ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0343,愛知,本郷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0344,愛知,八草,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0345,愛知,本陣,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0346,愛知,はなみずき通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0347,愛知,亀島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0348,愛知,津島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0349,愛知,愛・地球博記念公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0350,愛知,陶磁資料館南,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0351,愛知,名古屋城,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0352,愛知,藤が丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0353,愛知,浅間町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0354,愛知,東大手,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0355,愛知,栄生,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0356,愛知,茶屋ヶ坂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0357,愛知,清水,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0358,愛知,尼ヶ坂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0359,愛知,森下,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0360,愛知,砂田橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0361,愛知,藤浪,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0362,愛知,東枇杷島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0363,愛知,ナゴヤドーム前矢田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0364,愛知,町方,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0365,愛知,名城公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0366,愛知,ナゴヤドーム前矢田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0367,愛知,浄心,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0368,愛知,大曽根,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0369,愛知,矢田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0370,愛知,二ツ杁,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0371,愛知,新川橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0372,愛知,西枇杷島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0373,愛知,木田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0374,愛知,平安通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0375,愛知,勝幡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0376,愛知,七宝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0377,愛知,甚目寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0378,愛知,守山自衛隊前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0379,愛知,志賀本通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0380,愛知,黒川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0381,愛知,瓢箪山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0382,愛知,守山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0383,愛知,山口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0384,愛知,須ヶ口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0385,愛知,青塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0386,愛知,枇杷島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0387,愛知,小幡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0388,愛知,六輪,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0389,愛知,下小田井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0390,愛知,上飯田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0391,愛知,金屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0392,愛知,庄内通,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0393,愛知,丸ノ内,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0394,愛知,喜多山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0395,愛知,新守山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0396,愛知,瀬戸口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0397,愛知,大森・金城学院前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0398,愛知,川宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0399,愛知,印場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-02,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0400,愛知,新清洲,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0401,愛知,尾張星の宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0402,愛知,渕高,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0403,愛知,旭前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0404,愛知,川村,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0405,愛知,庄内緑地公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0406,愛知,中小田井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0407,愛知,白沢渓谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0408,愛知,三郷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0409,愛知,尾張旭,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-20,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+愛知-0410,愛知,小幡緑地,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0411,愛知,小田井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0412,愛知,丸渕,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0413,愛知,味鋺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0414,愛知,上小田井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0415,愛知,水野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0416,愛知,瀬戸市役所前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0417,愛知,尾張瀬戸,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0418,愛知,新瀬戸,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0419,愛知,清洲,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0420,愛知,瀬戸市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE05-19,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+愛知-0421,愛知,大里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0422,愛知,勝川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0423,愛知,比良,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0424,愛知,味美,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0425,愛知,上丸渕,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0426,愛知,奥田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0427,愛知,味美,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0428,愛知,春日井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0429,愛知,西春,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0430,愛知,森上,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0431,愛知,中水野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0432,愛知,春日井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0433,愛知,稲沢,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0434,愛知,国府宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0435,愛知,徳重・名古屋芸大,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0436,愛知,神領,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0437,愛知,山崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0438,愛知,大山寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0439,愛知,高蔵寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0440,愛知,牛山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0441,愛知,玉野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0442,愛知,島氏永,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0443,愛知,間内,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0444,愛知,定光寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0445,愛知,萩原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0446,愛知,岩倉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-06|GROUP-愛知-12,2,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0447,愛知,小牧口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0448,愛知,二子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0449,愛知,妙興寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0450,愛知,苅安賀,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0451,愛知,小牧,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-12,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0452,愛知,観音寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0453,愛知,石仏,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0454,愛知,小牧原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0455,愛知,名鉄一宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+愛知-0456,愛知,尾張一宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0457,愛知,西一宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0458,愛知,味岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0459,愛知,田県神社前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0460,愛知,布袋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0461,愛知,今伊勢,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0462,愛知,開明,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0463,愛知,奥町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+愛知-0464,愛知,石刀,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0465,愛知,楽田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0466,愛知,玉ノ井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0467,愛知,江南,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-17,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+愛知-0468,愛知,新木曽川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0469,愛知,柏森,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-愛知-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+愛知-0470,愛知,木曽川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0471,愛知,黒田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+愛知-0472,愛知,羽黒,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+愛知-0473,愛知,扶桑,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0474,愛知,木曽川堤,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0475,愛知,木津用水,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0476,愛知,犬山口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0477,愛知,犬山,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-愛知-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-18,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+愛知-0478,愛知,富岡前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0479,愛知,犬山遊園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+愛知-0480,愛知,善師野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0001,兵庫,垂水,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0002,兵庫,山陽垂水,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0003,兵庫,東垂水,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-02,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0004,兵庫,霞ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0005,兵庫,滝の茶屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0006,兵庫,山陽塩屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0007,兵庫,塩屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-03,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0008,兵庫,舞子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-11,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,1,LIVE03-04,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0009,兵庫,舞子公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+兵庫-0010,兵庫,神戸空港,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0011,兵庫,須磨浦公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0012,兵庫,西舞子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-05,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0013,兵庫,須磨,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-兵庫-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+兵庫-0014,兵庫,山陽須磨,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0015,兵庫,朝霧,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-01,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0016,兵庫,須磨寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE03-06,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+兵庫-0017,兵庫,大蔵谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+兵庫-0018,兵庫,須磨海浜公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+兵庫-0019,兵庫,人丸前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+兵庫-0020,兵庫,山陽明石,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
