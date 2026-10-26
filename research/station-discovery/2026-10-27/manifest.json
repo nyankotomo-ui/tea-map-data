@@ -1,0 +1,38 @@
+{
+  "source": "https://raw.githubusercontent.com/eng213035/gachi-open-datasets/main/station-master/stations.csv",
+  "source_version": "2.1.2 (2026-07-31; N02-2024/ODPT)",
+  "source_license": "CC BY 4.0",
+  "scope": [
+    "東京",
+    "神奈川",
+    "大阪",
+    "愛知",
+    "兵庫"
+  ],
+  "station_count": 2346,
+  "batch_size": 200,
+  "completed_six_genre_web_station_count": 0,
+  "data_timestamp_jst": "2026-10-27T08:06:55+09:00",
+  "overpass_endpoints": {
+    "東京": "https://overpass-api.de/api/interpreter",
+    "神奈川": "https://overpass-api.de/api/interpreter",
+    "大阪": "https://overpass-api.de/api/interpreter",
+    "愛知": "https://overpass-api.de/api/interpreter",
+    "兵庫": ""
+  },
+  "errors": {
+    "東京": [],
+    "神奈川": [
+      "https://overpass-api.de/api/interpreter attempt 1: HTTP Error 502: Bad Gateway"
+    ],
+    "大阪": [],
+    "愛知": [],
+    "兵庫": [
+      "https://overpass-api.de/api/interpreter attempt 1: HTTP Error 502: Bad Gateway",
+      "https://overpass-api.de/api/interpreter attempt 2: HTTP Error 502: Bad Gateway",
+      "https://overpass.private.coffee/api/interpreter attempt 1: The read operation timed out",
+      "https://overpass.private.coffee/api/interpreter attempt 2: HTTP Error 504: Gateway Timeout"
+    ]
+  },
+  "meaning": "OSM candidate prescreen only, NOT complete tea shop web+Instagram exploration"
+}
