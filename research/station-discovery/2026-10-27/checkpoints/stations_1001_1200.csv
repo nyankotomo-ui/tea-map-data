@@ -1,0 +1,201 @@
+station_queue_id,prefecture,station_name,source_version,prior_search_status,matched_current_group_queries,current_group_query_count,search_status_now,independent_station_by_station_search,all_six_genres_searched,station_keyword_candidate_count,note,independent_new_query_count,independent_new_query_refs,final_status,additional_60_query_count,all_new_individual_queries,additional_100_query_count,new_300_query_count,additional_100_round2_queries,new_400_query_count,additional_100_round3_queries,new_500_query_count
+神奈川-0337,神奈川,久地,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0338,神奈川,黒川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0339,神奈川,読売ランド前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0340,神奈川,生田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0341,神奈川,宿河原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0342,神奈川,藤野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0343,神奈川,相模湖,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0344,神奈川,向ヶ丘遊園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE07-18,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0345,神奈川,はるひ野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0346,神奈川,若葉台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0347,神奈川,登戸,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0348,神奈川,中野島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0349,神奈川,稲田堤,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0350,神奈川,京王稲田堤,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0001,大阪,孝子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-01,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0002,大阪,多奈川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0003,大阪,深日港,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0004,大阪,深日町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0005,大阪,みさき公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-02,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0006,大阪,山中渓,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0007,大阪,淡輪,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0008,大阪,箱作,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0009,大阪,和泉鳥取,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0010,大阪,鳥取ノ荘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0011,大阪,尾崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,2,LIVE02-03;LIVE05-10,partial_individual_keyword_search,0,2,0,2,0,2,0,2
+大阪-0012,大阪,和泉砂川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-04,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0013,大阪,新家,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0014,大阪,樽井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0015,大阪,長滝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0016,大阪,岡田浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0017,大阪,日根野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-05,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0018,大阪,吉見ノ里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0019,大阪,天見,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0020,大阪,羽倉崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0021,大阪,水間観音,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0022,大阪,三ヶ山口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0023,大阪,熊取,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-06,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0024,大阪,りんくうタウン,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-05,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0025,大阪,三ツ松,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0026,大阪,千早口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0027,大阪,泉佐野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-05,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-01,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0028,大阪,森,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0029,大阪,東佐野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0030,大阪,井原里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0031,大阪,名越,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0032,大阪,美加の台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0033,大阪,清児,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0034,大阪,鶴原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0035,大阪,和泉橋本,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0036,大阪,石才,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0037,大阪,二色浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0038,大阪,関西空港,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0039,大阪,三日市町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0040,大阪,近義の里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0041,大阪,東貝塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0042,大阪,貝塚市役所前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0043,大阪,貝塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE02-07,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0044,大阪,東岸和田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0045,大阪,河内長野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,2,LIVE02-08;LIVE05-04,partial_individual_keyword_search,0,2,0,2,0,2,0,2
+大阪-0046,大阪,蛸地蔵,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0047,大阪,下松,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0048,大阪,岸和田,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-大阪-05,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-02,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0049,大阪,和泉中央,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+大阪-0050,大阪,久米田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0051,大阪,汐ノ宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0052,大阪,和泉大宮,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0053,大阪,千代田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0054,大阪,光明池,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0055,大阪,春木,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0056,大阪,滝谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0057,大阪,滝谷不動,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0058,大阪,栂・美木多,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0059,大阪,和泉府中,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-05,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0060,大阪,忠岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0061,大阪,川西,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0062,大阪,金剛,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0063,大阪,泉ケ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+大阪-0064,大阪,信太山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0065,大阪,富田林西口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0066,大阪,泉大津,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0067,大阪,富田林,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-07,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,1,LIVE05-09,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0068,大阪,大阪狭山市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0069,大阪,松ノ浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0070,大阪,北信太,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0071,大阪,北助松,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0072,大阪,狭山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0073,大阪,高石,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0074,大阪,喜志,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0075,大阪,富木,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0076,大阪,北野田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE05-03,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0077,大阪,高師浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0078,大阪,伽羅橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0079,大阪,深井,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0080,大阪,鳳,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0081,大阪,上ノ太子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0082,大阪,羽衣,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0083,大阪,東羽衣,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0084,大阪,萩原天神,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0085,大阪,浜寺公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-11,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0086,大阪,浜寺駅前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0087,大阪,津久野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0088,大阪,初芝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0089,大阪,駒ヶ谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0090,大阪,上野芝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0091,大阪,船尾,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0092,大阪,白鷺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0093,大阪,諏訪ノ森,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0094,大阪,古市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0095,大阪,石津,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0096,大阪,大阪教育大前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0097,大阪,中百舌鳥,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0098,大阪,百舌鳥,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0099,大阪,石津川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0100,大阪,石津北,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0101,大阪,百舌鳥八幡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0102,大阪,東湊,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0103,大阪,三国ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0104,大阪,河内国分,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0105,大阪,新金岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0106,大阪,道明寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0107,大阪,湊,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0108,大阪,御陵前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0109,大阪,高鷲,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0110,大阪,藤井寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0111,大阪,高井田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0112,大阪,土師ノ里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0113,大阪,寺地町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0114,大阪,恵我ノ荘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0115,大阪,河内堅上,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0116,大阪,高見ノ里,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0117,大阪,河内松原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+大阪-0118,大阪,宿院,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0119,大阪,堺東,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE02-09,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+大阪-0120,大阪,堺市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0121,大阪,布忍,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0122,大阪,大小路,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0123,大阪,安堂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0124,大阪,柏原南口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0125,大阪,堺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0126,大阪,北花田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0127,大阪,花田口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0128,大阪,妙国寺前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0129,大阪,浅香,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0130,大阪,神明町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0131,大阪,河内天美,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0132,大阪,柏原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0133,大阪,堅下,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0134,大阪,綾ノ町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0135,大阪,浅香山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0136,大阪,高須神社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0137,大阪,七道,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0138,大阪,杉本町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0139,大阪,法善寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0140,大阪,大和川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0141,大阪,八尾南,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0142,大阪,我孫子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0143,大阪,我孫子道,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0144,大阪,我孫子前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0145,大阪,志紀,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0146,大阪,長原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0147,大阪,我孫子町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0148,大阪,住ノ江,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0149,大阪,安立町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0150,大阪,矢田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0151,大阪,沢ノ町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0152,大阪,出戸,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0153,大阪,喜連瓜破,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0154,大阪,住之江公園,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0155,大阪,恩智,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0156,大阪,細井川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0157,大阪,平林,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0158,大阪,長居,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-大阪-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0159,大阪,住吉鳥居前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0160,大阪,住吉東,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0161,大阪,住吉大社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0162,大阪,南港東,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0163,大阪,南港口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0164,大阪,高安山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0165,大阪,住吉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0166,大阪,神ノ木,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0167,大阪,針中野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0168,大阪,八尾,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-大阪-08,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+大阪-0169,大阪,帝塚山四丁目,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+大阪-0170,大阪,東粉浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+大阪-0171,大阪,鶴ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0172,大阪,高安,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0173,大阪,粉浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0174,大阪,フェリーターミナル,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0175,大阪,信貴山口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0176,大阪,帝塚山三丁目,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0177,大阪,平野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0178,大阪,帝塚山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0179,大阪,北加賀屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0180,大阪,駒川中野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0181,大阪,西田辺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0182,大阪,久宝寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0183,大阪,塚西,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0184,大阪,姫松,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+大阪-0185,大阪,玉出,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+大阪-0186,大阪,南田辺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
