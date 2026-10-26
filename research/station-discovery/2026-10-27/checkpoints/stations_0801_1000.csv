@@ -1,0 +1,201 @@
+station_queue_id,prefecture,station_name,source_version,prior_search_status,matched_current_group_queries,current_group_query_count,search_status_now,independent_station_by_station_search,all_six_genres_searched,station_keyword_candidate_count,note,independent_new_query_count,independent_new_query_refs,final_status,additional_60_query_count,all_new_individual_queries,additional_100_query_count,new_300_query_count,additional_100_round2_queries,new_400_query_count,additional_100_round3_queries,new_500_query_count
+神奈川-0137,神奈川,相模金子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0138,神奈川,海の公園南口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0139,神奈川,辻堂,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-02,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0140,神奈川,湘南町屋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0141,神奈川,藤沢,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-神奈川-02,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0142,神奈川,北鎌倉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-04,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0143,神奈川,北茅ヶ崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0144,神奈川,八景島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0145,神奈川,海の公園柴口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0146,神奈川,金沢文庫,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-08,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0147,神奈川,市大医学部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0148,神奈川,新松田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0149,神奈川,富士見町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0150,神奈川,松田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0151,神奈川,藤沢本町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0152,神奈川,福浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0153,神奈川,産業振興センター,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0154,神奈川,大船,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-04,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0155,神奈川,香川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0156,神奈川,東山北,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0157,神奈川,幸浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0158,神奈川,能見台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-08,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0159,神奈川,山北,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-12,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0160,神奈川,善行,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0161,神奈川,並木中央,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0162,神奈川,谷峨,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0163,神奈川,京急富岡,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0164,神奈川,本郷台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE06-13,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0165,神奈川,寒川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE04-15,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0166,神奈川,秦野,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-神奈川-09,1,partial_keyword_group_search,NO,NO,2,Group query is not exhaustive; result omissions are possible,1,LIVE07-19,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0167,神奈川,並木北,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0168,神奈川,東海大学前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0169,神奈川,渋沢,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-09,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0170,神奈川,港南台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0171,神奈川,鳥浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0172,神奈川,洋光台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0173,神奈川,南部市場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0174,神奈川,鶴巻温泉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-12,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE04-13,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0175,神奈川,宮山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0176,神奈川,六会日大前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0177,神奈川,杉田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0178,神奈川,新杉田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE07-20,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0179,神奈川,屏風浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0180,神奈川,倉見,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0181,神奈川,伊勢原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE04-12,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0182,神奈川,磯子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0183,神奈川,ゆめが丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0184,神奈川,門沢橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0185,神奈川,長後,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0186,神奈川,根岸,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0187,神奈川,いずみ中央,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0188,神奈川,愛甲石田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0189,神奈川,社家,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0190,神奈川,弘明寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0191,神奈川,山手,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0192,神奈川,大山ケーブル,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0193,神奈川,いずみ野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0194,神奈川,大山寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0195,神奈川,弥生台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0196,神奈川,東戸塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0197,神奈川,阿夫利神社,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0198,神奈川,高座渋谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0199,神奈川,井土ヶ谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0200,神奈川,南太田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0201,神奈川,石川町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0202,神奈川,緑園都市,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0203,神奈川,黄金町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0204,神奈川,本厚木,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0205,神奈川,元町・中華街,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,2,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+神奈川-0206,神奈川,厚木,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0207,神奈川,日ノ出町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0208,神奈川,日本大通り,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0209,神奈川,保土ヶ谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0210,神奈川,馬車道,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0211,神奈川,桜ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0212,神奈川,南万騎が原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0213,神奈川,海老名,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-06,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE06-11,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0214,神奈川,天王町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0215,神奈川,西横浜,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0216,神奈川,みなとみらい,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0217,神奈川,戸部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0218,神奈川,星川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0219,神奈川,平沼橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0220,神奈川,希望ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0221,神奈川,新高島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0222,神奈川,和田町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0223,神奈川,二俣川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0224,神奈川,上星川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0225,神奈川,かしわ台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0226,神奈川,三ツ境,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0227,神奈川,大和,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0228,神奈川,相模大塚,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0229,神奈川,瀬谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0230,神奈川,神奈川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0231,神奈川,さがみ野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0232,神奈川,反町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0233,神奈川,鶴ヶ峰,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0234,神奈川,東神奈川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0235,神奈川,京急東神奈川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0236,神奈川,西谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0237,神奈川,入谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0238,神奈川,座間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0239,神奈川,羽沢横浜国大,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0240,神奈川,神奈川新町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0241,神奈川,東白楽,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0242,神奈川,子安,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0243,神奈川,海芝浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0244,神奈川,新子安,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0245,神奈川,京急新子安,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0246,神奈川,白楽,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0247,神奈川,鶴間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0248,神奈川,相武台下,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0249,神奈川,新芝浦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0250,神奈川,大口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0251,神奈川,弁天橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0252,神奈川,大川,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0253,神奈川,生麦,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0254,神奈川,南林間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0255,神奈川,鶴見小野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0256,神奈川,浅野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0257,神奈川,相武台前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE07-17,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0258,神奈川,妙蓮寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0259,神奈川,安善,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0260,神奈川,花月総持寺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0261,神奈川,国道,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0262,神奈川,扇町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0263,神奈川,武蔵白石,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0264,神奈川,京急鶴見,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0265,神奈川,昭和,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0266,神奈川,鶴見,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,1,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0267,神奈川,中央林間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0268,神奈川,小机,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0269,神奈川,浜川崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0270,神奈川,菊名,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0271,神奈川,つきみ野,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0272,神奈川,鴨居,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0273,神奈川,小田栄,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0274,神奈川,小田急相模原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0275,神奈川,鶴見市場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0276,神奈川,下溝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0277,神奈川,川崎新町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0278,神奈川,東林間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0279,神奈川,大倉山,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+神奈川-0280,神奈川,八丁畷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0281,神奈川,十日市場,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0282,神奈川,原当麻,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0283,神奈川,尻手,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0284,神奈川,川崎,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+神奈川-0285,神奈川,長津田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0286,神奈川,相模大野,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-神奈川-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE06-18,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0287,神奈川,京急川崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0288,神奈川,小島新田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0289,神奈川,港町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0290,神奈川,鈴木町,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0291,神奈川,川崎大師,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0292,神奈川,田奈,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0293,神奈川,綱島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0294,神奈川,東門前,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0295,神奈川,大師橋,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0296,神奈川,新綱島,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0297,神奈川,矢向,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0298,神奈川,青葉台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0299,神奈川,藤が丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0300,神奈川,番田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0301,神奈川,恩田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0302,神奈川,市が尾,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0303,神奈川,鹿島田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0304,神奈川,新川崎,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0305,神奈川,古淵,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-10,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0306,神奈川,上溝,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0307,神奈川,江田,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0308,神奈川,こどもの国,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0309,神奈川,平間,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0310,神奈川,元住吉,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,1,1,0,1,0,1,0,1
+神奈川-0311,神奈川,淵野辺,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0312,神奈川,向河原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0313,神奈川,矢部,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0314,神奈川,武蔵小杉,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+神奈川-0315,神奈川,武蔵小杉,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,,0,partial_prior_search,NO,NO,0,,0,,partial_prior_search,0,0,0,0,0,0,0,0
+神奈川-0316,神奈川,たまプラーザ,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0317,神奈川,鷺沼,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0318,神奈川,新丸子,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0319,神奈川,武蔵中原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0320,神奈川,南橋本,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,0,0,1,1,0,1
+神奈川-0321,神奈川,相模原,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0322,神奈川,宮前平,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0323,神奈川,宮崎台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0324,神奈川,武蔵新城,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0325,神奈川,柿生,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_individual_keyword_search,0,0,0,0,0,0,1,1
+神奈川-0326,神奈川,梶が谷,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,partial_individual_keyword_search,0,0,1,1,0,1,0,1
+神奈川-0327,神奈川,橋本,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-神奈川-10,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,1,LIVE04-16,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0328,神奈川,武蔵溝ノ口,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0329,神奈川,溝の口,v2.1.2 (2026-07-31; N02-2024/ODPT),partial,GROUP-神奈川-03,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
+神奈川-0330,神奈川,五月台,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0331,神奈川,高津,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0332,神奈川,津田山,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,1,LIVE06-16,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0333,神奈川,新百合ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-07,1,partial_keyword_group_search,NO,NO,1,Group query is not exhaustive; result omissions are possible,1,LIVE06-17,partial_individual_keyword_search,0,1,0,1,0,1,0,1
+神奈川-0334,神奈川,栗平,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0335,神奈川,二子新地,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,,0,unsearched,NO,NO,0,,0,,unsearched,0,0,0,0,0,0,0,0
+神奈川-0336,神奈川,百合ヶ丘,v2.1.2 (2026-07-31; N02-2024/ODPT),pending,GROUP-神奈川-07,1,partial_keyword_group_search,NO,NO,0,Group query is not exhaustive; result omissions are possible,0,,partial_keyword_group_search,0,0,0,0,0,0,0,0
