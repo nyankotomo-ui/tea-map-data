@@ -1,0 +1,11 @@
+{
+  "batch_number": 8,
+  "station_start": 1401,
+  "station_end": 1600,
+  "station_count": 200,
+  "osm_prescreened": 194,
+  "blocked": 6,
+  "osm_leads": 270,
+  "fully_web_verified_stations": 0,
+  "warning": "Not evidence of exhaustive tea-genre/Instagram search"
+}
