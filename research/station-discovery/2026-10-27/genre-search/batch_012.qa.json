@@ -1,0 +1,48 @@
+{
+  "batch": "queue 2201-2346",
+  "checked_on": "2026-10-28",
+  "station_rows": 146,
+  "distinct_station_queue_ids": 146,
+  "expected_station_ids": 146,
+  "distinct_station_names": 145,
+  "query_groups": 37,
+  "query_phrase_count": 145,
+  "distinct_query_strings": 145,
+  "station_name_queries_missing_from_log": [],
+  "candidate_relation_rows": 1,
+  "exact_queue_id_relations": 1,
+  "candidate_validation_errors": [],
+  "baseline_shop_count": 258,
+  "baseline_name_or_address_matches": {
+    "TEA HOUSE SARAH": "TSM-181"
+  },
+  "unconfirmed_search_result_leads": 60,
+  "prior_search_history_records_reused": 42,
+  "prior_shop_observations_reused": 6,
+  "query_coverage_note": "Station name + 紅茶 only; not exhaustive coverage for other selected genres.",
+  "canonical_or_release_changed": false,
+  "qa_pass": true,
+  "selected_genres": [
+    "black_tea",
+    "taiwanese_tea",
+    "chinese_tea",
+    "herbal",
+    "chai"
+  ],
+  "genre_search_coverage": {
+    "station_rows": 146,
+    "expected_station_genre_pairs": 730,
+    "covered_station_genre_pairs": 730,
+    "by_genre": {
+      "black_tea": 146,
+      "taiwanese_tea": 146,
+      "chinese_tea": 146,
+      "herbal": 146,
+      "chai": 146
+    },
+    "missing_pairs": 0,
+    "duplicate_pairs": 0,
+    "all_response_records_nonempty": true
+  },
+  "genre_search_log_rows": 147
+}
