@@ -1,0 +1,3 @@
+station_queue_id,shop_name,address,genre_codes,evidence_urls,evidence_basis,existing_baseline_shop_id,dedup_status
+大阪-0049,ルピシア ららぽーと和泉店,大阪府和泉市あゆみ野4-4-7 ららぽーと和泉2F,black_tea|taiwanese_tea|chinese_tea|herbal,https://mitsui-shopping-park.com/lalaport/izumi/shopguide/702077.html|https://mitsui-shopping-park.com/lalaport/izumi/access/train-bus.html,施設公式案内に現行テナント、商品分類（紅茶、台湾・中国烏龍茶、ハーブティー）を明記。施設公式アクセス案内で和泉中央駅からバス約15分を確認。,,No exact canonical-name match in 258-shop baseline; address-level equivalence not independently confirmed.
+大阪-0062,Rural Garden,大阪府富田林市津々山台3丁目10-13,black_tea,https://rural-garden.com/,運営者公式ページにティールーム、紅茶メニュー（ブラックティー等）、住所、営業日、金剛駅からバス＋徒歩のアクセスを掲載。,TSM-255,Existing baseline match: TSM-255
