@@ -1,0 +1,43 @@
+{
+  "batch": "Tokyo queue 201-400",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "search_query_count": 400,
+  "stations_not_having_exactly_two_queries": [],
+  "candidate_relation_rows": 59,
+  "distinct_candidate_names": 52,
+  "candidate_relations_without_source_url": [],
+  "candidate_relations_without_recorded_genre": [],
+  "genre_gaps_or_pending": [],
+  "unconfirmed_lead_rows": 212,
+  "limitations": [
+    "User-approved exact-term searches only (station name + 紅茶, station name + 台湾茶), not exhaustive query coverage of all five in-scope genres.",
+    "Candidate relations and repeated station associations are not counts of unique physical shops.",
+    "Some candidates rely on official facility or railway/local-commerce information rather than a shop-owned source; those cases are marked in evidence_basis.",
+    "No Canonical or public Release changes are included."
+  ],
+  "selected_genres": [
+    "black_tea",
+    "taiwanese_tea",
+    "chinese_tea",
+    "herbal",
+    "chai"
+  ],
+  "genre_search_coverage": {
+    "station_rows": 200,
+    "expected_station_genre_pairs": 1000,
+    "covered_station_genre_pairs": 1000,
+    "by_genre": {
+      "black_tea": 200,
+      "taiwanese_tea": 200,
+      "chinese_tea": 200,
+      "herbal": 200,
+      "chai": 200
+    },
+    "missing_pairs": 0,
+    "duplicate_pairs": 0,
+    "all_response_records_nonempty": true
+  },
+  "genre_search_log_rows": 151
+}
