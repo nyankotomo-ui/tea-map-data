@@ -1,0 +1,4 @@
+station_queue_id,station_name,shop_name,address,genre_codes,evidence_urls,evidence_basis,station_relation_status,possible_station_queue_ids,existing_baseline_shop_id,dedup_status
+愛知-0325,栄,TEAPOND 栄店,愛知県名古屋市中区錦3-25-1 HAERA B1F,black_tea,https://teapond.jp/pages/sakae,運営者公式ページが紅茶専門店・茶葉販売を明記し、住所と地下鉄栄駅直結を掲載。,verified_exact_station_by_owner_page,,TSM-102,Existing baseline match: TSM-102
+愛知-0330,名古屋,MLESNA TEA DAI NAGOYA & Tea Room,愛知県名古屋市中村区名駅3-28-12 大名古屋ビルヂング B1F,black_tea,https://annontea.com/shops.php|https://dainagoyabuilding.com/floor/cafe/689/,ブランド運営者公式店舗案内がムレスナティーの店舗住所・営業情報を掲載。施設公式ページが紅茶専門店と地下鉄名古屋駅から徒歩1分を掲載。,verified_exact_station_by_owner_page,,TSM-103,Existing baseline match: TSM-103
+愛知-0399,印場,TEAS Liyn-an,愛知県尾張旭市庄中町1-7-2,black_tea,https://liyn-an.com/info/access/|https://liyn-an.com/info/about-us/retail-2/,運営者公式ページが紅茶専門店・店頭での紅茶小売、住所と名鉄瀬戸線印場駅から徒歩7分を掲載。,verified_exact_station_by_owner_page,,TSM-195,Existing baseline match: TSM-195

@@ -9,14 +9,13 @@
   "query_phrase_count": 197,
   "distinct_query_strings": 197,
   "station_name_queries_missing_from_log": [],
-  "candidate_relation_rows": 4,
-  "exact_queue_id_relations": 4,
+  "candidate_relation_rows": 3,
+  "exact_queue_id_relations": 3,
   "candidate_validation_errors": [],
   "baseline_shop_count": 258,
   "baseline_name_or_address_matches": {
     "TEAPOND 栄店": "TSM-102",
     "MLESNA TEA DAI NAGOYA & Tea Room": "TSM-103",
-    "Asian tea salon 蓮庵": "TSM-104",
     "TEAS Liyn-an": "TSM-195"
   },
   "unconfirmed_search_result_leads": 110,
