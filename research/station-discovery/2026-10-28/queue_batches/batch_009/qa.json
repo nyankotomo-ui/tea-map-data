@@ -9,11 +9,13 @@
   "query_phrase_count": 199,
   "distinct_query_strings": 199,
   "station_name_queries_missing_from_log": [],
-  "candidate_relation_rows": 1,
-  "exact_queue_id_relations": 1,
+  "candidate_relation_rows": 2,
+  "exact_queue_id_relations": 2,
   "candidate_validation_errors": [],
   "baseline_shop_count": 258,
-  "baseline_name_or_address_matches": {},
+  "baseline_name_or_address_matches": {
+    "Asian tea salon 蓮庵": "TSM-104"
+  },
   "unconfirmed_search_result_leads": 79,
   "prior_search_history_records_reused": 31,
   "prior_shop_observations_reused": 6,
