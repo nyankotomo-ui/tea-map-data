@@ -1,0 +1,62 @@
+{
+  "batch": "queue 1201-1400",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "expected_station_ids": 200,
+  "query_groups": 100,
+  "query_phrase_count": 400,
+  "distinct_query_strings": 388,
+  "repeated_query_strings": {
+    "難波駅 紅茶": 2,
+    "難波駅 台湾茶": 2,
+    "今里駅 紅茶": 2,
+    "今里駅 台湾茶": 2,
+    "桜川駅 紅茶": 2,
+    "桜川駅 台湾茶": 2,
+    "野田駅 紅茶": 2,
+    "野田駅 台湾茶": 2,
+    "大阪梅田駅 紅茶": 2,
+    "大阪梅田駅 台湾茶": 2,
+    "中津駅 紅茶": 2,
+    "中津駅 台湾茶": 2
+  },
+  "stations_not_having_exactly_two_queries": [],
+  "candidate_relation_rows": 5,
+  "candidate_validation_errors": [],
+  "candidate_relations_without_source_url": [],
+  "candidate_relations_without_genre": [],
+  "unconfirmed_search_result_leads": 144,
+  "baseline_shop_count": 258,
+  "baseline_name_matches": {
+    "エイチアンドエフ ベルクス 天王寺MIO店": "TSM-141"
+  },
+  "prior_search_history_records_reused": 26,
+  "prior_shop_observations_reused": 11,
+  "query_coverage_note": "Only station name + 紅茶 and station name + 台湾茶; no exhaustive all-five-genre coverage.",
+  "canonical_or_release_changed": false,
+  "qa_pass": true,
+  "selected_genres": [
+    "black_tea",
+    "taiwanese_tea",
+    "chinese_tea",
+    "herbal",
+    "chai"
+  ],
+  "genre_search_coverage": {
+    "station_rows": 200,
+    "expected_station_genre_pairs": 1000,
+    "covered_station_genre_pairs": 1000,
+    "by_genre": {
+      "black_tea": 200,
+      "taiwanese_tea": 200,
+      "chinese_tea": 200,
+      "herbal": 200,
+      "chai": 200
+    },
+    "missing_pairs": 0,
+    "duplicate_pairs": 0,
+    "all_response_records_nonempty": true
+  },
+  "genre_search_log_rows": 151
+}
