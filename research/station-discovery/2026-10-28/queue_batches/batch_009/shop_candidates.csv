@@ -1,0 +1,2 @@
+station_queue_id,station_name,possible_station_queue_ids,shop_name,address,genre_codes,evidence_urls,evidence_basis,station_relation_status,existing_baseline_shop_id,dedup_status
+愛知-0119,美合,,紅茶の館 源,愛知県岡崎市美合町入込95-1,black_tea,https://tea-gen.com/|https://tea-gen.com/company/index.html|https://tea-gen.com/menu/index.html,運営者公式サイトに2026年の更新があり、公式店舗案内が住所・美合駅方面のアクセス・営業時間を掲載。公式メニューにセイロン、ダージリン等の紅茶を掲載。,verified_exact_station_by_owner_access_page,,No exact name/address match in the 258-shop baseline.
