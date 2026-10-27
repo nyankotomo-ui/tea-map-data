@@ -1,0 +1,47 @@
+{
+  "batch": "queue 601-800",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "expected_station_ids": 200,
+  "query_groups": 100,
+  "query_phrase_count": 400,
+  "unique_query_executions": 400,
+  "stations_not_having_exactly_two_queries": [],
+  "candidate_relation_rows": 6,
+  "candidate_relations_without_source_url": [],
+  "candidate_relations_without_genre": [],
+  "unconfirmed_search_result_leads": 247,
+  "baseline_shop_count": 258,
+  "baseline_name_matches": {
+    "和紅茶専門店 SANKODO": "TSM-018",
+    "紅茶専門店T78": "TSM-023"
+  },
+  "query_coverage_note": "Only approved terms station name + 紅茶 and station name + 台湾茶 were searched; these do not prove exhaustive coverage for Chinese tea, herbal tea, and chai.",
+  "canonical_or_release_changed": false,
+  "qa_pass": true,
+  "candidate_validation_errors": [],
+  "selected_genres": [
+    "black_tea",
+    "taiwanese_tea",
+    "chinese_tea",
+    "herbal",
+    "chai"
+  ],
+  "genre_search_coverage": {
+    "station_rows": 200,
+    "expected_station_genre_pairs": 1000,
+    "covered_station_genre_pairs": 1000,
+    "by_genre": {
+      "black_tea": 200,
+      "taiwanese_tea": 200,
+      "chinese_tea": 200,
+      "herbal": 200,
+      "chai": 200
+    },
+    "missing_pairs": 0,
+    "duplicate_pairs": 0,
+    "all_response_records_nonempty": true
+  },
+  "genre_search_log_rows": 151
+}
