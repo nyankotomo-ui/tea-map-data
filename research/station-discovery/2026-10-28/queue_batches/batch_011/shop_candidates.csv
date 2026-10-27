@@ -1,0 +1,4 @@
+station_queue_id,station_name,possible_station_queue_ids,shop_name,address,genre_codes,evidence_urls,evidence_basis,station_relation_status,existing_baseline_shop_id,dedup_status
+,三宮,,Lakshimi 神戸本店 ティーガーデン,兵庫県神戸市中央区中山手通2-4-8,black_tea,https://lakshimi.jp/shop/,運営者公式店舗案内が住所・紅茶販売・営業時間を掲載し、各線三宮駅西口から徒歩6〜7分と案内。台帳に複数の三宮表記があるため駅IDは特定せず。,station_name_verified_but_duplicate_queue_ids_unresolved,TSM-170,Existing baseline match: TSM-170
+兵庫-0184,新伊丹,,すこんてぃ,兵庫県伊丹市平松2-3-19 103号,black_tea,https://www.tea-a.gr.jp/shop/authentic/383/,日本紅茶協会の認定店ページが店舗名・住所・紅茶店の説明と阪急新伊丹駅徒歩6分を掲載。既存台帳TSM-210。,verified_exact_station_by_association_page,TSM-210,Existing baseline match: TSM-210
+兵庫-0173,甲陽園,,tea room IRiS,兵庫県西宮市五月ケ丘4-12,black_tea,https://www.tea-a.gr.jp/shop/eria/kinki-eria/page/4/,日本紅茶協会の認定店一覧が店名・住所と阪急甲陽園駅徒歩15分を掲載。既存台帳TSM-211。,verified_exact_station_by_association_page,TSM-211,Existing baseline match: TSM-211

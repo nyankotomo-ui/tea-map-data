@@ -1,0 +1,27 @@
+{
+  "batch": "queue 2001-2200",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "expected_station_ids": 200,
+  "distinct_station_names": 191,
+  "query_groups": 48,
+  "query_phrase_count": 191,
+  "distinct_query_strings": 191,
+  "station_name_queries_missing_from_log": [],
+  "candidate_relation_rows": 3,
+  "exact_queue_id_relations": 2,
+  "candidate_validation_errors": [],
+  "baseline_shop_count": 258,
+  "baseline_name_or_address_matches": {
+    "Lakshimi 神戸本店 ティーガーデン": "TSM-170",
+    "すこんてぃ": "TSM-210",
+    "tea room IRiS": "TSM-211"
+  },
+  "unconfirmed_search_result_leads": 117,
+  "prior_search_history_records_reused": 51,
+  "prior_shop_observations_reused": 20,
+  "query_coverage_note": "Station name + 紅茶 only; not exhaustive coverage for other selected genres.",
+  "canonical_or_release_changed": false,
+  "qa_pass": true
+}
