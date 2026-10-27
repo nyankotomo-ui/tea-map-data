@@ -1,0 +1,30 @@
+{
+  "batch": "queue 801-1000",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "expected_station_ids": 200,
+  "query_groups": 100,
+  "query_phrase_count": 400,
+  "distinct_query_strings": 398,
+  "repeated_query_strings": {
+    "武蔵小杉駅 紅茶": 2,
+    "武蔵小杉駅 台湾茶": 2
+  },
+  "stations_not_having_exactly_two_queries": [],
+  "candidate_relation_rows": 12,
+  "candidate_relations_without_source_url": [],
+  "candidate_relations_without_genre": [],
+  "candidate_validation_errors": [],
+  "unconfirmed_search_result_leads": 322,
+  "baseline_shop_count": 258,
+  "baseline_name_matches": {
+    "ティー・イソブチカンパニー": "TSM-088",
+    "MITSUTEA": "TSM-081"
+  },
+  "prior_search_history_records_reused": 54,
+  "prior_shop_observations_reused": 12,
+  "query_coverage_note": "400 search slots were run for 200 station rows; 398 distinct query strings because Musashi-Kosugi appears twice in the source station ledger. Only station name + 紅茶 and station name + 台湾茶 were searched; Chinese tea, herbal tea and chai coverage is not exhaustive.",
+  "canonical_or_release_changed": false,
+  "qa_pass": true
+}
