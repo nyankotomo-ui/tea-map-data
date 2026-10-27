@@ -1,0 +1,2 @@
+station_queue_id,station_name,shop_name,address,genre_codes,evidence_urls,evidence_basis,station_relation_status,possible_station_queue_ids,existing_baseline_shop_id,dedup_status
+兵庫-0225,宝塚,TEA HOUSE SARAH,兵庫県宝塚市栄町2-1-1 ソリオ宝塚1F,black_tea,https://www.tea-a.gr.jp/shop/authentic/761/,日本紅茶協会の認定店ページが店名・住所と阪急宝塚駅徒歩1分を掲載。既存台帳TSM-181。,verified_exact_station_by_association_page,,TSM-181,Existing baseline match: TSM-181
