@@ -1,0 +1,32 @@
+{
+  "batch": "Tokyo queue 401-600",
+  "checked_on": "2026-10-28",
+  "station_rows": 200,
+  "distinct_station_queue_ids": 200,
+  "expected_station_ids": 200,
+  "query_phrase_count": 400,
+  "unique_query_executions": 398,
+  "reused_duplicate_query_phrases": 2,
+  "stations_not_having_exactly_two_queries": [],
+  "candidate_relation_rows": 8,
+  "candidate_relations_without_source_url": [],
+  "candidate_relations_without_genre": [],
+  "unconfirmed_search_result_leads": 191,
+  "baseline_shop_count": 258,
+  "baseline_name_or_address_matches": {
+    "紅茶専門店TEAPOND 丸の内店": "TSM-045",
+    "MLESNA TEA TOKYO": "TSM-041"
+  },
+  "query_coverage_note": "Only approved terms station name + 紅茶 and station name + 台湾茶 were searched; these do not prove exhaustive coverage for Chinese tea, herbal tea, and chai.",
+  "limitations": [
+    "Raw web-search records group responses across two stations/four queries; unconfirmed leads keep both possible station IDs and are not shop candidates.",
+    "Each candidate has official or first-party evidence and an official/first-party station association.",
+    "Exact/normalized name and address dedupe against provided 258-shop baseline; recognized earlier batch/observation matches are called out.",
+    "No Canonical or public Release changes were made.",
+    "The unconfirmed lead list is limited to likely tea-focused result titles. Each lead preserves paired station IDs because source responses combined two stations; it is not an assertion that either station has the venue."
+  ],
+  "baseline_shop_matches": {
+    "紅茶専門店TEAPOND 丸の内店": "TSM-045",
+    "MLESNA TEA TOKYO": "TSM-041"
+  }
+}
