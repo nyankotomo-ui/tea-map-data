@@ -1,0 +1,1001 @@
+station_queue_id,station_name,genre_code,search_query,coverage_source,search_status,no-hit_interpretation
+大阪-0387,神崎川,black_tea,神崎川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0387,神崎川,taiwanese_tea,神崎川駅 台湾茶,genre_search_logs/batch_008.jsonl line 1,searched,No confirmed candidate is not proof of absence.
+大阪-0387,神崎川,chinese_tea,神崎川駅 中国茶,genre_search_logs/batch_008.jsonl line 1,searched,No confirmed candidate is not proof of absence.
+大阪-0387,神崎川,herbal,神崎川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 1,searched,No confirmed candidate is not proof of absence.
+大阪-0387,神崎川,chai,神崎川駅 チャイ,genre_search_logs/batch_008.jsonl line 1,searched,No confirmed candidate is not proof of absence.
+大阪-0388,新大阪,black_tea,新大阪駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0388,新大阪,taiwanese_tea,新大阪駅 台湾茶,genre_search_logs/batch_008.jsonl line 2,searched,No confirmed candidate is not proof of absence.
+大阪-0388,新大阪,chinese_tea,新大阪駅 中国茶,genre_search_logs/batch_008.jsonl line 2,searched,No confirmed candidate is not proof of absence.
+大阪-0388,新大阪,herbal,新大阪駅 ハーブティー,genre_search_logs/batch_008.jsonl line 2,searched,No confirmed candidate is not proof of absence.
+大阪-0388,新大阪,chai,新大阪駅 チャイ,genre_search_logs/batch_008.jsonl line 2,searched,No confirmed candidate is not proof of absence.
+大阪-0389,守口市,black_tea,守口市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0389,守口市,taiwanese_tea,守口市駅 台湾茶,genre_search_logs/batch_008.jsonl line 3,searched,No confirmed candidate is not proof of absence.
+大阪-0389,守口市,chinese_tea,守口市駅 中国茶,genre_search_logs/batch_008.jsonl line 3,searched,No confirmed candidate is not proof of absence.
+大阪-0389,守口市,herbal,守口市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 3,searched,No confirmed candidate is not proof of absence.
+大阪-0389,守口市,chai,守口市駅 チャイ,genre_search_logs/batch_008.jsonl line 3,searched,No confirmed candidate is not proof of absence.
+大阪-0390,西三荘,black_tea,西三荘駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0390,西三荘,taiwanese_tea,西三荘駅 台湾茶,genre_search_logs/batch_008.jsonl line 4,searched,No confirmed candidate is not proof of absence.
+大阪-0390,西三荘,chinese_tea,西三荘駅 中国茶,genre_search_logs/batch_008.jsonl line 4,searched,No confirmed candidate is not proof of absence.
+大阪-0390,西三荘,herbal,西三荘駅 ハーブティー,genre_search_logs/batch_008.jsonl line 4,searched,No confirmed candidate is not proof of absence.
+大阪-0390,西三荘,chai,西三荘駅 チャイ,genre_search_logs/batch_008.jsonl line 4,searched,No confirmed candidate is not proof of absence.
+大阪-0391,三国,black_tea,三国駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0391,三国,taiwanese_tea,三国駅 台湾茶,genre_search_logs/batch_008.jsonl line 5,searched,No confirmed candidate is not proof of absence.
+大阪-0391,三国,chinese_tea,三国駅 中国茶,genre_search_logs/batch_008.jsonl line 5,searched,No confirmed candidate is not proof of absence.
+大阪-0391,三国,herbal,三国駅 ハーブティー,genre_search_logs/batch_008.jsonl line 5,searched,No confirmed candidate is not proof of absence.
+大阪-0391,三国,chai,三国駅 チャイ,genre_search_logs/batch_008.jsonl line 5,searched,No confirmed candidate is not proof of absence.
+大阪-0392,守口,black_tea,守口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0392,守口,taiwanese_tea,守口駅 台湾茶,genre_search_logs/batch_008.jsonl line 168,searched,No confirmed candidate is not proof of absence.
+大阪-0392,守口,chinese_tea,守口駅 中国茶,genre_search_logs/batch_008.jsonl line 168,searched,No confirmed candidate is not proof of absence.
+大阪-0392,守口,herbal,守口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 168,searched,No confirmed candidate is not proof of absence.
+大阪-0392,守口,chai,守口駅 チャイ,genre_search_logs/batch_008.jsonl line 168,searched,No confirmed candidate is not proof of absence.
+大阪-0393,門真市,black_tea,門真市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0393,門真市,taiwanese_tea,門真市駅 台湾茶,genre_search_logs/batch_008.jsonl line 6,searched,No confirmed candidate is not proof of absence.
+大阪-0393,門真市,chinese_tea,門真市駅 中国茶,genre_search_logs/batch_008.jsonl line 6,searched,No confirmed candidate is not proof of absence.
+大阪-0393,門真市,herbal,門真市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 6,searched,No confirmed candidate is not proof of absence.
+大阪-0393,門真市,chai,門真市駅 チャイ,genre_search_logs/batch_008.jsonl line 6,searched,No confirmed candidate is not proof of absence.
+大阪-0394,東淀川,black_tea,東淀川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0394,東淀川,taiwanese_tea,東淀川駅 台湾茶,genre_search_logs/batch_008.jsonl line 7,searched,No confirmed candidate is not proof of absence.
+大阪-0394,東淀川,chinese_tea,東淀川駅 中国茶,genre_search_logs/batch_008.jsonl line 7,searched,No confirmed candidate is not proof of absence.
+大阪-0394,東淀川,herbal,東淀川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 7,searched,No confirmed candidate is not proof of absence.
+大阪-0394,東淀川,chai,東淀川駅 チャイ,genre_search_logs/batch_008.jsonl line 7,searched,No confirmed candidate is not proof of absence.
+大阪-0395,淡路,black_tea,淡路駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0395,淡路,taiwanese_tea,淡路駅 台湾茶,genre_search_logs/batch_008.jsonl line 8,searched,No confirmed candidate is not proof of absence.
+大阪-0395,淡路,chinese_tea,淡路駅 中国茶,genre_search_logs/batch_008.jsonl line 8,searched,No confirmed candidate is not proof of absence.
+大阪-0395,淡路,herbal,淡路駅 ハーブティー,genre_search_logs/batch_008.jsonl line 8,searched,No confirmed candidate is not proof of absence.
+大阪-0395,淡路,chai,淡路駅 チャイ,genre_search_logs/batch_008.jsonl line 8,searched,No confirmed candidate is not proof of absence.
+大阪-0396,古川橋,black_tea,古川橋駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0396,古川橋,taiwanese_tea,古川橋駅 台湾茶,genre_search_logs/batch_008.jsonl line 9,searched,No confirmed candidate is not proof of absence.
+大阪-0396,古川橋,chinese_tea,古川橋駅 中国茶,genre_search_logs/batch_008.jsonl line 9,searched,No confirmed candidate is not proof of absence.
+大阪-0396,古川橋,herbal,古川橋駅 ハーブティー,genre_search_logs/batch_008.jsonl line 9,searched,No confirmed candidate is not proof of absence.
+大阪-0396,古川橋,chai,古川橋駅 チャイ,genre_search_logs/batch_008.jsonl line 9,searched,No confirmed candidate is not proof of absence.
+大阪-0397,東三国,black_tea,東三国駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0397,東三国,taiwanese_tea,東三国駅 台湾茶,genre_search_logs/batch_008.jsonl line 10,searched,No confirmed candidate is not proof of absence.
+大阪-0397,東三国,chinese_tea,東三国駅 中国茶,genre_search_logs/batch_008.jsonl line 10,searched,No confirmed candidate is not proof of absence.
+大阪-0397,東三国,herbal,東三国駅 ハーブティー,genre_search_logs/batch_008.jsonl line 10,searched,No confirmed candidate is not proof of absence.
+大阪-0397,東三国,chai,東三国駅 チャイ,genre_search_logs/batch_008.jsonl line 10,searched,No confirmed candidate is not proof of absence.
+大阪-0398,JR淡路,black_tea,JR淡路駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0398,JR淡路,taiwanese_tea,JR淡路駅 台湾茶,genre_search_logs/batch_008.jsonl line 11,searched,No confirmed candidate is not proof of absence.
+大阪-0398,JR淡路,chinese_tea,JR淡路駅 中国茶,genre_search_logs/batch_008.jsonl line 11,searched,No confirmed candidate is not proof of absence.
+大阪-0398,JR淡路,herbal,JR淡路駅 ハーブティー,genre_search_logs/batch_008.jsonl line 11,searched,No confirmed candidate is not proof of absence.
+大阪-0398,JR淡路,chai,JR淡路駅 チャイ,genre_search_logs/batch_008.jsonl line 11,searched,No confirmed candidate is not proof of absence.
+大阪-0399,大和田,black_tea,大和田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0399,大和田,taiwanese_tea,大和田駅 台湾茶,genre_search_logs/batch_008.jsonl line 12,searched,No confirmed candidate is not proof of absence.
+大阪-0399,大和田,chinese_tea,大和田駅 中国茶,genre_search_logs/batch_008.jsonl line 12,searched,No confirmed candidate is not proof of absence.
+大阪-0399,大和田,herbal,大和田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 12,searched,No confirmed candidate is not proof of absence.
+大阪-0399,大和田,chai,大和田駅 チャイ,genre_search_logs/batch_008.jsonl line 12,searched,No confirmed candidate is not proof of absence.
+大阪-0400,だいどう豊里,black_tea,だいどう豊里駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0400,だいどう豊里,taiwanese_tea,だいどう豊里駅 台湾茶,genre_search_logs/batch_008.jsonl line 169,searched,No confirmed candidate is not proof of absence.
+大阪-0400,だいどう豊里,chinese_tea,だいどう豊里駅 中国茶,genre_search_logs/batch_008.jsonl line 169,searched,No confirmed candidate is not proof of absence.
+大阪-0400,だいどう豊里,herbal,だいどう豊里駅 ハーブティー,genre_search_logs/batch_008.jsonl line 169,searched,No confirmed candidate is not proof of absence.
+大阪-0400,だいどう豊里,chai,だいどう豊里駅 チャイ,genre_search_logs/batch_008.jsonl line 169,searched,No confirmed candidate is not proof of absence.
+大阪-0401,忍ヶ丘,black_tea,忍ヶ丘駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0401,忍ヶ丘,taiwanese_tea,忍ヶ丘駅 台湾茶,genre_search_logs/batch_008.jsonl line 170,searched,No confirmed candidate is not proof of absence.
+大阪-0401,忍ヶ丘,chinese_tea,忍ヶ丘駅 中国茶,genre_search_logs/batch_008.jsonl line 170,searched,No confirmed candidate is not proof of absence.
+大阪-0401,忍ヶ丘,herbal,忍ヶ丘駅 ハーブティー,genre_search_logs/batch_008.jsonl line 170,searched,No confirmed candidate is not proof of absence.
+大阪-0401,忍ヶ丘,chai,忍ヶ丘駅 チャイ,genre_search_logs/batch_008.jsonl line 170,searched,No confirmed candidate is not proof of absence.
+大阪-0402,下新庄,black_tea,下新庄駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0402,下新庄,taiwanese_tea,下新庄駅 台湾茶,genre_search_logs/batch_008.jsonl line 13,searched,No confirmed candidate is not proof of absence.
+大阪-0402,下新庄,chinese_tea,下新庄駅 中国茶,genre_search_logs/batch_008.jsonl line 13,searched,No confirmed candidate is not proof of absence.
+大阪-0402,下新庄,herbal,下新庄駅 ハーブティー,genre_search_logs/batch_008.jsonl line 13,searched,No confirmed candidate is not proof of absence.
+大阪-0402,下新庄,chai,下新庄駅 チャイ,genre_search_logs/batch_008.jsonl line 13,searched,No confirmed candidate is not proof of absence.
+大阪-0403,萱島,black_tea,萱島駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0403,萱島,taiwanese_tea,萱島駅 台湾茶,genre_search_logs/batch_008.jsonl line 14,searched,No confirmed candidate is not proof of absence.
+大阪-0403,萱島,chinese_tea,萱島駅 中国茶,genre_search_logs/batch_008.jsonl line 14,searched,No confirmed candidate is not proof of absence.
+大阪-0403,萱島,herbal,萱島駅 ハーブティー,genre_search_logs/batch_008.jsonl line 14,searched,No confirmed candidate is not proof of absence.
+大阪-0403,萱島,chai,萱島駅 チャイ,genre_search_logs/batch_008.jsonl line 14,searched,No confirmed candidate is not proof of absence.
+大阪-0404,大日,black_tea,大日駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0404,大日,taiwanese_tea,大日駅 台湾茶,genre_search_logs/batch_008.jsonl line 171,searched,No confirmed candidate is not proof of absence.
+大阪-0404,大日,chinese_tea,大日駅 中国茶,genre_search_logs/batch_008.jsonl line 171,searched,No confirmed candidate is not proof of absence.
+大阪-0404,大日,herbal,大日駅 ハーブティー,genre_search_logs/batch_008.jsonl line 171,searched,No confirmed candidate is not proof of absence.
+大阪-0404,大日,chai,大日駅 チャイ,genre_search_logs/batch_008.jsonl line 171,searched,No confirmed candidate is not proof of absence.
+大阪-0405,南吹田,black_tea,南吹田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0405,南吹田,taiwanese_tea,南吹田駅 台湾茶,genre_search_logs/batch_008.jsonl line 15,searched,No confirmed candidate is not proof of absence.
+大阪-0405,南吹田,chinese_tea,南吹田駅 中国茶,genre_search_logs/batch_008.jsonl line 15,searched,No confirmed candidate is not proof of absence.
+大阪-0405,南吹田,herbal,南吹田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 15,searched,No confirmed candidate is not proof of absence.
+大阪-0405,南吹田,chai,南吹田駅 チャイ,genre_search_logs/batch_008.jsonl line 15,searched,No confirmed candidate is not proof of absence.
+大阪-0406,庄内,black_tea,庄内駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0406,庄内,taiwanese_tea,庄内駅 台湾茶,genre_search_logs/batch_008.jsonl line 16,searched,No confirmed candidate is not proof of absence.
+大阪-0406,庄内,chinese_tea,庄内駅 中国茶,genre_search_logs/batch_008.jsonl line 16,searched,No confirmed candidate is not proof of absence.
+大阪-0406,庄内,herbal,庄内駅 ハーブティー,genre_search_logs/batch_008.jsonl line 16,searched,No confirmed candidate is not proof of absence.
+大阪-0406,庄内,chai,庄内駅 チャイ,genre_search_logs/batch_008.jsonl line 16,searched,No confirmed candidate is not proof of absence.
+大阪-0407,上新庄,black_tea,上新庄駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0407,上新庄,taiwanese_tea,上新庄駅 台湾茶,genre_search_logs/batch_008.jsonl line 17,searched,No confirmed candidate is not proof of absence.
+大阪-0407,上新庄,chinese_tea,上新庄駅 中国茶,genre_search_logs/batch_008.jsonl line 17,searched,No confirmed candidate is not proof of absence.
+大阪-0407,上新庄,herbal,上新庄駅 ハーブティー,genre_search_logs/batch_008.jsonl line 17,searched,No confirmed candidate is not proof of absence.
+大阪-0407,上新庄,chai,上新庄駅 チャイ,genre_search_logs/batch_008.jsonl line 17,searched,No confirmed candidate is not proof of absence.
+大阪-0408,瑞光四丁目,black_tea,瑞光四丁目駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0408,瑞光四丁目,taiwanese_tea,瑞光四丁目駅 台湾茶,genre_search_logs/batch_008.jsonl line 18,searched,No confirmed candidate is not proof of absence.
+大阪-0408,瑞光四丁目,chinese_tea,瑞光四丁目駅 中国茶,genre_search_logs/batch_008.jsonl line 18,searched,No confirmed candidate is not proof of absence.
+大阪-0408,瑞光四丁目,herbal,瑞光四丁目駅 ハーブティー,genre_search_logs/batch_008.jsonl line 18,searched,No confirmed candidate is not proof of absence.
+大阪-0408,瑞光四丁目,chai,瑞光四丁目駅 チャイ,genre_search_logs/batch_008.jsonl line 18,searched,No confirmed candidate is not proof of absence.
+大阪-0409,寝屋川公園,black_tea,寝屋川公園駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0409,寝屋川公園,taiwanese_tea,寝屋川公園駅 台湾茶,genre_search_logs/batch_008.jsonl line 19,searched,No confirmed candidate is not proof of absence.
+大阪-0409,寝屋川公園,chinese_tea,寝屋川公園駅 中国茶,genre_search_logs/batch_008.jsonl line 19,searched,No confirmed candidate is not proof of absence.
+大阪-0409,寝屋川公園,herbal,寝屋川公園駅 ハーブティー,genre_search_logs/batch_008.jsonl line 19,searched,No confirmed candidate is not proof of absence.
+大阪-0409,寝屋川公園,chai,寝屋川公園駅 チャイ,genre_search_logs/batch_008.jsonl line 19,searched,No confirmed candidate is not proof of absence.
+大阪-0410,江坂,black_tea,江坂駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0410,江坂,taiwanese_tea,江坂駅 台湾茶,genre_search_logs/batch_008.jsonl line 20,searched,No confirmed candidate is not proof of absence.
+大阪-0410,江坂,chinese_tea,江坂駅 中国茶,genre_search_logs/batch_008.jsonl line 20,searched,No confirmed candidate is not proof of absence.
+大阪-0410,江坂,herbal,江坂駅 ハーブティー,genre_search_logs/batch_008.jsonl line 20,searched,No confirmed candidate is not proof of absence.
+大阪-0410,江坂,chai,江坂駅 チャイ,genre_search_logs/batch_008.jsonl line 20,searched,No confirmed candidate is not proof of absence.
+大阪-0411,相川,black_tea,相川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0411,相川,taiwanese_tea,相川駅 台湾茶,genre_search_logs/batch_008.jsonl line 21,searched,No confirmed candidate is not proof of absence.
+大阪-0411,相川,chinese_tea,相川駅 中国茶,genre_search_logs/batch_008.jsonl line 21,searched,No confirmed candidate is not proof of absence.
+大阪-0411,相川,herbal,相川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 21,searched,No confirmed candidate is not proof of absence.
+大阪-0411,相川,chai,相川駅 チャイ,genre_search_logs/batch_008.jsonl line 21,searched,No confirmed candidate is not proof of absence.
+大阪-0412,吹田,black_tea,吹田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0412,吹田,taiwanese_tea,吹田駅 台湾茶,genre_search_logs/batch_008.jsonl line 22,searched,No confirmed candidate is not proof of absence.
+大阪-0412,吹田,chinese_tea,吹田駅 中国茶,genre_search_logs/batch_008.jsonl line 22,searched,No confirmed candidate is not proof of absence.
+大阪-0412,吹田,herbal,吹田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 22,searched,No confirmed candidate is not proof of absence.
+大阪-0412,吹田,chai,吹田駅 チャイ,genre_search_logs/batch_008.jsonl line 22,searched,No confirmed candidate is not proof of absence.
+大阪-0413,井高野,black_tea,井高野駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0413,井高野,taiwanese_tea,井高野駅 台湾茶,genre_search_logs/batch_008.jsonl line 23,searched,No confirmed candidate is not proof of absence.
+大阪-0413,井高野,chinese_tea,井高野駅 中国茶,genre_search_logs/batch_008.jsonl line 23,searched,No confirmed candidate is not proof of absence.
+大阪-0413,井高野,herbal,井高野駅 ハーブティー,genre_search_logs/batch_008.jsonl line 23,searched,No confirmed candidate is not proof of absence.
+大阪-0413,井高野,chai,井高野駅 チャイ,genre_search_logs/batch_008.jsonl line 23,searched,No confirmed candidate is not proof of absence.
+大阪-0414,吹田,black_tea,吹田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0414,吹田,taiwanese_tea,吹田駅 台湾茶,genre_search_logs/batch_008.jsonl line 24,searched,No confirmed candidate is not proof of absence.
+大阪-0414,吹田,chinese_tea,吹田駅 中国茶,genre_search_logs/batch_008.jsonl line 24,searched,No confirmed candidate is not proof of absence.
+大阪-0414,吹田,herbal,吹田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 24,searched,No confirmed candidate is not proof of absence.
+大阪-0414,吹田,chai,吹田駅 チャイ,genre_search_logs/batch_008.jsonl line 24,searched,No confirmed candidate is not proof of absence.
+大阪-0415,服部天神,black_tea,服部天神駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0415,服部天神,taiwanese_tea,服部天神駅 台湾茶,genre_search_logs/batch_008.jsonl line 25,searched,No confirmed candidate is not proof of absence.
+大阪-0415,服部天神,chinese_tea,服部天神駅 中国茶,genre_search_logs/batch_008.jsonl line 25,searched,No confirmed candidate is not proof of absence.
+大阪-0415,服部天神,herbal,服部天神駅 ハーブティー,genre_search_logs/batch_008.jsonl line 25,searched,No confirmed candidate is not proof of absence.
+大阪-0415,服部天神,chai,服部天神駅 チャイ,genre_search_logs/batch_008.jsonl line 25,searched,No confirmed candidate is not proof of absence.
+大阪-0416,寝屋川市,black_tea,寝屋川市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0416,寝屋川市,taiwanese_tea,寝屋川市駅 台湾茶,genre_search_logs/batch_008.jsonl line 172,searched,No confirmed candidate is not proof of absence.
+大阪-0416,寝屋川市,chinese_tea,寝屋川市駅 中国茶,genre_search_logs/batch_008.jsonl line 172,searched,No confirmed candidate is not proof of absence.
+大阪-0416,寝屋川市,herbal,寝屋川市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 172,searched,No confirmed candidate is not proof of absence.
+大阪-0416,寝屋川市,chai,寝屋川市駅 チャイ,genre_search_logs/batch_008.jsonl line 172,searched,No confirmed candidate is not proof of absence.
+大阪-0417,豊津,black_tea,豊津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0417,豊津,taiwanese_tea,豊津駅 台湾茶,genre_search_logs/batch_008.jsonl line 26,searched,No confirmed candidate is not proof of absence.
+大阪-0417,豊津,chinese_tea,豊津駅 中国茶,genre_search_logs/batch_008.jsonl line 26,searched,No confirmed candidate is not proof of absence.
+大阪-0417,豊津,herbal,豊津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 26,searched,No confirmed candidate is not proof of absence.
+大阪-0417,豊津,chai,豊津駅 チャイ,genre_search_logs/batch_008.jsonl line 26,searched,No confirmed candidate is not proof of absence.
+大阪-0418,南摂津,black_tea,南摂津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0418,南摂津,taiwanese_tea,南摂津駅 台湾茶,genre_search_logs/batch_008.jsonl line 27,searched,No confirmed candidate is not proof of absence.
+大阪-0418,南摂津,chinese_tea,南摂津駅 中国茶,genre_search_logs/batch_008.jsonl line 27,searched,No confirmed candidate is not proof of absence.
+大阪-0418,南摂津,herbal,南摂津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 27,searched,No confirmed candidate is not proof of absence.
+大阪-0418,南摂津,chai,南摂津駅 チャイ,genre_search_logs/batch_008.jsonl line 27,searched,No confirmed candidate is not proof of absence.
+大阪-0419,星田,black_tea,星田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0419,星田,taiwanese_tea,星田駅 台湾茶,genre_search_logs/batch_008.jsonl line 28,searched,No confirmed candidate is not proof of absence.
+大阪-0419,星田,chinese_tea,星田駅 中国茶,genre_search_logs/batch_008.jsonl line 28,searched,No confirmed candidate is not proof of absence.
+大阪-0419,星田,herbal,星田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 28,searched,No confirmed candidate is not proof of absence.
+大阪-0419,星田,chai,星田駅 チャイ,genre_search_logs/batch_008.jsonl line 28,searched,No confirmed candidate is not proof of absence.
+大阪-0420,私市,black_tea,私市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0420,私市,taiwanese_tea,私市駅 台湾茶,genre_search_logs/batch_008.jsonl line 29,searched,No confirmed candidate is not proof of absence.
+大阪-0420,私市,chinese_tea,私市駅 中国茶,genre_search_logs/batch_008.jsonl line 29,searched,No confirmed candidate is not proof of absence.
+大阪-0420,私市,herbal,私市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 29,searched,No confirmed candidate is not proof of absence.
+大阪-0420,私市,chai,私市駅 チャイ,genre_search_logs/batch_008.jsonl line 29,searched,No confirmed candidate is not proof of absence.
+大阪-0421,関大前,black_tea,関大前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0421,関大前,taiwanese_tea,関大前駅 台湾茶,genre_search_logs/batch_008.jsonl line 30,searched,No confirmed candidate is not proof of absence.
+大阪-0421,関大前,chinese_tea,関大前駅 中国茶,genre_search_logs/batch_008.jsonl line 30,searched,No confirmed candidate is not proof of absence.
+大阪-0421,関大前,herbal,関大前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 30,searched,No confirmed candidate is not proof of absence.
+大阪-0421,関大前,chai,関大前駅 チャイ,genre_search_logs/batch_008.jsonl line 30,searched,No confirmed candidate is not proof of absence.
+大阪-0422,曽根,black_tea,曽根駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0422,曽根,taiwanese_tea,曽根駅 台湾茶,genre_search_logs/batch_008.jsonl line 31,searched,No confirmed candidate is not proof of absence.
+大阪-0422,曽根,chinese_tea,曽根駅 中国茶,genre_search_logs/batch_008.jsonl line 31,searched,No confirmed candidate is not proof of absence.
+大阪-0422,曽根,herbal,曽根駅 ハーブティー,genre_search_logs/batch_008.jsonl line 31,searched,No confirmed candidate is not proof of absence.
+大阪-0422,曽根,chai,曽根駅 チャイ,genre_search_logs/batch_008.jsonl line 31,searched,No confirmed candidate is not proof of absence.
+大阪-0423,河内森,black_tea,河内森駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0423,河内森,taiwanese_tea,河内森駅 台湾茶,genre_search_logs/batch_008.jsonl line 32,searched,No confirmed candidate is not proof of absence.
+大阪-0423,河内森,chinese_tea,河内森駅 中国茶,genre_search_logs/batch_008.jsonl line 32,searched,No confirmed candidate is not proof of absence.
+大阪-0423,河内森,herbal,河内森駅 ハーブティー,genre_search_logs/batch_008.jsonl line 32,searched,No confirmed candidate is not proof of absence.
+大阪-0423,河内森,chai,河内森駅 チャイ,genre_search_logs/batch_008.jsonl line 32,searched,No confirmed candidate is not proof of absence.
+大阪-0424,緑地公園,black_tea,緑地公園駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0424,緑地公園,taiwanese_tea,緑地公園駅 台湾茶,genre_search_logs/batch_008.jsonl line 173,searched,No confirmed candidate is not proof of absence.
+大阪-0424,緑地公園,chinese_tea,緑地公園駅 中国茶,genre_search_logs/batch_008.jsonl line 173,searched,No confirmed candidate is not proof of absence.
+大阪-0424,緑地公園,herbal,緑地公園駅 ハーブティー,genre_search_logs/batch_008.jsonl line 173,searched,No confirmed candidate is not proof of absence.
+大阪-0424,緑地公園,chai,緑地公園駅 チャイ,genre_search_logs/batch_008.jsonl line 173,searched,No confirmed candidate is not proof of absence.
+大阪-0425,正雀,black_tea,正雀駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0425,正雀,taiwanese_tea,正雀駅 台湾茶,genre_search_logs/batch_008.jsonl line 174,searched,No confirmed candidate is not proof of absence.
+大阪-0425,正雀,chinese_tea,正雀駅 中国茶,genre_search_logs/batch_008.jsonl line 174,searched,No confirmed candidate is not proof of absence.
+大阪-0425,正雀,herbal,正雀駅 ハーブティー,genre_search_logs/batch_008.jsonl line 174,searched,No confirmed candidate is not proof of absence.
+大阪-0425,正雀,chai,正雀駅 チャイ,genre_search_logs/batch_008.jsonl line 174,searched,No confirmed candidate is not proof of absence.
+大阪-0426,河内磐船,black_tea,河内磐船駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0426,河内磐船,taiwanese_tea,河内磐船駅 台湾茶,genre_search_logs/batch_008.jsonl line 175,searched,No confirmed candidate is not proof of absence.
+大阪-0426,河内磐船,chinese_tea,河内磐船駅 中国茶,genre_search_logs/batch_008.jsonl line 175,searched,No confirmed candidate is not proof of absence.
+大阪-0426,河内磐船,herbal,河内磐船駅 ハーブティー,genre_search_logs/batch_008.jsonl line 175,searched,No confirmed candidate is not proof of absence.
+大阪-0426,河内磐船,chai,河内磐船駅 チャイ,genre_search_logs/batch_008.jsonl line 175,searched,No confirmed candidate is not proof of absence.
+大阪-0427,岸辺,black_tea,岸辺駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0427,岸辺,taiwanese_tea,岸辺駅 台湾茶,genre_search_logs/batch_008.jsonl line 33,searched,No confirmed candidate is not proof of absence.
+大阪-0427,岸辺,chinese_tea,岸辺駅 中国茶,genre_search_logs/batch_008.jsonl line 33,searched,No confirmed candidate is not proof of absence.
+大阪-0427,岸辺,herbal,岸辺駅 ハーブティー,genre_search_logs/batch_008.jsonl line 33,searched,No confirmed candidate is not proof of absence.
+大阪-0427,岸辺,chai,岸辺駅 チャイ,genre_search_logs/batch_008.jsonl line 33,searched,No confirmed candidate is not proof of absence.
+大阪-0428,千里山,black_tea,千里山駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0428,千里山,taiwanese_tea,千里山駅 台湾茶,genre_search_logs/batch_008.jsonl line 34,searched,No confirmed candidate is not proof of absence.
+大阪-0428,千里山,chinese_tea,千里山駅 中国茶,genre_search_logs/batch_008.jsonl line 34,searched,No confirmed candidate is not proof of absence.
+大阪-0428,千里山,herbal,千里山駅 ハーブティー,genre_search_logs/batch_008.jsonl line 34,searched,No confirmed candidate is not proof of absence.
+大阪-0428,千里山,chai,千里山駅 チャイ,genre_search_logs/batch_008.jsonl line 34,searched,No confirmed candidate is not proof of absence.
+大阪-0429,岡町,black_tea,岡町駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0429,岡町,taiwanese_tea,岡町駅 台湾茶,genre_search_logs/batch_008.jsonl line 35,searched,No confirmed candidate is not proof of absence.
+大阪-0429,岡町,chinese_tea,岡町駅 中国茶,genre_search_logs/batch_008.jsonl line 35,searched,No confirmed candidate is not proof of absence.
+大阪-0429,岡町,herbal,岡町駅 ハーブティー,genre_search_logs/batch_008.jsonl line 35,searched,No confirmed candidate is not proof of absence.
+大阪-0429,岡町,chai,岡町駅 チャイ,genre_search_logs/batch_008.jsonl line 35,searched,No confirmed candidate is not proof of absence.
+大阪-0430,摂津,black_tea,摂津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0430,摂津,taiwanese_tea,摂津駅 台湾茶,genre_search_logs/batch_008.jsonl line 36,searched,No confirmed candidate is not proof of absence.
+大阪-0430,摂津,chinese_tea,摂津駅 中国茶,genre_search_logs/batch_008.jsonl line 36,searched,No confirmed candidate is not proof of absence.
+大阪-0430,摂津,herbal,摂津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 36,searched,No confirmed candidate is not proof of absence.
+大阪-0430,摂津,chai,摂津駅 チャイ,genre_search_logs/batch_008.jsonl line 36,searched,No confirmed candidate is not proof of absence.
+大阪-0431,香里園,black_tea,香里園駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0431,香里園,taiwanese_tea,香里園駅 台湾茶,genre_search_logs/batch_008.jsonl line 176,searched,No confirmed candidate is not proof of absence.
+大阪-0431,香里園,chinese_tea,香里園駅 中国茶,genre_search_logs/batch_008.jsonl line 176,searched,No confirmed candidate is not proof of absence.
+大阪-0431,香里園,herbal,香里園駅 ハーブティー,genre_search_logs/batch_008.jsonl line 176,searched,No confirmed candidate is not proof of absence.
+大阪-0431,香里園,chai,香里園駅 チャイ,genre_search_logs/batch_008.jsonl line 176,searched,No confirmed candidate is not proof of absence.
+大阪-0432,交野市,black_tea,交野市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0432,交野市,taiwanese_tea,交野市駅 台湾茶,genre_search_logs/batch_008.jsonl line 37,searched,No confirmed candidate is not proof of absence.
+大阪-0432,交野市,chinese_tea,交野市駅 中国茶,genre_search_logs/batch_008.jsonl line 37,searched,No confirmed candidate is not proof of absence.
+大阪-0432,交野市,herbal,交野市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 37,searched,No confirmed candidate is not proof of absence.
+大阪-0432,交野市,chai,交野市駅 チャイ,genre_search_logs/batch_008.jsonl line 37,searched,No confirmed candidate is not proof of absence.
+大阪-0433,摂津市,black_tea,摂津市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0433,摂津市,taiwanese_tea,摂津市駅 台湾茶,genre_search_logs/batch_008.jsonl line 38,searched,No confirmed candidate is not proof of absence.
+大阪-0433,摂津市,chinese_tea,摂津市駅 中国茶,genre_search_logs/batch_008.jsonl line 38,searched,No confirmed candidate is not proof of absence.
+大阪-0433,摂津市,herbal,摂津市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 38,searched,No confirmed candidate is not proof of absence.
+大阪-0433,摂津市,chai,摂津市駅 チャイ,genre_search_logs/batch_008.jsonl line 38,searched,No confirmed candidate is not proof of absence.
+大阪-0434,豊中,black_tea,豊中駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0434,豊中,taiwanese_tea,豊中駅 台湾茶,genre_search_logs/batch_008.jsonl line 177,searched,No confirmed candidate is not proof of absence.
+大阪-0434,豊中,chinese_tea,豊中駅 中国茶,genre_search_logs/batch_008.jsonl line 177,searched,No confirmed candidate is not proof of absence.
+大阪-0434,豊中,herbal,豊中駅 ハーブティー,genre_search_logs/batch_008.jsonl line 177,searched,No confirmed candidate is not proof of absence.
+大阪-0434,豊中,chai,豊中駅 チャイ,genre_search_logs/batch_008.jsonl line 177,searched,No confirmed candidate is not proof of absence.
+大阪-0435,大阪空港,black_tea,大阪空港駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0435,大阪空港,taiwanese_tea,大阪空港駅 台湾茶,genre_search_logs/batch_008.jsonl line 39,searched,No confirmed candidate is not proof of absence.
+大阪-0435,大阪空港,chinese_tea,大阪空港駅 中国茶,genre_search_logs/batch_008.jsonl line 39,searched,No confirmed candidate is not proof of absence.
+大阪-0435,大阪空港,herbal,大阪空港駅 ハーブティー,genre_search_logs/batch_008.jsonl line 39,searched,No confirmed candidate is not proof of absence.
+大阪-0435,大阪空港,chai,大阪空港駅 チャイ,genre_search_logs/batch_008.jsonl line 39,searched,No confirmed candidate is not proof of absence.
+大阪-0436,千里丘,black_tea,千里丘駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0436,千里丘,taiwanese_tea,千里丘駅 台湾茶,genre_search_logs/batch_008.jsonl line 40,searched,No confirmed candidate is not proof of absence.
+大阪-0436,千里丘,chinese_tea,千里丘駅 中国茶,genre_search_logs/batch_008.jsonl line 40,searched,No confirmed candidate is not proof of absence.
+大阪-0436,千里丘,herbal,千里丘駅 ハーブティー,genre_search_logs/batch_008.jsonl line 40,searched,No confirmed candidate is not proof of absence.
+大阪-0436,千里丘,chai,千里丘駅 チャイ,genre_search_logs/batch_008.jsonl line 40,searched,No confirmed candidate is not proof of absence.
+大阪-0437,南千里,black_tea,南千里駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0437,南千里,taiwanese_tea,南千里駅 台湾茶,genre_search_logs/batch_008.jsonl line 41,searched,No confirmed candidate is not proof of absence.
+大阪-0437,南千里,chinese_tea,南千里駅 中国茶,genre_search_logs/batch_008.jsonl line 41,searched,No confirmed candidate is not proof of absence.
+大阪-0437,南千里,herbal,南千里駅 ハーブティー,genre_search_logs/batch_008.jsonl line 41,searched,No confirmed candidate is not proof of absence.
+大阪-0437,南千里,chai,南千里駅 チャイ,genre_search_logs/batch_008.jsonl line 41,searched,No confirmed candidate is not proof of absence.
+大阪-0438,桃山台,black_tea,桃山台駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0438,桃山台,taiwanese_tea,桃山台駅 台湾茶,genre_search_logs/batch_008.jsonl line 42,searched,No confirmed candidate is not proof of absence.
+大阪-0438,桃山台,chinese_tea,桃山台駅 中国茶,genre_search_logs/batch_008.jsonl line 42,searched,No confirmed candidate is not proof of absence.
+大阪-0438,桃山台,herbal,桃山台駅 ハーブティー,genre_search_logs/batch_008.jsonl line 42,searched,No confirmed candidate is not proof of absence.
+大阪-0438,桃山台,chai,桃山台駅 チャイ,genre_search_logs/batch_008.jsonl line 42,searched,No confirmed candidate is not proof of absence.
+大阪-0439,郡津,black_tea,郡津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0439,郡津,taiwanese_tea,郡津駅 台湾茶,genre_search_logs/batch_008.jsonl line 43,searched,No confirmed candidate is not proof of absence.
+大阪-0439,郡津,chinese_tea,郡津駅 中国茶,genre_search_logs/batch_008.jsonl line 43,searched,No confirmed candidate is not proof of absence.
+大阪-0439,郡津,herbal,郡津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 43,searched,No confirmed candidate is not proof of absence.
+大阪-0439,郡津,chai,郡津駅 チャイ,genre_search_logs/batch_008.jsonl line 43,searched,No confirmed candidate is not proof of absence.
+大阪-0440,沢良宜,black_tea,沢良宜駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0440,沢良宜,taiwanese_tea,沢良宜駅 台湾茶,genre_search_logs/batch_008.jsonl line 44,searched,No confirmed candidate is not proof of absence.
+大阪-0440,沢良宜,chinese_tea,沢良宜駅 中国茶,genre_search_logs/batch_008.jsonl line 44,searched,No confirmed candidate is not proof of absence.
+大阪-0440,沢良宜,herbal,沢良宜駅 ハーブティー,genre_search_logs/batch_008.jsonl line 44,searched,No confirmed candidate is not proof of absence.
+大阪-0440,沢良宜,chai,沢良宜駅 チャイ,genre_search_logs/batch_008.jsonl line 44,searched,No confirmed candidate is not proof of absence.
+大阪-0441,蛍池,black_tea,蛍池駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0441,蛍池,taiwanese_tea,蛍池駅 台湾茶,genre_search_logs/batch_008.jsonl line 45,searched,No confirmed candidate is not proof of absence.
+大阪-0441,蛍池,chinese_tea,蛍池駅 中国茶,genre_search_logs/batch_008.jsonl line 45,searched,No confirmed candidate is not proof of absence.
+大阪-0441,蛍池,herbal,蛍池駅 ハーブティー,genre_search_logs/batch_008.jsonl line 45,searched,No confirmed candidate is not proof of absence.
+大阪-0441,蛍池,chai,蛍池駅 チャイ,genre_search_logs/batch_008.jsonl line 45,searched,No confirmed candidate is not proof of absence.
+大阪-0442,光善寺,black_tea,光善寺駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0442,光善寺,taiwanese_tea,光善寺駅 台湾茶,genre_search_logs/batch_008.jsonl line 178,searched,No confirmed candidate is not proof of absence.
+大阪-0442,光善寺,chinese_tea,光善寺駅 中国茶,genre_search_logs/batch_008.jsonl line 178,searched,No confirmed candidate is not proof of absence.
+大阪-0442,光善寺,herbal,光善寺駅 ハーブティー,genre_search_logs/batch_008.jsonl line 178,searched,No confirmed candidate is not proof of absence.
+大阪-0442,光善寺,chai,光善寺駅 チャイ,genre_search_logs/batch_008.jsonl line 178,searched,No confirmed candidate is not proof of absence.
+大阪-0443,柴原阪大前,black_tea,柴原阪大前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0443,柴原阪大前,taiwanese_tea,柴原阪大前駅 台湾茶,genre_search_logs/batch_008.jsonl line 46,searched,No confirmed candidate is not proof of absence.
+大阪-0443,柴原阪大前,chinese_tea,柴原阪大前駅 中国茶,genre_search_logs/batch_008.jsonl line 46,searched,No confirmed candidate is not proof of absence.
+大阪-0443,柴原阪大前,herbal,柴原阪大前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 46,searched,No confirmed candidate is not proof of absence.
+大阪-0443,柴原阪大前,chai,柴原阪大前駅 チャイ,genre_search_logs/batch_008.jsonl line 46,searched,No confirmed candidate is not proof of absence.
+大阪-0444,津田,black_tea,津田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0444,津田,taiwanese_tea,津田駅 台湾茶,genre_search_logs/batch_008.jsonl line 47,searched,No confirmed candidate is not proof of absence.
+大阪-0444,津田,chinese_tea,津田駅 中国茶,genre_search_logs/batch_008.jsonl line 47,searched,No confirmed candidate is not proof of absence.
+大阪-0444,津田,herbal,津田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 47,searched,No confirmed candidate is not proof of absence.
+大阪-0444,津田,chai,津田駅 チャイ,genre_search_logs/batch_008.jsonl line 47,searched,No confirmed candidate is not proof of absence.
+大阪-0445,村野,black_tea,村野駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0445,村野,taiwanese_tea,村野駅 台湾茶,genre_search_logs/batch_008.jsonl line 48,searched,No confirmed candidate is not proof of absence.
+大阪-0445,村野,chinese_tea,村野駅 中国茶,genre_search_logs/batch_008.jsonl line 48,searched,No confirmed candidate is not proof of absence.
+大阪-0445,村野,herbal,村野駅 ハーブティー,genre_search_logs/batch_008.jsonl line 48,searched,No confirmed candidate is not proof of absence.
+大阪-0445,村野,chai,村野駅 チャイ,genre_search_logs/batch_008.jsonl line 48,searched,No confirmed candidate is not proof of absence.
+大阪-0446,南茨木,black_tea,南茨木駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0446,南茨木,taiwanese_tea,南茨木駅 台湾茶,genre_search_logs/batch_008.jsonl line 49,searched,No confirmed candidate is not proof of absence.
+大阪-0446,南茨木,chinese_tea,南茨木駅 中国茶,genre_search_logs/batch_008.jsonl line 49,searched,No confirmed candidate is not proof of absence.
+大阪-0446,南茨木,herbal,南茨木駅 ハーブティー,genre_search_logs/batch_008.jsonl line 49,searched,No confirmed candidate is not proof of absence.
+大阪-0446,南茨木,chai,南茨木駅 チャイ,genre_search_logs/batch_008.jsonl line 49,searched,No confirmed candidate is not proof of absence.
+大阪-0447,少路,black_tea,少路駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0447,少路,taiwanese_tea,少路駅 台湾茶,genre_search_logs/batch_008.jsonl line 50,searched,No confirmed candidate is not proof of absence.
+大阪-0447,少路,chinese_tea,少路駅 中国茶,genre_search_logs/batch_008.jsonl line 50,searched,No confirmed candidate is not proof of absence.
+大阪-0447,少路,herbal,少路駅 ハーブティー,genre_search_logs/batch_008.jsonl line 50,searched,No confirmed candidate is not proof of absence.
+大阪-0447,少路,chai,少路駅 チャイ,genre_search_logs/batch_008.jsonl line 50,searched,No confirmed candidate is not proof of absence.
+大阪-0448,山田,black_tea,山田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0448,山田,taiwanese_tea,山田駅 台湾茶,genre_search_logs/batch_008.jsonl line 179,searched,No confirmed candidate is not proof of absence.
+大阪-0448,山田,chinese_tea,山田駅 中国茶,genre_search_logs/batch_008.jsonl line 179,searched,No confirmed candidate is not proof of absence.
+大阪-0448,山田,herbal,山田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 179,searched,No confirmed candidate is not proof of absence.
+大阪-0448,山田,chai,山田駅 チャイ,genre_search_logs/batch_008.jsonl line 179,searched,No confirmed candidate is not proof of absence.
+大阪-0449,万博記念公園,black_tea,万博記念公園駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0449,万博記念公園,taiwanese_tea,万博記念公園駅 台湾茶,genre_search_logs/batch_008.jsonl line 180,searched,No confirmed candidate is not proof of absence.
+大阪-0449,万博記念公園,chinese_tea,万博記念公園駅 中国茶,genre_search_logs/batch_008.jsonl line 51,searched,No confirmed candidate is not proof of absence.
+大阪-0449,万博記念公園,herbal,万博記念公園駅 ハーブティー,genre_search_logs/batch_008.jsonl line 51,searched,No confirmed candidate is not proof of absence.
+大阪-0449,万博記念公園,chai,万博記念公園駅 チャイ,genre_search_logs/batch_008.jsonl line 51,searched,No confirmed candidate is not proof of absence.
+大阪-0450,星ヶ丘,black_tea,星ヶ丘駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0450,星ヶ丘,taiwanese_tea,星ヶ丘駅 台湾茶,genre_search_logs/batch_008.jsonl line 51,searched,No confirmed candidate is not proof of absence.
+大阪-0450,星ヶ丘,chinese_tea,星ヶ丘駅 中国茶,genre_search_logs/batch_008.jsonl line 52,searched,No confirmed candidate is not proof of absence.
+大阪-0450,星ヶ丘,herbal,星ヶ丘駅 ハーブティー,genre_search_logs/batch_008.jsonl line 52,searched,No confirmed candidate is not proof of absence.
+大阪-0450,星ヶ丘,chai,星ヶ丘駅 チャイ,genre_search_logs/batch_008.jsonl line 52,searched,No confirmed candidate is not proof of absence.
+大阪-0451,宇野辺,black_tea,宇野辺駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0451,宇野辺,taiwanese_tea,宇野辺駅 台湾茶,genre_search_logs/batch_008.jsonl line 52,searched,No confirmed candidate is not proof of absence.
+大阪-0451,宇野辺,chinese_tea,宇野辺駅 中国茶,genre_search_logs/batch_008.jsonl line 53,searched,No confirmed candidate is not proof of absence.
+大阪-0451,宇野辺,herbal,宇野辺駅 ハーブティー,genre_search_logs/batch_008.jsonl line 53,searched,No confirmed candidate is not proof of absence.
+大阪-0451,宇野辺,chai,宇野辺駅 チャイ,genre_search_logs/batch_008.jsonl line 53,searched,No confirmed candidate is not proof of absence.
+大阪-0452,千里中央,black_tea,千里中央駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0452,千里中央,taiwanese_tea,千里中央駅 台湾茶,genre_search_logs/batch_008.jsonl line 180,searched,No confirmed candidate is not proof of absence.
+大阪-0452,千里中央,chinese_tea,千里中央駅 中国茶,genre_search_logs/batch_008.jsonl line 180,searched,No confirmed candidate is not proof of absence.
+大阪-0452,千里中央,herbal,千里中央駅 ハーブティー,genre_search_logs/batch_008.jsonl line 180,searched,No confirmed candidate is not proof of absence.
+大阪-0452,千里中央,chai,千里中央駅 チャイ,genre_search_logs/batch_008.jsonl line 181,searched,No confirmed candidate is not proof of absence.
+大阪-0453,石橋阪大前,black_tea,石橋阪大前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0453,石橋阪大前,taiwanese_tea,石橋阪大前駅 台湾茶,genre_search_logs/batch_008.jsonl line 181,searched,No confirmed candidate is not proof of absence.
+大阪-0453,石橋阪大前,chinese_tea,石橋阪大前駅 中国茶,genre_search_logs/batch_008.jsonl line 181,searched,No confirmed candidate is not proof of absence.
+大阪-0453,石橋阪大前,herbal,石橋阪大前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 181,searched,No confirmed candidate is not proof of absence.
+大阪-0453,石橋阪大前,chai,石橋阪大前駅 チャイ,genre_search_logs/batch_008.jsonl line 182,searched,No confirmed candidate is not proof of absence.
+大阪-0454,公園東口,black_tea,公園東口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0454,公園東口,taiwanese_tea,公園東口駅 台湾茶,genre_search_logs/batch_008.jsonl line 53,searched,No confirmed candidate is not proof of absence.
+大阪-0454,公園東口,chinese_tea,公園東口駅 中国茶,genre_search_logs/batch_008.jsonl line 54,searched,No confirmed candidate is not proof of absence.
+大阪-0454,公園東口,herbal,公園東口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 54,searched,No confirmed candidate is not proof of absence.
+大阪-0454,公園東口,chai,公園東口駅 チャイ,genre_search_logs/batch_008.jsonl line 54,searched,No confirmed candidate is not proof of absence.
+大阪-0455,枚方公園,black_tea,枚方公園駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0455,枚方公園,taiwanese_tea,枚方公園駅 台湾茶,genre_search_logs/batch_008.jsonl line 54,searched,No confirmed candidate is not proof of absence.
+大阪-0455,枚方公園,chinese_tea,枚方公園駅 中国茶,genre_search_logs/batch_008.jsonl line 55,searched,No confirmed candidate is not proof of absence.
+大阪-0455,枚方公園,herbal,枚方公園駅 ハーブティー,genre_search_logs/batch_008.jsonl line 55,searched,No confirmed candidate is not proof of absence.
+大阪-0455,枚方公園,chai,枚方公園駅 チャイ,genre_search_logs/batch_008.jsonl line 55,searched,No confirmed candidate is not proof of absence.
+大阪-0456,宮之阪,black_tea,宮之阪駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0456,宮之阪,taiwanese_tea,宮之阪駅 台湾茶,genre_search_logs/batch_008.jsonl line 55,searched,No confirmed candidate is not proof of absence.
+大阪-0456,宮之阪,chinese_tea,宮之阪駅 中国茶,genre_search_logs/batch_008.jsonl line 56,searched,No confirmed candidate is not proof of absence.
+大阪-0456,宮之阪,herbal,宮之阪駅 ハーブティー,genre_search_logs/batch_008.jsonl line 56,searched,No confirmed candidate is not proof of absence.
+大阪-0456,宮之阪,chai,宮之阪駅 チャイ,genre_search_logs/batch_008.jsonl line 56,searched,No confirmed candidate is not proof of absence.
+大阪-0457,藤阪,black_tea,藤阪駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0457,藤阪,taiwanese_tea,藤阪駅 台湾茶,genre_search_logs/batch_008.jsonl line 56,searched,No confirmed candidate is not proof of absence.
+大阪-0457,藤阪,chinese_tea,藤阪駅 中国茶,genre_search_logs/batch_008.jsonl line 57,searched,No confirmed candidate is not proof of absence.
+大阪-0457,藤阪,herbal,藤阪駅 ハーブティー,genre_search_logs/batch_008.jsonl line 57,searched,No confirmed candidate is not proof of absence.
+大阪-0457,藤阪,chai,藤阪駅 チャイ,genre_search_logs/batch_008.jsonl line 57,searched,No confirmed candidate is not proof of absence.
+大阪-0458,茨木,black_tea,茨木駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0458,茨木,taiwanese_tea,茨木駅 台湾茶,genre_search_logs/batch_008.jsonl line 57,searched,No confirmed candidate is not proof of absence.
+大阪-0458,茨木,chinese_tea,茨木駅 中国茶,genre_search_logs/batch_008.jsonl line 58,searched,No confirmed candidate is not proof of absence.
+大阪-0458,茨木,herbal,茨木駅 ハーブティー,genre_search_logs/batch_008.jsonl line 58,searched,No confirmed candidate is not proof of absence.
+大阪-0458,茨木,chai,茨木駅 チャイ,genre_search_logs/batch_008.jsonl line 58,searched,No confirmed candidate is not proof of absence.
+大阪-0459,枚方市,black_tea,枚方市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0459,枚方市,taiwanese_tea,枚方市駅 台湾茶,genre_search_logs/batch_008.jsonl line 58,searched,No confirmed candidate is not proof of absence.
+大阪-0459,枚方市,chinese_tea,枚方市駅 中国茶,genre_search_logs/batch_008.jsonl line 182,searched,No confirmed candidate is not proof of absence.
+大阪-0459,枚方市,herbal,枚方市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 59,searched,No confirmed candidate is not proof of absence.
+大阪-0459,枚方市,chai,枚方市駅 チャイ,genre_search_logs/batch_008.jsonl line 59,searched,No confirmed candidate is not proof of absence.
+大阪-0460,桜井,black_tea,桜井駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0460,桜井,taiwanese_tea,桜井駅 台湾茶,genre_search_logs/batch_008.jsonl line 59,searched,No confirmed candidate is not proof of absence.
+大阪-0460,桜井,chinese_tea,桜井駅 中国茶,genre_search_logs/batch_008.jsonl line 59,searched,No confirmed candidate is not proof of absence.
+大阪-0460,桜井,herbal,桜井駅 ハーブティー,genre_search_logs/batch_008.jsonl line 60,searched,No confirmed candidate is not proof of absence.
+大阪-0460,桜井,chai,桜井駅 チャイ,genre_search_logs/batch_008.jsonl line 60,searched,No confirmed candidate is not proof of absence.
+大阪-0461,茨木市,black_tea,茨木市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0461,茨木市,taiwanese_tea,茨木市駅 台湾茶,genre_search_logs/batch_008.jsonl line 60,searched,No confirmed candidate is not proof of absence.
+大阪-0461,茨木市,chinese_tea,茨木市駅 中国茶,genre_search_logs/batch_008.jsonl line 60,searched,No confirmed candidate is not proof of absence.
+大阪-0461,茨木市,herbal,茨木市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 61,searched,No confirmed candidate is not proof of absence.
+大阪-0461,茨木市,chai,茨木市駅 チャイ,genre_search_logs/batch_008.jsonl line 61,searched,No confirmed candidate is not proof of absence.
+大阪-0462,阪大病院前,black_tea,阪大病院前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0462,阪大病院前,taiwanese_tea,阪大病院前駅 台湾茶,genre_search_logs/batch_008.jsonl line 61,searched,No confirmed candidate is not proof of absence.
+大阪-0462,阪大病院前,chinese_tea,阪大病院前駅 中国茶,genre_search_logs/batch_008.jsonl line 61,searched,No confirmed candidate is not proof of absence.
+大阪-0462,阪大病院前,herbal,阪大病院前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 62,searched,No confirmed candidate is not proof of absence.
+大阪-0462,阪大病院前,chai,阪大病院前駅 チャイ,genre_search_logs/batch_008.jsonl line 62,searched,No confirmed candidate is not proof of absence.
+大阪-0463,北千里,black_tea,北千里駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0463,北千里,taiwanese_tea,北千里駅 台湾茶,genre_search_logs/batch_008.jsonl line 62,searched,No confirmed candidate is not proof of absence.
+大阪-0463,北千里,chinese_tea,北千里駅 中国茶,genre_search_logs/batch_008.jsonl line 62,searched,No confirmed candidate is not proof of absence.
+大阪-0463,北千里,herbal,北千里駅 ハーブティー,genre_search_logs/batch_008.jsonl line 63,searched,No confirmed candidate is not proof of absence.
+大阪-0463,北千里,chai,北千里駅 チャイ,genre_search_logs/batch_008.jsonl line 63,searched,No confirmed candidate is not proof of absence.
+大阪-0464,池田,black_tea,池田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0464,池田,taiwanese_tea,池田駅 台湾茶,genre_search_logs/batch_008.jsonl line 63,searched,No confirmed candidate is not proof of absence.
+大阪-0464,池田,chinese_tea,池田駅 中国茶,genre_search_logs/batch_008.jsonl line 63,searched,No confirmed candidate is not proof of absence.
+大阪-0464,池田,herbal,池田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 64,searched,No confirmed candidate is not proof of absence.
+大阪-0464,池田,chai,池田駅 チャイ,genre_search_logs/batch_008.jsonl line 64,searched,No confirmed candidate is not proof of absence.
+大阪-0465,箕面船場阪大前,black_tea,箕面船場阪大前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0465,箕面船場阪大前,taiwanese_tea,箕面船場阪大前駅 台湾茶,genre_search_logs/batch_008.jsonl line 64,searched,No confirmed candidate is not proof of absence.
+大阪-0465,箕面船場阪大前,chinese_tea,箕面船場阪大前駅 中国茶,genre_search_logs/batch_008.jsonl line 64,searched,No confirmed candidate is not proof of absence.
+大阪-0465,箕面船場阪大前,herbal,箕面船場阪大前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 65,searched,No confirmed candidate is not proof of absence.
+大阪-0465,箕面船場阪大前,chai,箕面船場阪大前駅 チャイ,genre_search_logs/batch_008.jsonl line 65,searched,No confirmed candidate is not proof of absence.
+大阪-0466,牧落,black_tea,牧落駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0466,牧落,taiwanese_tea,牧落駅 台湾茶,genre_search_logs/batch_008.jsonl line 65,searched,No confirmed candidate is not proof of absence.
+大阪-0466,牧落,chinese_tea,牧落駅 中国茶,genre_search_logs/batch_008.jsonl line 65,searched,No confirmed candidate is not proof of absence.
+大阪-0466,牧落,herbal,牧落駅 ハーブティー,genre_search_logs/batch_008.jsonl line 66,searched,No confirmed candidate is not proof of absence.
+大阪-0466,牧落,chai,牧落駅 チャイ,genre_search_logs/batch_008.jsonl line 66,searched,No confirmed candidate is not proof of absence.
+大阪-0467,長尾,black_tea,長尾駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0467,長尾,taiwanese_tea,長尾駅 台湾茶,genre_search_logs/batch_008.jsonl line 66,searched,No confirmed candidate is not proof of absence.
+大阪-0467,長尾,chinese_tea,長尾駅 中国茶,genre_search_logs/batch_008.jsonl line 66,searched,No confirmed candidate is not proof of absence.
+大阪-0467,長尾,herbal,長尾駅 ハーブティー,genre_search_logs/batch_008.jsonl line 67,searched,No confirmed candidate is not proof of absence.
+大阪-0467,長尾,chai,長尾駅 チャイ,genre_search_logs/batch_008.jsonl line 67,searched,No confirmed candidate is not proof of absence.
+大阪-0468,総持寺,black_tea,総持寺駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0468,総持寺,taiwanese_tea,総持寺駅 台湾茶,genre_search_logs/batch_008.jsonl line 182,searched,No confirmed candidate is not proof of absence.
+大阪-0468,総持寺,chinese_tea,総持寺駅 中国茶,genre_search_logs/batch_008.jsonl line 182,searched,No confirmed candidate is not proof of absence.
+大阪-0468,総持寺,herbal,総持寺駅 ハーブティー,genre_search_logs/batch_008.jsonl line 183,searched,No confirmed candidate is not proof of absence.
+大阪-0468,総持寺,chai,総持寺駅 チャイ,genre_search_logs/batch_008.jsonl line 183,searched,No confirmed candidate is not proof of absence.
+大阪-0469,御殿山,black_tea,御殿山駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0469,御殿山,taiwanese_tea,御殿山駅 台湾茶,genre_search_logs/batch_008.jsonl line 67,searched,No confirmed candidate is not proof of absence.
+大阪-0469,御殿山,chinese_tea,御殿山駅 中国茶,genre_search_logs/batch_008.jsonl line 67,searched,No confirmed candidate is not proof of absence.
+大阪-0469,御殿山,herbal,御殿山駅 ハーブティー,genre_search_logs/batch_008.jsonl line 68,searched,No confirmed candidate is not proof of absence.
+大阪-0469,御殿山,chai,御殿山駅 チャイ,genre_search_logs/batch_008.jsonl line 68,searched,No confirmed candidate is not proof of absence.
+大阪-0470,JR総持寺,black_tea,JR総持寺駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0470,JR総持寺,taiwanese_tea,JR総持寺駅 台湾茶,genre_search_logs/batch_008.jsonl line 68,searched,No confirmed candidate is not proof of absence.
+大阪-0470,JR総持寺,chinese_tea,JR総持寺駅 中国茶,genre_search_logs/batch_008.jsonl line 68,searched,No confirmed candidate is not proof of absence.
+大阪-0470,JR総持寺,herbal,JR総持寺駅 ハーブティー,genre_search_logs/batch_008.jsonl line 69,searched,No confirmed candidate is not proof of absence.
+大阪-0470,JR総持寺,chai,JR総持寺駅 チャイ,genre_search_logs/batch_008.jsonl line 69,searched,No confirmed candidate is not proof of absence.
+大阪-0471,箕面萱野,black_tea,箕面萱野駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0471,箕面萱野,taiwanese_tea,箕面萱野駅 台湾茶,genre_search_logs/batch_008.jsonl line 69,searched,No confirmed candidate is not proof of absence.
+大阪-0471,箕面萱野,chinese_tea,箕面萱野駅 中国茶,genre_search_logs/batch_008.jsonl line 69,searched,No confirmed candidate is not proof of absence.
+大阪-0471,箕面萱野,herbal,箕面萱野駅 ハーブティー,genre_search_logs/batch_008.jsonl line 70,searched,No confirmed candidate is not proof of absence.
+大阪-0471,箕面萱野,chai,箕面萱野駅 チャイ,genre_search_logs/batch_008.jsonl line 70,searched,No confirmed candidate is not proof of absence.
+大阪-0472,箕面,black_tea,箕面駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0472,箕面,taiwanese_tea,箕面駅 台湾茶,genre_search_logs/batch_008.jsonl line 183,searched,No confirmed candidate is not proof of absence.
+大阪-0472,箕面,chinese_tea,箕面駅 中国茶,genre_search_logs/batch_008.jsonl line 183,searched,No confirmed candidate is not proof of absence.
+大阪-0472,箕面,herbal,箕面駅 ハーブティー,genre_search_logs/batch_008.jsonl line 70,searched,No confirmed candidate is not proof of absence.
+大阪-0472,箕面,chai,箕面駅 チャイ,genre_search_logs/batch_008.jsonl line 70,searched,No confirmed candidate is not proof of absence.
+大阪-0473,豊川,black_tea,豊川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0473,豊川,taiwanese_tea,豊川駅 台湾茶,genre_search_logs/batch_008.jsonl line 71,searched,No confirmed candidate is not proof of absence.
+大阪-0473,豊川,chinese_tea,豊川駅 中国茶,genre_search_logs/batch_008.jsonl line 71,searched,No confirmed candidate is not proof of absence.
+大阪-0473,豊川,herbal,豊川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 71,searched,No confirmed candidate is not proof of absence.
+大阪-0473,豊川,chai,豊川駅 チャイ,genre_search_logs/batch_008.jsonl line 71,searched,No confirmed candidate is not proof of absence.
+大阪-0474,富田,black_tea,富田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0474,富田,taiwanese_tea,富田駅 台湾茶,genre_search_logs/batch_008.jsonl line 72,searched,No confirmed candidate is not proof of absence.
+大阪-0474,富田,chinese_tea,富田駅 中国茶,genre_search_logs/batch_008.jsonl line 72,searched,No confirmed candidate is not proof of absence.
+大阪-0474,富田,herbal,富田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 72,searched,No confirmed candidate is not proof of absence.
+大阪-0474,富田,chai,富田駅 チャイ,genre_search_logs/batch_008.jsonl line 72,searched,No confirmed candidate is not proof of absence.
+大阪-0475,摂津富田,black_tea,摂津富田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0475,摂津富田,taiwanese_tea,摂津富田駅 台湾茶,genre_search_logs/batch_008.jsonl line 73,searched,No confirmed candidate is not proof of absence.
+大阪-0475,摂津富田,chinese_tea,摂津富田駅 中国茶,genre_search_logs/batch_008.jsonl line 73,searched,No confirmed candidate is not proof of absence.
+大阪-0475,摂津富田,herbal,摂津富田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 73,searched,No confirmed candidate is not proof of absence.
+大阪-0475,摂津富田,chai,摂津富田駅 チャイ,genre_search_logs/batch_008.jsonl line 73,searched,No confirmed candidate is not proof of absence.
+大阪-0476,牧野,black_tea,牧野駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0476,牧野,taiwanese_tea,牧野駅 台湾茶,genre_search_logs/batch_008.jsonl line 74,searched,No confirmed candidate is not proof of absence.
+大阪-0476,牧野,chinese_tea,牧野駅 中国茶,genre_search_logs/batch_008.jsonl line 74,searched,No confirmed candidate is not proof of absence.
+大阪-0476,牧野,herbal,牧野駅 ハーブティー,genre_search_logs/batch_008.jsonl line 74,searched,No confirmed candidate is not proof of absence.
+大阪-0476,牧野,chai,牧野駅 チャイ,genre_search_logs/batch_008.jsonl line 74,searched,No confirmed candidate is not proof of absence.
+大阪-0477,高槻市,black_tea,高槻市駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0477,高槻市,taiwanese_tea,高槻市駅 台湾茶,genre_search_logs/batch_008.jsonl line 184,searched,No confirmed candidate is not proof of absence.
+大阪-0477,高槻市,chinese_tea,高槻市駅 中国茶,genre_search_logs/batch_008.jsonl line 184,searched,No confirmed candidate is not proof of absence.
+大阪-0477,高槻市,herbal,高槻市駅 ハーブティー,genre_search_logs/batch_008.jsonl line 184,searched,No confirmed candidate is not proof of absence.
+大阪-0477,高槻市,chai,高槻市駅 チャイ,genre_search_logs/batch_008.jsonl line 184,searched,No confirmed candidate is not proof of absence.
+大阪-0478,高槻,black_tea,高槻駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0478,高槻,taiwanese_tea,高槻駅 台湾茶,genre_search_logs/batch_008.jsonl line 75,searched,No confirmed candidate is not proof of absence.
+大阪-0478,高槻,chinese_tea,高槻駅 中国茶,genre_search_logs/batch_008.jsonl line 75,searched,No confirmed candidate is not proof of absence.
+大阪-0478,高槻,herbal,高槻駅 ハーブティー,genre_search_logs/batch_008.jsonl line 75,searched,No confirmed candidate is not proof of absence.
+大阪-0478,高槻,chai,高槻駅 チャイ,genre_search_logs/batch_008.jsonl line 185,searched,No confirmed candidate is not proof of absence.
+大阪-0479,彩都西,black_tea,彩都西駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0479,彩都西,taiwanese_tea,彩都西駅 台湾茶,genre_search_logs/batch_008.jsonl line 185,searched,No confirmed candidate is not proof of absence.
+大阪-0479,彩都西,chinese_tea,彩都西駅 中国茶,genre_search_logs/batch_008.jsonl line 185,searched,No confirmed candidate is not proof of absence.
+大阪-0479,彩都西,herbal,彩都西駅 ハーブティー,genre_search_logs/batch_008.jsonl line 185,searched,No confirmed candidate is not proof of absence.
+大阪-0479,彩都西,chai,彩都西駅 チャイ,genre_search_logs/batch_008.jsonl line 186,searched,No confirmed candidate is not proof of absence.
+大阪-0480,樟葉,black_tea,樟葉駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0480,樟葉,taiwanese_tea,樟葉駅 台湾茶,genre_search_logs/batch_008.jsonl line 75,searched,No confirmed candidate is not proof of absence.
+大阪-0480,樟葉,chinese_tea,樟葉駅 中国茶,genre_search_logs/batch_008.jsonl line 76,searched,No confirmed candidate is not proof of absence.
+大阪-0480,樟葉,herbal,樟葉駅 ハーブティー,genre_search_logs/batch_008.jsonl line 76,searched,No confirmed candidate is not proof of absence.
+大阪-0480,樟葉,chai,樟葉駅 チャイ,genre_search_logs/batch_008.jsonl line 76,searched,No confirmed candidate is not proof of absence.
+大阪-0481,上牧,black_tea,上牧駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0481,上牧,taiwanese_tea,上牧駅 台湾茶,genre_search_logs/batch_008.jsonl line 76,searched,No confirmed candidate is not proof of absence.
+大阪-0481,上牧,chinese_tea,上牧駅 中国茶,genre_search_logs/batch_008.jsonl line 77,searched,No confirmed candidate is not proof of absence.
+大阪-0481,上牧,herbal,上牧駅 ハーブティー,genre_search_logs/batch_008.jsonl line 77,searched,No confirmed candidate is not proof of absence.
+大阪-0481,上牧,chai,上牧駅 チャイ,genre_search_logs/batch_008.jsonl line 77,searched,No confirmed candidate is not proof of absence.
+大阪-0482,水無瀬,black_tea,水無瀬駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0482,水無瀬,taiwanese_tea,水無瀬駅 台湾茶,genre_search_logs/batch_008.jsonl line 77,searched,No confirmed candidate is not proof of absence.
+大阪-0482,水無瀬,chinese_tea,水無瀬駅 中国茶,genre_search_logs/batch_008.jsonl line 78,searched,No confirmed candidate is not proof of absence.
+大阪-0482,水無瀬,herbal,水無瀬駅 ハーブティー,genre_search_logs/batch_008.jsonl line 78,searched,No confirmed candidate is not proof of absence.
+大阪-0482,水無瀬,chai,水無瀬駅 チャイ,genre_search_logs/batch_008.jsonl line 78,searched,No confirmed candidate is not proof of absence.
+大阪-0483,島本,black_tea,島本駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0483,島本,taiwanese_tea,島本駅 台湾茶,genre_search_logs/batch_008.jsonl line 78,searched,No confirmed candidate is not proof of absence.
+大阪-0483,島本,chinese_tea,島本駅 中国茶,genre_search_logs/batch_008.jsonl line 79,searched,No confirmed candidate is not proof of absence.
+大阪-0483,島本,herbal,島本駅 ハーブティー,genre_search_logs/batch_008.jsonl line 79,searched,No confirmed candidate is not proof of absence.
+大阪-0483,島本,chai,島本駅 チャイ,genre_search_logs/batch_008.jsonl line 79,searched,No confirmed candidate is not proof of absence.
+大阪-0484,光風台,black_tea,光風台駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0484,光風台,taiwanese_tea,光風台駅 台湾茶,genre_search_logs/batch_008.jsonl line 79,searched,No confirmed candidate is not proof of absence.
+大阪-0484,光風台,chinese_tea,光風台駅 中国茶,genre_search_logs/batch_008.jsonl line 80,searched,No confirmed candidate is not proof of absence.
+大阪-0484,光風台,herbal,光風台駅 ハーブティー,genre_search_logs/batch_008.jsonl line 80,searched,No confirmed candidate is not proof of absence.
+大阪-0484,光風台,chai,光風台駅 チャイ,genre_search_logs/batch_008.jsonl line 80,searched,No confirmed candidate is not proof of absence.
+大阪-0485,ときわ台,black_tea,ときわ台駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0485,ときわ台,taiwanese_tea,ときわ台駅 台湾茶,genre_search_logs/batch_008.jsonl line 80,searched,No confirmed candidate is not proof of absence.
+大阪-0485,ときわ台,chinese_tea,ときわ台駅 中国茶,genre_search_logs/batch_008.jsonl line 81,searched,No confirmed candidate is not proof of absence.
+大阪-0485,ときわ台,herbal,ときわ台駅 ハーブティー,genre_search_logs/batch_008.jsonl line 81,searched,No confirmed candidate is not proof of absence.
+大阪-0485,ときわ台,chai,ときわ台駅 チャイ,genre_search_logs/batch_008.jsonl line 81,searched,No confirmed candidate is not proof of absence.
+大阪-0486,妙見口,black_tea,妙見口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+大阪-0486,妙見口,taiwanese_tea,妙見口駅 台湾茶,genre_search_logs/batch_008.jsonl line 81,searched,No confirmed candidate is not proof of absence.
+大阪-0486,妙見口,chinese_tea,妙見口駅 中国茶,genre_search_logs/batch_008.jsonl line 82,searched,No confirmed candidate is not proof of absence.
+大阪-0486,妙見口,herbal,妙見口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 82,searched,No confirmed candidate is not proof of absence.
+大阪-0486,妙見口,chai,妙見口駅 チャイ,genre_search_logs/batch_008.jsonl line 82,searched,No confirmed candidate is not proof of absence.
+愛知-0001,三河田原,black_tea,三河田原駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0001,三河田原,taiwanese_tea,三河田原駅 台湾茶,genre_search_logs/batch_008.jsonl line 186,searched,No confirmed candidate is not proof of absence.
+愛知-0001,三河田原,chinese_tea,三河田原駅 中国茶,genre_search_logs/batch_008.jsonl line 82,searched,No confirmed candidate is not proof of absence.
+愛知-0001,三河田原,herbal,三河田原駅 ハーブティー,genre_search_logs/batch_008.jsonl line 83,searched,No confirmed candidate is not proof of absence.
+愛知-0001,三河田原,chai,三河田原駅 チャイ,genre_search_logs/batch_008.jsonl line 83,searched,No confirmed candidate is not proof of absence.
+愛知-0002,豊島,black_tea,豊島駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0002,豊島,taiwanese_tea,豊島駅 台湾茶,genre_search_logs/batch_008.jsonl line 83,searched,No confirmed candidate is not proof of absence.
+愛知-0002,豊島,chinese_tea,豊島駅 中国茶,genre_search_logs/batch_008.jsonl line 83,searched,No confirmed candidate is not proof of absence.
+愛知-0002,豊島,herbal,豊島駅 ハーブティー,genre_search_logs/batch_008.jsonl line 84,searched,No confirmed candidate is not proof of absence.
+愛知-0002,豊島,chai,豊島駅 チャイ,genre_search_logs/batch_008.jsonl line 84,searched,No confirmed candidate is not proof of absence.
+愛知-0003,神戸,black_tea,神戸駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0003,神戸,taiwanese_tea,神戸駅 台湾茶,genre_search_logs/batch_008.jsonl line 84,searched,No confirmed candidate is not proof of absence.
+愛知-0003,神戸,chinese_tea,神戸駅 中国茶,genre_search_logs/batch_008.jsonl line 84,searched,No confirmed candidate is not proof of absence.
+愛知-0003,神戸,herbal,神戸駅 ハーブティー,genre_search_logs/batch_008.jsonl line 85,searched,No confirmed candidate is not proof of absence.
+愛知-0003,神戸,chai,神戸駅 チャイ,genre_search_logs/batch_008.jsonl line 85,searched,No confirmed candidate is not proof of absence.
+愛知-0004,やぐま台,black_tea,やぐま台駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0004,やぐま台,taiwanese_tea,やぐま台駅 台湾茶,genre_search_logs/batch_008.jsonl line 85,searched,No confirmed candidate is not proof of absence.
+愛知-0004,やぐま台,chinese_tea,やぐま台駅 中国茶,genre_search_logs/batch_008.jsonl line 85,searched,No confirmed candidate is not proof of absence.
+愛知-0004,やぐま台,herbal,やぐま台駅 ハーブティー,genre_search_logs/batch_008.jsonl line 86,searched,No confirmed candidate is not proof of absence.
+愛知-0004,やぐま台,chai,やぐま台駅 チャイ,genre_search_logs/batch_008.jsonl line 86,searched,No confirmed candidate is not proof of absence.
+愛知-0005,杉山,black_tea,杉山駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0005,杉山,taiwanese_tea,杉山駅 台湾茶,genre_search_logs/batch_008.jsonl line 86,searched,No confirmed candidate is not proof of absence.
+愛知-0005,杉山,chinese_tea,杉山駅 中国茶,genre_search_logs/batch_008.jsonl line 86,searched,No confirmed candidate is not proof of absence.
+愛知-0005,杉山,herbal,杉山駅 ハーブティー,genre_search_logs/batch_008.jsonl line 87,searched,No confirmed candidate is not proof of absence.
+愛知-0005,杉山,chai,杉山駅 チャイ,genre_search_logs/batch_008.jsonl line 87,searched,No confirmed candidate is not proof of absence.
+愛知-0006,老津,black_tea,老津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0006,老津,taiwanese_tea,老津駅 台湾茶,genre_search_logs/batch_008.jsonl line 186,searched,No confirmed candidate is not proof of absence.
+愛知-0006,老津,chinese_tea,老津駅 中国茶,genre_search_logs/batch_008.jsonl line 87,searched,No confirmed candidate is not proof of absence.
+愛知-0006,老津,herbal,老津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 87,searched,No confirmed candidate is not proof of absence.
+愛知-0006,老津,chai,老津駅 チャイ,genre_search_logs/batch_008.jsonl line 88,searched,No confirmed candidate is not proof of absence.
+愛知-0007,大清水,black_tea,大清水駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0007,大清水,taiwanese_tea,大清水駅 台湾茶,genre_search_logs/batch_008.jsonl line 88,searched,No confirmed candidate is not proof of absence.
+愛知-0007,大清水,chinese_tea,大清水駅 中国茶,genre_search_logs/batch_008.jsonl line 88,searched,No confirmed candidate is not proof of absence.
+愛知-0007,大清水,herbal,大清水駅 ハーブティー,genre_search_logs/batch_008.jsonl line 88,searched,No confirmed candidate is not proof of absence.
+愛知-0007,大清水,chai,大清水駅 チャイ,genre_search_logs/batch_008.jsonl line 89,searched,No confirmed candidate is not proof of absence.
+愛知-0008,向ヶ丘,black_tea,向ヶ丘駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0008,向ヶ丘,taiwanese_tea,向ヶ丘駅 台湾茶,genre_search_logs/batch_008.jsonl line 89,searched,No confirmed candidate is not proof of absence.
+愛知-0008,向ヶ丘,chinese_tea,向ヶ丘駅 中国茶,genre_search_logs/batch_008.jsonl line 89,searched,No confirmed candidate is not proof of absence.
+愛知-0008,向ヶ丘,herbal,向ヶ丘駅 ハーブティー,genre_search_logs/batch_008.jsonl line 89,searched,No confirmed candidate is not proof of absence.
+愛知-0008,向ヶ丘,chai,向ヶ丘駅 チャイ,genre_search_logs/batch_008.jsonl line 90,searched,No confirmed candidate is not proof of absence.
+愛知-0009,植田,black_tea,植田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0009,植田,taiwanese_tea,植田駅 台湾茶,genre_search_logs/batch_008.jsonl line 90,searched,No confirmed candidate is not proof of absence.
+愛知-0009,植田,chinese_tea,植田駅 中国茶,genre_search_logs/batch_008.jsonl line 90,searched,No confirmed candidate is not proof of absence.
+愛知-0009,植田,herbal,植田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 90,searched,No confirmed candidate is not proof of absence.
+愛知-0009,植田,chai,植田駅 チャイ,genre_search_logs/batch_008.jsonl line 91,searched,No confirmed candidate is not proof of absence.
+愛知-0010,芦原,black_tea,芦原駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0010,芦原,taiwanese_tea,芦原駅 台湾茶,genre_search_logs/batch_008.jsonl line 186,searched,No confirmed candidate is not proof of absence.
+愛知-0010,芦原,chinese_tea,芦原駅 中国茶,genre_search_logs/batch_008.jsonl line 187,searched,No confirmed candidate is not proof of absence.
+愛知-0010,芦原,herbal,芦原駅 ハーブティー,genre_search_logs/batch_008.jsonl line 187,searched,No confirmed candidate is not proof of absence.
+愛知-0010,芦原,chai,芦原駅 チャイ,genre_search_logs/batch_008.jsonl line 187,searched,No confirmed candidate is not proof of absence.
+愛知-0011,二川,black_tea,二川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0011,二川,taiwanese_tea,二川駅 台湾茶,genre_search_logs/batch_008.jsonl line 91,searched,No confirmed candidate is not proof of absence.
+愛知-0011,二川,chinese_tea,二川駅 中国茶,genre_search_logs/batch_008.jsonl line 187,searched,No confirmed candidate is not proof of absence.
+愛知-0011,二川,herbal,二川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 91,searched,No confirmed candidate is not proof of absence.
+愛知-0011,二川,chai,二川駅 チャイ,genre_search_logs/batch_008.jsonl line 91,searched,No confirmed candidate is not proof of absence.
+愛知-0012,高師,black_tea,高師駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0012,高師,taiwanese_tea,高師駅 台湾茶,genre_search_logs/batch_008.jsonl line 188,searched,No confirmed candidate is not proof of absence.
+愛知-0012,高師,chinese_tea,高師駅 中国茶,genre_search_logs/batch_008.jsonl line 92,searched,No confirmed candidate is not proof of absence.
+愛知-0012,高師,herbal,高師駅 ハーブティー,genre_search_logs/batch_008.jsonl line 92,searched,No confirmed candidate is not proof of absence.
+愛知-0012,高師,chai,高師駅 チャイ,genre_search_logs/batch_008.jsonl line 92,searched,No confirmed candidate is not proof of absence.
+愛知-0013,南栄,black_tea,南栄駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0013,南栄,taiwanese_tea,南栄駅 台湾茶,genre_search_logs/batch_008.jsonl line 92,searched,No confirmed candidate is not proof of absence.
+愛知-0013,南栄,chinese_tea,南栄駅 中国茶,genre_search_logs/batch_008.jsonl line 93,searched,No confirmed candidate is not proof of absence.
+愛知-0013,南栄,herbal,南栄駅 ハーブティー,genre_search_logs/batch_008.jsonl line 93,searched,No confirmed candidate is not proof of absence.
+愛知-0013,南栄,chai,南栄駅 チャイ,genre_search_logs/batch_008.jsonl line 188,searched,No confirmed candidate is not proof of absence.
+愛知-0014,愛知大学前,black_tea,愛知大学前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0014,愛知大学前,taiwanese_tea,愛知大学前駅 台湾茶,genre_search_logs/batch_008.jsonl line 188,searched,No confirmed candidate is not proof of absence.
+愛知-0014,愛知大学前,chinese_tea,愛知大学前駅 中国茶,genre_search_logs/batch_008.jsonl line 188,searched,No confirmed candidate is not proof of absence.
+愛知-0014,愛知大学前,herbal,愛知大学前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 93,searched,No confirmed candidate is not proof of absence.
+愛知-0014,愛知大学前,chai,愛知大学前駅 チャイ,genre_search_logs/batch_008.jsonl line 93,searched,No confirmed candidate is not proof of absence.
+愛知-0015,内海,black_tea,内海駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0015,内海,taiwanese_tea,内海駅 台湾茶,genre_search_logs/batch_008.jsonl line 94,searched,No confirmed candidate is not proof of absence.
+愛知-0015,内海,chinese_tea,内海駅 中国茶,genre_search_logs/batch_008.jsonl line 94,searched,No confirmed candidate is not proof of absence.
+愛知-0015,内海,herbal,内海駅 ハーブティー,genre_search_logs/batch_008.jsonl line 94,searched,No confirmed candidate is not proof of absence.
+愛知-0015,内海,chai,内海駅 チャイ,genre_search_logs/batch_008.jsonl line 94,searched,No confirmed candidate is not proof of absence.
+愛知-0016,小池,black_tea,小池駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0016,小池,taiwanese_tea,小池駅 台湾茶,genre_search_logs/batch_008.jsonl line 95,searched,No confirmed candidate is not proof of absence.
+愛知-0016,小池,chinese_tea,小池駅 中国茶,genre_search_logs/batch_008.jsonl line 95,searched,No confirmed candidate is not proof of absence.
+愛知-0016,小池,herbal,小池駅 ハーブティー,genre_search_logs/batch_008.jsonl line 95,searched,No confirmed candidate is not proof of absence.
+愛知-0016,小池,chai,小池駅 チャイ,genre_search_logs/batch_008.jsonl line 95,searched,No confirmed candidate is not proof of absence.
+愛知-0017,柳生橋,black_tea,柳生橋駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0017,柳生橋,taiwanese_tea,柳生橋駅 台湾茶,genre_search_logs/batch_008.jsonl line 96,searched,No confirmed candidate is not proof of absence.
+愛知-0017,柳生橋,chinese_tea,柳生橋駅 中国茶,genre_search_logs/batch_008.jsonl line 96,searched,No confirmed candidate is not proof of absence.
+愛知-0017,柳生橋,herbal,柳生橋駅 ハーブティー,genre_search_logs/batch_008.jsonl line 96,searched,No confirmed candidate is not proof of absence.
+愛知-0017,柳生橋,chai,柳生橋駅 チャイ,genre_search_logs/batch_008.jsonl line 96,searched,No confirmed candidate is not proof of absence.
+愛知-0018,運動公園前,black_tea,運動公園前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0018,運動公園前,taiwanese_tea,運動公園前駅 台湾茶,genre_search_logs/batch_008.jsonl line 97,searched,No confirmed candidate is not proof of absence.
+愛知-0018,運動公園前,chinese_tea,運動公園前駅 中国茶,genre_search_logs/batch_008.jsonl line 97,searched,No confirmed candidate is not proof of absence.
+愛知-0018,運動公園前,herbal,運動公園前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 97,searched,No confirmed candidate is not proof of absence.
+愛知-0018,運動公園前,chai,運動公園前駅 チャイ,genre_search_logs/batch_008.jsonl line 97,searched,No confirmed candidate is not proof of absence.
+愛知-0019,豊橋,black_tea,豊橋駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0019,豊橋,taiwanese_tea,豊橋駅 台湾茶,genre_search_logs/batch_008.jsonl line 189,searched,No confirmed candidate is not proof of absence.
+愛知-0019,豊橋,chinese_tea,豊橋駅 中国茶,genre_search_logs/batch_008.jsonl line 189,searched,No confirmed candidate is not proof of absence.
+愛知-0019,豊橋,herbal,豊橋駅 ハーブティー,genre_search_logs/batch_008.jsonl line 98,searched,No confirmed candidate is not proof of absence.
+愛知-0019,豊橋,chai,豊橋駅 チャイ,genre_search_logs/batch_008.jsonl line 98,searched,No confirmed candidate is not proof of absence.
+愛知-0020,新豊橋,black_tea,新豊橋駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0020,新豊橋,taiwanese_tea,新豊橋駅 台湾茶,genre_search_logs/batch_008.jsonl line 98,searched,No confirmed candidate is not proof of absence.
+愛知-0020,新豊橋,chinese_tea,新豊橋駅 中国茶,genre_search_logs/batch_008.jsonl line 98,searched,No confirmed candidate is not proof of absence.
+愛知-0020,新豊橋,herbal,新豊橋駅 ハーブティー,genre_search_logs/batch_008.jsonl line 99,searched,No confirmed candidate is not proof of absence.
+愛知-0020,新豊橋,chai,新豊橋駅 チャイ,genre_search_logs/batch_008.jsonl line 99,searched,No confirmed candidate is not proof of absence.
+愛知-0021,新川,black_tea,新川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0021,新川,taiwanese_tea,新川駅 台湾茶,genre_search_logs/batch_008.jsonl line 99,searched,No confirmed candidate is not proof of absence.
+愛知-0021,新川,chinese_tea,新川駅 中国茶,genre_search_logs/batch_008.jsonl line 99,searched,No confirmed candidate is not proof of absence.
+愛知-0021,新川,herbal,新川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 100,searched,No confirmed candidate is not proof of absence.
+愛知-0021,新川,chai,新川駅 チャイ,genre_search_logs/batch_008.jsonl line 100,searched,No confirmed candidate is not proof of absence.
+愛知-0022,駅前大通,black_tea,駅前大通駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0022,駅前大通,taiwanese_tea,駅前大通駅 台湾茶,genre_search_logs/batch_008.jsonl line 100,searched,No confirmed candidate is not proof of absence.
+愛知-0022,駅前大通,chinese_tea,駅前大通駅 中国茶,genre_search_logs/batch_008.jsonl line 100,searched,No confirmed candidate is not proof of absence.
+愛知-0022,駅前大通,herbal,駅前大通駅 ハーブティー,genre_search_logs/batch_008.jsonl line 101,searched,No confirmed candidate is not proof of absence.
+愛知-0022,駅前大通,chai,駅前大通駅 チャイ,genre_search_logs/batch_008.jsonl line 101,searched,No confirmed candidate is not proof of absence.
+愛知-0023,赤岩口,black_tea,赤岩口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0023,赤岩口,taiwanese_tea,赤岩口駅 台湾茶,genre_search_logs/batch_008.jsonl line 189,searched,No confirmed candidate is not proof of absence.
+愛知-0023,赤岩口,chinese_tea,赤岩口駅 中国茶,genre_search_logs/batch_008.jsonl line 189,searched,No confirmed candidate is not proof of absence.
+愛知-0023,赤岩口,herbal,赤岩口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 190,searched,No confirmed candidate is not proof of absence.
+愛知-0023,赤岩口,chai,赤岩口駅 チャイ,genre_search_logs/batch_008.jsonl line 190,searched,No confirmed candidate is not proof of absence.
+愛知-0024,駅前,black_tea,駅前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0024,駅前,taiwanese_tea,駅前駅 台湾茶,genre_search_logs/batch_008.jsonl line 101,searched,No confirmed candidate is not proof of absence.
+愛知-0024,駅前,chinese_tea,駅前駅 中国茶,genre_search_logs/batch_008.jsonl line 101,searched,No confirmed candidate is not proof of absence.
+愛知-0024,駅前,herbal,駅前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 102,searched,No confirmed candidate is not proof of absence.
+愛知-0024,駅前,chai,駅前駅 チャイ,genre_search_logs/batch_008.jsonl line 102,searched,No confirmed candidate is not proof of absence.
+愛知-0025,井原,black_tea,井原駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0025,井原,taiwanese_tea,井原駅 台湾茶,genre_search_logs/batch_008.jsonl line 190,searched,No confirmed candidate is not proof of absence.
+愛知-0025,井原,chinese_tea,井原駅 中国茶,genre_search_logs/batch_008.jsonl line 190,searched,No confirmed candidate is not proof of absence.
+愛知-0025,井原,herbal,井原駅 ハーブティー,genre_search_logs/batch_008.jsonl line 191,searched,No confirmed candidate is not proof of absence.
+愛知-0025,井原,chai,井原駅 チャイ,genre_search_logs/batch_008.jsonl line 191,searched,No confirmed candidate is not proof of absence.
+愛知-0026,札木,black_tea,札木駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0026,札木,taiwanese_tea,札木駅 台湾茶,genre_search_logs/batch_008.jsonl line 102,searched,No confirmed candidate is not proof of absence.
+愛知-0026,札木,chinese_tea,札木駅 中国茶,genre_search_logs/batch_008.jsonl line 102,searched,No confirmed candidate is not proof of absence.
+愛知-0026,札木,herbal,札木駅 ハーブティー,genre_search_logs/batch_008.jsonl line 103,searched,No confirmed candidate is not proof of absence.
+愛知-0026,札木,chai,札木駅 チャイ,genre_search_logs/batch_008.jsonl line 103,searched,No confirmed candidate is not proof of absence.
+愛知-0027,競輪場前,black_tea,競輪場前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0027,競輪場前,taiwanese_tea,競輪場前駅 台湾茶,genre_search_logs/batch_008.jsonl line 103,searched,No confirmed candidate is not proof of absence.
+愛知-0027,競輪場前,chinese_tea,競輪場前駅 中国茶,genre_search_logs/batch_008.jsonl line 103,searched,No confirmed candidate is not proof of absence.
+愛知-0027,競輪場前,herbal,競輪場前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 104,searched,No confirmed candidate is not proof of absence.
+愛知-0027,競輪場前,chai,競輪場前駅 チャイ,genre_search_logs/batch_008.jsonl line 104,searched,No confirmed candidate is not proof of absence.
+愛知-0028,東田,black_tea,東田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0028,東田,taiwanese_tea,東田駅 台湾茶,genre_search_logs/batch_008.jsonl line 104,searched,No confirmed candidate is not proof of absence.
+愛知-0028,東田,chinese_tea,東田駅 中国茶,genre_search_logs/batch_008.jsonl line 104,searched,No confirmed candidate is not proof of absence.
+愛知-0028,東田,herbal,東田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 105,searched,No confirmed candidate is not proof of absence.
+愛知-0028,東田,chai,東田駅 チャイ,genre_search_logs/batch_008.jsonl line 105,searched,No confirmed candidate is not proof of absence.
+愛知-0029,東田坂上,black_tea,東田坂上駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0029,東田坂上,taiwanese_tea,東田坂上駅 台湾茶,genre_search_logs/batch_008.jsonl line 105,searched,No confirmed candidate is not proof of absence.
+愛知-0029,東田坂上,chinese_tea,東田坂上駅 中国茶,genre_search_logs/batch_008.jsonl line 105,searched,No confirmed candidate is not proof of absence.
+愛知-0029,東田坂上,herbal,東田坂上駅 ハーブティー,genre_search_logs/batch_008.jsonl line 106,searched,No confirmed candidate is not proof of absence.
+愛知-0029,東田坂上,chai,東田坂上駅 チャイ,genre_search_logs/batch_008.jsonl line 106,searched,No confirmed candidate is not proof of absence.
+愛知-0030,前畑,black_tea,前畑駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0030,前畑,taiwanese_tea,前畑駅 台湾茶,genre_search_logs/batch_008.jsonl line 106,searched,No confirmed candidate is not proof of absence.
+愛知-0030,前畑,chinese_tea,前畑駅 中国茶,genre_search_logs/batch_008.jsonl line 106,searched,No confirmed candidate is not proof of absence.
+愛知-0030,前畑,herbal,前畑駅 ハーブティー,genre_search_logs/batch_008.jsonl line 107,searched,No confirmed candidate is not proof of absence.
+愛知-0030,前畑,chai,前畑駅 チャイ,genre_search_logs/batch_008.jsonl line 107,searched,No confirmed candidate is not proof of absence.
+愛知-0031,東八町,black_tea,東八町駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0031,東八町,taiwanese_tea,東八町駅 台湾茶,genre_search_logs/batch_008.jsonl line 107,searched,No confirmed candidate is not proof of absence.
+愛知-0031,東八町,chinese_tea,東八町駅 中国茶,genre_search_logs/batch_008.jsonl line 107,searched,No confirmed candidate is not proof of absence.
+愛知-0031,東八町,herbal,東八町駅 ハーブティー,genre_search_logs/batch_008.jsonl line 108,searched,No confirmed candidate is not proof of absence.
+愛知-0031,東八町,chai,東八町駅 チャイ,genre_search_logs/batch_008.jsonl line 108,searched,No confirmed candidate is not proof of absence.
+愛知-0032,豊橋公園前,black_tea,豊橋公園前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0032,豊橋公園前,taiwanese_tea,豊橋公園前駅 台湾茶,genre_search_logs/batch_008.jsonl line 108,searched,No confirmed candidate is not proof of absence.
+愛知-0032,豊橋公園前,chinese_tea,豊橋公園前駅 中国茶,genre_search_logs/batch_008.jsonl line 108,searched,No confirmed candidate is not proof of absence.
+愛知-0032,豊橋公園前,herbal,豊橋公園前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 109,searched,No confirmed candidate is not proof of absence.
+愛知-0032,豊橋公園前,chai,豊橋公園前駅 チャイ,genre_search_logs/batch_008.jsonl line 109,searched,No confirmed candidate is not proof of absence.
+愛知-0033,市役所前,black_tea,市役所前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0033,市役所前,taiwanese_tea,市役所前駅 台湾茶,genre_search_logs/batch_008.jsonl line 109,searched,No confirmed candidate is not proof of absence.
+愛知-0033,市役所前,chinese_tea,市役所前駅 中国茶,genre_search_logs/batch_008.jsonl line 109,searched,No confirmed candidate is not proof of absence.
+愛知-0033,市役所前,herbal,市役所前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 110,searched,No confirmed candidate is not proof of absence.
+愛知-0033,市役所前,chai,市役所前駅 チャイ,genre_search_logs/batch_008.jsonl line 110,searched,No confirmed candidate is not proof of absence.
+愛知-0034,野間,black_tea,野間駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0034,野間,taiwanese_tea,野間駅 台湾茶,genre_search_logs/batch_008.jsonl line 110,searched,No confirmed candidate is not proof of absence.
+愛知-0034,野間,chinese_tea,野間駅 中国茶,genre_search_logs/batch_008.jsonl line 110,searched,No confirmed candidate is not proof of absence.
+愛知-0034,野間,herbal,野間駅 ハーブティー,genre_search_logs/batch_008.jsonl line 111,searched,No confirmed candidate is not proof of absence.
+愛知-0034,野間,chai,野間駅 チャイ,genre_search_logs/batch_008.jsonl line 111,searched,No confirmed candidate is not proof of absence.
+愛知-0035,船町,black_tea,船町駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0035,船町,taiwanese_tea,船町駅 台湾茶,genre_search_logs/batch_008.jsonl line 111,searched,No confirmed candidate is not proof of absence.
+愛知-0035,船町,chinese_tea,船町駅 中国茶,genre_search_logs/batch_008.jsonl line 111,searched,No confirmed candidate is not proof of absence.
+愛知-0035,船町,herbal,船町駅 ハーブティー,genre_search_logs/batch_008.jsonl line 112,searched,No confirmed candidate is not proof of absence.
+愛知-0035,船町,chai,船町駅 チャイ,genre_search_logs/batch_008.jsonl line 112,searched,No confirmed candidate is not proof of absence.
+愛知-0036,河和,black_tea,河和駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0036,河和,taiwanese_tea,河和駅 台湾茶,genre_search_logs/batch_008.jsonl line 112,searched,No confirmed candidate is not proof of absence.
+愛知-0036,河和,chinese_tea,河和駅 中国茶,genre_search_logs/batch_008.jsonl line 112,searched,No confirmed candidate is not proof of absence.
+愛知-0036,河和,herbal,河和駅 ハーブティー,genre_search_logs/batch_008.jsonl line 113,searched,No confirmed candidate is not proof of absence.
+愛知-0036,河和,chai,河和駅 チャイ,genre_search_logs/batch_008.jsonl line 113,searched,No confirmed candidate is not proof of absence.
+愛知-0037,下地,black_tea,下地駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0037,下地,taiwanese_tea,下地駅 台湾茶,genre_search_logs/batch_008.jsonl line 113,searched,No confirmed candidate is not proof of absence.
+愛知-0037,下地,chinese_tea,下地駅 中国茶,genre_search_logs/batch_008.jsonl line 113,searched,No confirmed candidate is not proof of absence.
+愛知-0037,下地,herbal,下地駅 ハーブティー,genre_search_logs/batch_008.jsonl line 114,searched,No confirmed candidate is not proof of absence.
+愛知-0037,下地,chai,下地駅 チャイ,genre_search_logs/batch_008.jsonl line 114,searched,No confirmed candidate is not proof of absence.
+愛知-0038,知多奥田,black_tea,知多奥田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0038,知多奥田,taiwanese_tea,知多奥田駅 台湾茶,genre_search_logs/batch_008.jsonl line 114,searched,No confirmed candidate is not proof of absence.
+愛知-0038,知多奥田,chinese_tea,知多奥田駅 中国茶,genre_search_logs/batch_008.jsonl line 114,searched,No confirmed candidate is not proof of absence.
+愛知-0038,知多奥田,herbal,知多奥田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 115,searched,No confirmed candidate is not proof of absence.
+愛知-0038,知多奥田,chai,知多奥田駅 チャイ,genre_search_logs/batch_008.jsonl line 115,searched,No confirmed candidate is not proof of absence.
+愛知-0039,こどもの国,black_tea,こどもの国駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0039,こどもの国,taiwanese_tea,こどもの国駅 台湾茶,genre_search_logs/batch_008.jsonl line 191,searched,No confirmed candidate is not proof of absence.
+愛知-0039,こどもの国,chinese_tea,こどもの国駅 中国茶,genre_search_logs/batch_008.jsonl line 191,searched,No confirmed candidate is not proof of absence.
+愛知-0039,こどもの国,herbal,こどもの国駅 ハーブティー,genre_search_logs/batch_008.jsonl line 192,searched,No confirmed candidate is not proof of absence.
+愛知-0039,こどもの国,chai,こどもの国駅 チャイ,genre_search_logs/batch_008.jsonl line 192,searched,No confirmed candidate is not proof of absence.
+愛知-0040,東幡豆,black_tea,東幡豆駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0040,東幡豆,taiwanese_tea,東幡豆駅 台湾茶,genre_search_logs/batch_008.jsonl line 115,searched,No confirmed candidate is not proof of absence.
+愛知-0040,東幡豆,chinese_tea,東幡豆駅 中国茶,genre_search_logs/batch_008.jsonl line 115,searched,No confirmed candidate is not proof of absence.
+愛知-0040,東幡豆,herbal,東幡豆駅 ハーブティー,genre_search_logs/batch_008.jsonl line 116,searched,No confirmed candidate is not proof of absence.
+愛知-0040,東幡豆,chai,東幡豆駅 チャイ,genre_search_logs/batch_008.jsonl line 116,searched,No confirmed candidate is not proof of absence.
+愛知-0041,西浦,black_tea,西浦駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0041,西浦,taiwanese_tea,西浦駅 台湾茶,genre_search_logs/batch_008.jsonl line 116,searched,No confirmed candidate is not proof of absence.
+愛知-0041,西浦,chinese_tea,西浦駅 中国茶,genre_search_logs/batch_008.jsonl line 116,searched,No confirmed candidate is not proof of absence.
+愛知-0041,西浦,herbal,西浦駅 ハーブティー,genre_search_logs/batch_008.jsonl line 117,searched,No confirmed candidate is not proof of absence.
+愛知-0041,西浦,chai,西浦駅 チャイ,genre_search_logs/batch_008.jsonl line 117,searched,No confirmed candidate is not proof of absence.
+愛知-0042,西幡豆,black_tea,西幡豆駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0042,西幡豆,taiwanese_tea,西幡豆駅 台湾茶,genre_search_logs/batch_008.jsonl line 117,searched,No confirmed candidate is not proof of absence.
+愛知-0042,西幡豆,chinese_tea,西幡豆駅 中国茶,genre_search_logs/batch_008.jsonl line 117,searched,No confirmed candidate is not proof of absence.
+愛知-0042,西幡豆,herbal,西幡豆駅 ハーブティー,genre_search_logs/batch_008.jsonl line 118,searched,No confirmed candidate is not proof of absence.
+愛知-0042,西幡豆,chai,西幡豆駅 チャイ,genre_search_logs/batch_008.jsonl line 118,searched,No confirmed candidate is not proof of absence.
+愛知-0043,三河鳥羽,black_tea,三河鳥羽駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0043,三河鳥羽,taiwanese_tea,三河鳥羽駅 台湾茶,genre_search_logs/batch_008.jsonl line 118,searched,No confirmed candidate is not proof of absence.
+愛知-0043,三河鳥羽,chinese_tea,三河鳥羽駅 中国茶,genre_search_logs/batch_008.jsonl line 118,searched,No confirmed candidate is not proof of absence.
+愛知-0043,三河鳥羽,herbal,三河鳥羽駅 ハーブティー,genre_search_logs/batch_008.jsonl line 119,searched,No confirmed candidate is not proof of absence.
+愛知-0043,三河鳥羽,chai,三河鳥羽駅 チャイ,genre_search_logs/batch_008.jsonl line 119,searched,No confirmed candidate is not proof of absence.
+愛知-0044,吉良吉田,black_tea,吉良吉田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0044,吉良吉田,taiwanese_tea,吉良吉田駅 台湾茶,genre_search_logs/batch_008.jsonl line 119,searched,No confirmed candidate is not proof of absence.
+愛知-0044,吉良吉田,chinese_tea,吉良吉田駅 中国茶,genre_search_logs/batch_008.jsonl line 119,searched,No confirmed candidate is not proof of absence.
+愛知-0044,吉良吉田,herbal,吉良吉田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 120,searched,No confirmed candidate is not proof of absence.
+愛知-0044,吉良吉田,chai,吉良吉田駅 チャイ,genre_search_logs/batch_008.jsonl line 120,searched,No confirmed candidate is not proof of absence.
+愛知-0045,西小坂井,black_tea,西小坂井駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0045,西小坂井,taiwanese_tea,西小坂井駅 台湾茶,genre_search_logs/batch_008.jsonl line 120,searched,No confirmed candidate is not proof of absence.
+愛知-0045,西小坂井,chinese_tea,西小坂井駅 中国茶,genre_search_logs/batch_008.jsonl line 120,searched,No confirmed candidate is not proof of absence.
+愛知-0045,西小坂井,herbal,西小坂井駅 ハーブティー,genre_search_logs/batch_008.jsonl line 121,searched,No confirmed candidate is not proof of absence.
+愛知-0045,西小坂井,chai,西小坂井駅 チャイ,genre_search_logs/batch_008.jsonl line 121,searched,No confirmed candidate is not proof of absence.
+愛知-0046,小坂井,black_tea,小坂井駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0046,小坂井,taiwanese_tea,小坂井駅 台湾茶,genre_search_logs/batch_008.jsonl line 192,searched,No confirmed candidate is not proof of absence.
+愛知-0046,小坂井,chinese_tea,小坂井駅 中国茶,genre_search_logs/batch_008.jsonl line 192,searched,No confirmed candidate is not proof of absence.
+愛知-0046,小坂井,herbal,小坂井駅 ハーブティー,genre_search_logs/batch_008.jsonl line 193,searched,No confirmed candidate is not proof of absence.
+愛知-0046,小坂井,chai,小坂井駅 チャイ,genre_search_logs/batch_008.jsonl line 193,searched,No confirmed candidate is not proof of absence.
+愛知-0047,河和口,black_tea,河和口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0047,河和口,taiwanese_tea,河和口駅 台湾茶,genre_search_logs/batch_008.jsonl line 193,searched,No confirmed candidate is not proof of absence.
+愛知-0047,河和口,chinese_tea,河和口駅 中国茶,genre_search_logs/batch_008.jsonl line 193,searched,No confirmed candidate is not proof of absence.
+愛知-0047,河和口,herbal,河和口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 194,searched,No confirmed candidate is not proof of absence.
+愛知-0047,河和口,chai,河和口駅 チャイ,genre_search_logs/batch_008.jsonl line 194,searched,No confirmed candidate is not proof of absence.
+愛知-0048,形原,black_tea,形原駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0048,形原,taiwanese_tea,形原駅 台湾茶,genre_search_logs/batch_008.jsonl line 121,searched,No confirmed candidate is not proof of absence.
+愛知-0048,形原,chinese_tea,形原駅 中国茶,genre_search_logs/batch_008.jsonl line 121,searched,No confirmed candidate is not proof of absence.
+愛知-0048,形原,herbal,形原駅 ハーブティー,genre_search_logs/batch_008.jsonl line 122,searched,No confirmed candidate is not proof of absence.
+愛知-0048,形原,chai,形原駅 チャイ,genre_search_logs/batch_008.jsonl line 122,searched,No confirmed candidate is not proof of absence.
+愛知-0049,美浜緑苑,black_tea,美浜緑苑駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0049,美浜緑苑,taiwanese_tea,美浜緑苑駅 台湾茶,genre_search_logs/batch_008.jsonl line 122,searched,No confirmed candidate is not proof of absence.
+愛知-0049,美浜緑苑,chinese_tea,美浜緑苑駅 中国茶,genre_search_logs/batch_008.jsonl line 122,searched,No confirmed candidate is not proof of absence.
+愛知-0049,美浜緑苑,herbal,美浜緑苑駅 ハーブティー,genre_search_logs/batch_008.jsonl line 123,searched,No confirmed candidate is not proof of absence.
+愛知-0049,美浜緑苑,chai,美浜緑苑駅 チャイ,genre_search_logs/batch_008.jsonl line 123,searched,No confirmed candidate is not proof of absence.
+愛知-0050,伊奈,black_tea,伊奈駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0050,伊奈,taiwanese_tea,伊奈駅 台湾茶,genre_search_logs/batch_008.jsonl line 123,searched,No confirmed candidate is not proof of absence.
+愛知-0050,伊奈,chinese_tea,伊奈駅 中国茶,genre_search_logs/batch_008.jsonl line 123,searched,No confirmed candidate is not proof of absence.
+愛知-0050,伊奈,herbal,伊奈駅 ハーブティー,genre_search_logs/batch_008.jsonl line 124,searched,No confirmed candidate is not proof of absence.
+愛知-0050,伊奈,chai,伊奈駅 チャイ,genre_search_logs/batch_008.jsonl line 124,searched,No confirmed candidate is not proof of absence.
+愛知-0051,上野間,black_tea,上野間駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0051,上野間,taiwanese_tea,上野間駅 台湾茶,genre_search_logs/batch_008.jsonl line 124,searched,No confirmed candidate is not proof of absence.
+愛知-0051,上野間,chinese_tea,上野間駅 中国茶,genre_search_logs/batch_008.jsonl line 124,searched,No confirmed candidate is not proof of absence.
+愛知-0051,上野間,herbal,上野間駅 ハーブティー,genre_search_logs/batch_008.jsonl line 125,searched,No confirmed candidate is not proof of absence.
+愛知-0051,上野間,chai,上野間駅 チャイ,genre_search_logs/batch_008.jsonl line 125,searched,No confirmed candidate is not proof of absence.
+愛知-0052,牛久保,black_tea,牛久保駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0052,牛久保,taiwanese_tea,牛久保駅 台湾茶,genre_search_logs/batch_008.jsonl line 125,searched,No confirmed candidate is not proof of absence.
+愛知-0052,牛久保,chinese_tea,牛久保駅 中国茶,genre_search_logs/batch_008.jsonl line 125,searched,No confirmed candidate is not proof of absence.
+愛知-0052,牛久保,herbal,牛久保駅 ハーブティー,genre_search_logs/batch_008.jsonl line 126,searched,No confirmed candidate is not proof of absence.
+愛知-0052,牛久保,chai,牛久保駅 チャイ,genre_search_logs/batch_008.jsonl line 126,searched,No confirmed candidate is not proof of absence.
+愛知-0053,愛知御津,black_tea,愛知御津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0053,愛知御津,taiwanese_tea,愛知御津駅 台湾茶,genre_search_logs/batch_008.jsonl line 126,searched,No confirmed candidate is not proof of absence.
+愛知-0053,愛知御津,chinese_tea,愛知御津駅 中国茶,genre_search_logs/batch_008.jsonl line 126,searched,No confirmed candidate is not proof of absence.
+愛知-0053,愛知御津,herbal,愛知御津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 127,searched,No confirmed candidate is not proof of absence.
+愛知-0053,愛知御津,chai,愛知御津駅 チャイ,genre_search_logs/batch_008.jsonl line 127,searched,No confirmed candidate is not proof of absence.
+愛知-0054,三河鹿島,black_tea,三河鹿島駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0054,三河鹿島,taiwanese_tea,三河鹿島駅 台湾茶,genre_search_logs/batch_008.jsonl line 127,searched,No confirmed candidate is not proof of absence.
+愛知-0054,三河鹿島,chinese_tea,三河鹿島駅 中国茶,genre_search_logs/batch_008.jsonl line 127,searched,No confirmed candidate is not proof of absence.
+愛知-0054,三河鹿島,herbal,三河鹿島駅 ハーブティー,genre_search_logs/batch_008.jsonl line 128,searched,No confirmed candidate is not proof of absence.
+愛知-0054,三河鹿島,chai,三河鹿島駅 チャイ,genre_search_logs/batch_008.jsonl line 128,searched,No confirmed candidate is not proof of absence.
+愛知-0055,小田渕,black_tea,小田渕駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0055,小田渕,taiwanese_tea,小田渕駅 台湾茶,genre_search_logs/batch_008.jsonl line 128,searched,No confirmed candidate is not proof of absence.
+愛知-0055,小田渕,chinese_tea,小田渕駅 中国茶,genre_search_logs/batch_008.jsonl line 128,searched,No confirmed candidate is not proof of absence.
+愛知-0055,小田渕,herbal,小田渕駅 ハーブティー,genre_search_logs/batch_008.jsonl line 129,searched,No confirmed candidate is not proof of absence.
+愛知-0055,小田渕,chai,小田渕駅 チャイ,genre_search_logs/batch_008.jsonl line 129,searched,No confirmed candidate is not proof of absence.
+愛知-0056,三河大塚,black_tea,三河大塚駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0056,三河大塚,taiwanese_tea,三河大塚駅 台湾茶,genre_search_logs/batch_008.jsonl line 129,searched,No confirmed candidate is not proof of absence.
+愛知-0056,三河大塚,chinese_tea,三河大塚駅 中国茶,genre_search_logs/batch_008.jsonl line 129,searched,No confirmed candidate is not proof of absence.
+愛知-0056,三河大塚,herbal,三河大塚駅 ハーブティー,genre_search_logs/batch_008.jsonl line 130,searched,No confirmed candidate is not proof of absence.
+愛知-0056,三河大塚,chai,三河大塚駅 チャイ,genre_search_logs/batch_008.jsonl line 130,searched,No confirmed candidate is not proof of absence.
+愛知-0057,稲荷口,black_tea,稲荷口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0057,稲荷口,taiwanese_tea,稲荷口駅 台湾茶,genre_search_logs/batch_008.jsonl line 130,searched,No confirmed candidate is not proof of absence.
+愛知-0057,稲荷口,chinese_tea,稲荷口駅 中国茶,genre_search_logs/batch_008.jsonl line 130,searched,No confirmed candidate is not proof of absence.
+愛知-0057,稲荷口,herbal,稲荷口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 131,searched,No confirmed candidate is not proof of absence.
+愛知-0057,稲荷口,chai,稲荷口駅 チャイ,genre_search_logs/batch_008.jsonl line 131,searched,No confirmed candidate is not proof of absence.
+愛知-0058,三河三谷,black_tea,三河三谷駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0058,三河三谷,taiwanese_tea,三河三谷駅 台湾茶,genre_search_logs/batch_008.jsonl line 131,searched,No confirmed candidate is not proof of absence.
+愛知-0058,三河三谷,chinese_tea,三河三谷駅 中国茶,genre_search_logs/batch_008.jsonl line 131,searched,No confirmed candidate is not proof of absence.
+愛知-0058,三河三谷,herbal,三河三谷駅 ハーブティー,genre_search_logs/batch_008.jsonl line 132,searched,No confirmed candidate is not proof of absence.
+愛知-0058,三河三谷,chai,三河三谷駅 チャイ,genre_search_logs/batch_008.jsonl line 132,searched,No confirmed candidate is not proof of absence.
+愛知-0059,豊川稲荷,black_tea,豊川稲荷駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0059,豊川稲荷,taiwanese_tea,豊川稲荷駅 台湾茶,genre_search_logs/batch_008.jsonl line 132,searched,No confirmed candidate is not proof of absence.
+愛知-0059,豊川稲荷,chinese_tea,豊川稲荷駅 中国茶,genre_search_logs/batch_008.jsonl line 132,searched,No confirmed candidate is not proof of absence.
+愛知-0059,豊川稲荷,herbal,豊川稲荷駅 ハーブティー,genre_search_logs/batch_008.jsonl line 133,searched,No confirmed candidate is not proof of absence.
+愛知-0059,豊川稲荷,chai,豊川稲荷駅 チャイ,genre_search_logs/batch_008.jsonl line 133,searched,No confirmed candidate is not proof of absence.
+愛知-0060,豊川,black_tea,豊川駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0060,豊川,taiwanese_tea,豊川駅 台湾茶,genre_search_logs/batch_008.jsonl line 133,searched,No confirmed candidate is not proof of absence.
+愛知-0060,豊川,chinese_tea,豊川駅 中国茶,genre_search_logs/batch_008.jsonl line 133,searched,No confirmed candidate is not proof of absence.
+愛知-0060,豊川,herbal,豊川駅 ハーブティー,genre_search_logs/batch_008.jsonl line 134,searched,No confirmed candidate is not proof of absence.
+愛知-0060,豊川,chai,豊川駅 チャイ,genre_search_logs/batch_008.jsonl line 134,searched,No confirmed candidate is not proof of absence.
+愛知-0061,蒲郡,black_tea,蒲郡駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0061,蒲郡,taiwanese_tea,蒲郡駅 台湾茶,genre_search_logs/batch_008.jsonl line 194,searched,No confirmed candidate is not proof of absence.
+愛知-0061,蒲郡,chinese_tea,蒲郡駅 中国茶,genre_search_logs/batch_008.jsonl line 134,searched,No confirmed candidate is not proof of absence.
+愛知-0061,蒲郡,herbal,蒲郡駅 ハーブティー,genre_search_logs/batch_008.jsonl line 134,searched,No confirmed candidate is not proof of absence.
+愛知-0061,蒲郡,chai,蒲郡駅 チャイ,genre_search_logs/batch_008.jsonl line 135,searched,No confirmed candidate is not proof of absence.
+愛知-0062,諏訪町,black_tea,諏訪町駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0062,諏訪町,taiwanese_tea,諏訪町駅 台湾茶,genre_search_logs/batch_008.jsonl line 194,searched,No confirmed candidate is not proof of absence.
+愛知-0062,諏訪町,chinese_tea,諏訪町駅 中国茶,genre_search_logs/batch_008.jsonl line 195,searched,No confirmed candidate is not proof of absence.
+愛知-0062,諏訪町,herbal,諏訪町駅 ハーブティー,genre_search_logs/batch_008.jsonl line 195,searched,No confirmed candidate is not proof of absence.
+愛知-0062,諏訪町,chai,諏訪町駅 チャイ,genre_search_logs/batch_008.jsonl line 195,searched,No confirmed candidate is not proof of absence.
+愛知-0063,蒲郡競艇場前,black_tea,蒲郡競艇場前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0063,蒲郡競艇場前,taiwanese_tea,蒲郡競艇場前駅 台湾茶,genre_search_logs/batch_008.jsonl line 135,searched,No confirmed candidate is not proof of absence.
+愛知-0063,蒲郡競艇場前,chinese_tea,蒲郡競艇場前駅 中国茶,genre_search_logs/batch_008.jsonl line 135,searched,No confirmed candidate is not proof of absence.
+愛知-0063,蒲郡競艇場前,herbal,蒲郡競艇場前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 135,searched,No confirmed candidate is not proof of absence.
+愛知-0063,蒲郡競艇場前,chai,蒲郡競艇場前駅 チャイ,genre_search_logs/batch_008.jsonl line 136,searched,No confirmed candidate is not proof of absence.
+愛知-0064,三河塩津,black_tea,三河塩津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0064,三河塩津,taiwanese_tea,三河塩津駅 台湾茶,genre_search_logs/batch_008.jsonl line 136,searched,No confirmed candidate is not proof of absence.
+愛知-0064,三河塩津,chinese_tea,三河塩津駅 中国茶,genre_search_logs/batch_008.jsonl line 136,searched,No confirmed candidate is not proof of absence.
+愛知-0064,三河塩津,herbal,三河塩津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 136,searched,No confirmed candidate is not proof of absence.
+愛知-0064,三河塩津,chai,三河塩津駅 チャイ,genre_search_logs/batch_008.jsonl line 137,searched,No confirmed candidate is not proof of absence.
+愛知-0065,八幡,black_tea,八幡駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0065,八幡,taiwanese_tea,八幡駅 台湾茶,genre_search_logs/batch_008.jsonl line 137,searched,No confirmed candidate is not proof of absence.
+愛知-0065,八幡,chinese_tea,八幡駅 中国茶,genre_search_logs/batch_008.jsonl line 137,searched,No confirmed candidate is not proof of absence.
+愛知-0065,八幡,herbal,八幡駅 ハーブティー,genre_search_logs/batch_008.jsonl line 137,searched,No confirmed candidate is not proof of absence.
+愛知-0065,八幡,chai,八幡駅 チャイ,genre_search_logs/batch_008.jsonl line 138,searched,No confirmed candidate is not proof of absence.
+愛知-0066,富貴,black_tea,富貴駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0066,富貴,taiwanese_tea,富貴駅 台湾茶,genre_search_logs/batch_008.jsonl line 138,searched,No confirmed candidate is not proof of absence.
+愛知-0066,富貴,chinese_tea,富貴駅 中国茶,genre_search_logs/batch_008.jsonl line 138,searched,No confirmed candidate is not proof of absence.
+愛知-0066,富貴,herbal,富貴駅 ハーブティー,genre_search_logs/batch_008.jsonl line 138,searched,No confirmed candidate is not proof of absence.
+愛知-0066,富貴,chai,富貴駅 チャイ,genre_search_logs/batch_008.jsonl line 139,searched,No confirmed candidate is not proof of absence.
+愛知-0067,上横須賀,black_tea,上横須賀駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0067,上横須賀,taiwanese_tea,上横須賀駅 台湾茶,genre_search_logs/batch_008.jsonl line 139,searched,No confirmed candidate is not proof of absence.
+愛知-0067,上横須賀,chinese_tea,上横須賀駅 中国茶,genre_search_logs/batch_008.jsonl line 139,searched,No confirmed candidate is not proof of absence.
+愛知-0067,上横須賀,herbal,上横須賀駅 ハーブティー,genre_search_logs/batch_008.jsonl line 139,searched,No confirmed candidate is not proof of absence.
+愛知-0067,上横須賀,chai,上横須賀駅 チャイ,genre_search_logs/batch_008.jsonl line 140,searched,No confirmed candidate is not proof of absence.
+愛知-0068,三ヶ根,black_tea,三ヶ根駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0068,三ヶ根,taiwanese_tea,三ヶ根駅 台湾茶,genre_search_logs/batch_008.jsonl line 140,searched,No confirmed candidate is not proof of absence.
+愛知-0068,三ヶ根,chinese_tea,三ヶ根駅 中国茶,genre_search_logs/batch_008.jsonl line 140,searched,No confirmed candidate is not proof of absence.
+愛知-0068,三ヶ根,herbal,三ヶ根駅 ハーブティー,genre_search_logs/batch_008.jsonl line 140,searched,No confirmed candidate is not proof of absence.
+愛知-0068,三ヶ根,chai,三ヶ根駅 チャイ,genre_search_logs/batch_008.jsonl line 141,searched,No confirmed candidate is not proof of absence.
+愛知-0069,国府,black_tea,国府駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0069,国府,taiwanese_tea,国府駅 台湾茶,genre_search_logs/batch_008.jsonl line 195,searched,No confirmed candidate is not proof of absence.
+愛知-0069,国府,chinese_tea,国府駅 中国茶,genre_search_logs/batch_008.jsonl line 196,searched,No confirmed candidate is not proof of absence.
+愛知-0069,国府,herbal,国府駅 ハーブティー,genre_search_logs/batch_008.jsonl line 196,searched,No confirmed candidate is not proof of absence.
+愛知-0069,国府,chai,国府駅 チャイ,genre_search_logs/batch_008.jsonl line 196,searched,No confirmed candidate is not proof of absence.
+愛知-0070,福地,black_tea,福地駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0070,福地,taiwanese_tea,福地駅 台湾茶,genre_search_logs/batch_008.jsonl line 141,searched,No confirmed candidate is not proof of absence.
+愛知-0070,福地,chinese_tea,福地駅 中国茶,genre_search_logs/batch_008.jsonl line 141,searched,No confirmed candidate is not proof of absence.
+愛知-0070,福地,herbal,福地駅 ハーブティー,genre_search_logs/batch_008.jsonl line 141,searched,No confirmed candidate is not proof of absence.
+愛知-0070,福地,chai,福地駅 チャイ,genre_search_logs/batch_008.jsonl line 142,searched,No confirmed candidate is not proof of absence.
+愛知-0071,御油,black_tea,御油駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0071,御油,taiwanese_tea,御油駅 台湾茶,genre_search_logs/batch_008.jsonl line 196,searched,No confirmed candidate is not proof of absence.
+愛知-0071,御油,chinese_tea,御油駅 中国茶,genre_search_logs/batch_008.jsonl line 197,searched,No confirmed candidate is not proof of absence.
+愛知-0071,御油,herbal,御油駅 ハーブティー,genre_search_logs/batch_008.jsonl line 197,searched,No confirmed candidate is not proof of absence.
+愛知-0071,御油,chai,御油駅 チャイ,genre_search_logs/batch_008.jsonl line 197,searched,No confirmed candidate is not proof of absence.
+愛知-0072,三河一宮,black_tea,三河一宮駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0072,三河一宮,taiwanese_tea,三河一宮駅 台湾茶,genre_search_logs/batch_008.jsonl line 142,searched,No confirmed candidate is not proof of absence.
+愛知-0072,三河一宮,chinese_tea,三河一宮駅 中国茶,genre_search_logs/batch_008.jsonl line 142,searched,No confirmed candidate is not proof of absence.
+愛知-0072,三河一宮,herbal,三河一宮駅 ハーブティー,genre_search_logs/batch_008.jsonl line 142,searched,No confirmed candidate is not proof of absence.
+愛知-0072,三河一宮,chai,三河一宮駅 チャイ,genre_search_logs/batch_008.jsonl line 143,searched,No confirmed candidate is not proof of absence.
+愛知-0073,知多武豊,black_tea,知多武豊駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0073,知多武豊,taiwanese_tea,知多武豊駅 台湾茶,genre_search_logs/batch_008.jsonl line 143,searched,No confirmed candidate is not proof of absence.
+愛知-0073,知多武豊,chinese_tea,知多武豊駅 中国茶,genre_search_logs/batch_008.jsonl line 143,searched,No confirmed candidate is not proof of absence.
+愛知-0073,知多武豊,herbal,知多武豊駅 ハーブティー,genre_search_logs/batch_008.jsonl line 143,searched,No confirmed candidate is not proof of absence.
+愛知-0073,知多武豊,chai,知多武豊駅 チャイ,genre_search_logs/batch_008.jsonl line 144,searched,No confirmed candidate is not proof of absence.
+愛知-0074,武豊,black_tea,武豊駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0074,武豊,taiwanese_tea,武豊駅 台湾茶,genre_search_logs/batch_008.jsonl line 144,searched,No confirmed candidate is not proof of absence.
+愛知-0074,武豊,chinese_tea,武豊駅 中国茶,genre_search_logs/batch_008.jsonl line 144,searched,No confirmed candidate is not proof of absence.
+愛知-0074,武豊,herbal,武豊駅 ハーブティー,genre_search_logs/batch_008.jsonl line 144,searched,No confirmed candidate is not proof of absence.
+愛知-0074,武豊,chai,武豊駅 チャイ,genre_search_logs/batch_008.jsonl line 145,searched,No confirmed candidate is not proof of absence.
+愛知-0075,上ゲ,black_tea,上ゲ駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0075,上ゲ,taiwanese_tea,上ゲ駅 台湾茶,genre_search_logs/batch_008.jsonl line 145,searched,No confirmed candidate is not proof of absence.
+愛知-0075,上ゲ,chinese_tea,上ゲ駅 中国茶,genre_search_logs/batch_008.jsonl line 145,searched,No confirmed candidate is not proof of absence.
+愛知-0075,上ゲ,herbal,上ゲ駅 ハーブティー,genre_search_logs/batch_008.jsonl line 145,searched,No confirmed candidate is not proof of absence.
+愛知-0075,上ゲ,chai,上ゲ駅 チャイ,genre_search_logs/batch_008.jsonl line 146,searched,No confirmed candidate is not proof of absence.
+愛知-0076,中部国際空港,black_tea,中部国際空港駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0076,中部国際空港,taiwanese_tea,中部国際空港駅 台湾茶,genre_search_logs/batch_008.jsonl line 146,searched,No confirmed candidate is not proof of absence.
+愛知-0076,中部国際空港,chinese_tea,中部国際空港駅 中国茶,genre_search_logs/batch_008.jsonl line 146,searched,No confirmed candidate is not proof of absence.
+愛知-0076,中部国際空港,herbal,中部国際空港駅 ハーブティー,genre_search_logs/batch_008.jsonl line 146,searched,No confirmed candidate is not proof of absence.
+愛知-0076,中部国際空港,chai,中部国際空港駅 チャイ,genre_search_logs/batch_008.jsonl line 147,searched,No confirmed candidate is not proof of absence.
+愛知-0077,名電赤坂,black_tea,名電赤坂駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0077,名電赤坂,taiwanese_tea,名電赤坂駅 台湾茶,genre_search_logs/batch_008.jsonl line 147,searched,No confirmed candidate is not proof of absence.
+愛知-0077,名電赤坂,chinese_tea,名電赤坂駅 中国茶,genre_search_logs/batch_008.jsonl line 147,searched,No confirmed candidate is not proof of absence.
+愛知-0077,名電赤坂,herbal,名電赤坂駅 ハーブティー,genre_search_logs/batch_008.jsonl line 147,searched,No confirmed candidate is not proof of absence.
+愛知-0077,名電赤坂,chai,名電赤坂駅 チャイ,genre_search_logs/batch_008.jsonl line 148,searched,No confirmed candidate is not proof of absence.
+愛知-0078,幸田,black_tea,幸田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0078,幸田,taiwanese_tea,幸田駅 台湾茶,genre_search_logs/batch_008.jsonl line 148,searched,No confirmed candidate is not proof of absence.
+愛知-0078,幸田,chinese_tea,幸田駅 中国茶,genre_search_logs/batch_008.jsonl line 148,searched,No confirmed candidate is not proof of absence.
+愛知-0078,幸田,herbal,幸田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 148,searched,No confirmed candidate is not proof of absence.
+愛知-0078,幸田,chai,幸田駅 チャイ,genre_search_logs/batch_008.jsonl line 149,searched,No confirmed candidate is not proof of absence.
+愛知-0079,西尾,black_tea,西尾駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0079,西尾,taiwanese_tea,西尾駅 台湾茶,genre_search_logs/batch_008.jsonl line 149,searched,No confirmed candidate is not proof of absence.
+愛知-0079,西尾,chinese_tea,西尾駅 中国茶,genre_search_logs/batch_008.jsonl line 149,searched,No confirmed candidate is not proof of absence.
+愛知-0079,西尾,herbal,西尾駅 ハーブティー,genre_search_logs/batch_008.jsonl line 149,searched,No confirmed candidate is not proof of absence.
+愛知-0079,西尾,chai,西尾駅 チャイ,genre_search_logs/batch_008.jsonl line 150,searched,No confirmed candidate is not proof of absence.
+愛知-0080,長山,black_tea,長山駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0080,長山,taiwanese_tea,長山駅 台湾茶,genre_search_logs/batch_008.jsonl line 150,searched,No confirmed candidate is not proof of absence.
+愛知-0080,長山,chinese_tea,長山駅 中国茶,genre_search_logs/batch_008.jsonl line 150,searched,No confirmed candidate is not proof of absence.
+愛知-0080,長山,herbal,長山駅 ハーブティー,genre_search_logs/batch_008.jsonl line 150,searched,No confirmed candidate is not proof of absence.
+愛知-0080,長山,chai,長山駅 チャイ,genre_search_logs/batch_008.jsonl line 151,searched,No confirmed candidate is not proof of absence.
+愛知-0081,江島,black_tea,江島駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0081,江島,taiwanese_tea,江島駅 台湾茶,genre_search_logs/batch_008.jsonl line 151,searched,No confirmed candidate is not proof of absence.
+愛知-0081,江島,chinese_tea,江島駅 中国茶,genre_search_logs/batch_008.jsonl line 151,searched,No confirmed candidate is not proof of absence.
+愛知-0081,江島,herbal,江島駅 ハーブティー,genre_search_logs/batch_008.jsonl line 151,searched,No confirmed candidate is not proof of absence.
+愛知-0081,江島,chai,江島駅 チャイ,genre_search_logs/batch_008.jsonl line 152,searched,No confirmed candidate is not proof of absence.
+愛知-0082,西尾口,black_tea,西尾口駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0082,西尾口,taiwanese_tea,西尾口駅 台湾茶,genre_search_logs/batch_008.jsonl line 152,searched,No confirmed candidate is not proof of absence.
+愛知-0082,西尾口,chinese_tea,西尾口駅 中国茶,genre_search_logs/batch_008.jsonl line 152,searched,No confirmed candidate is not proof of absence.
+愛知-0082,西尾口,herbal,西尾口駅 ハーブティー,genre_search_logs/batch_008.jsonl line 152,searched,No confirmed candidate is not proof of absence.
+愛知-0082,西尾口,chai,西尾口駅 チャイ,genre_search_logs/batch_008.jsonl line 153,searched,No confirmed candidate is not proof of absence.
+愛知-0083,名電長沢,black_tea,名電長沢駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0083,名電長沢,taiwanese_tea,名電長沢駅 台湾茶,genre_search_logs/batch_008.jsonl line 153,searched,No confirmed candidate is not proof of absence.
+愛知-0083,名電長沢,chinese_tea,名電長沢駅 中国茶,genre_search_logs/batch_008.jsonl line 153,searched,No confirmed candidate is not proof of absence.
+愛知-0083,名電長沢,herbal,名電長沢駅 ハーブティー,genre_search_logs/batch_008.jsonl line 153,searched,No confirmed candidate is not proof of absence.
+愛知-0083,名電長沢,chai,名電長沢駅 チャイ,genre_search_logs/batch_008.jsonl line 154,searched,No confirmed candidate is not proof of absence.
+愛知-0084,碧南,black_tea,碧南駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0084,碧南,taiwanese_tea,碧南駅 台湾茶,genre_search_logs/batch_008.jsonl line 154,searched,No confirmed candidate is not proof of absence.
+愛知-0084,碧南,chinese_tea,碧南駅 中国茶,genre_search_logs/batch_008.jsonl line 154,searched,No confirmed candidate is not proof of absence.
+愛知-0084,碧南,herbal,碧南駅 ハーブティー,genre_search_logs/batch_008.jsonl line 154,searched,No confirmed candidate is not proof of absence.
+愛知-0084,碧南,chai,碧南駅 チャイ,genre_search_logs/batch_008.jsonl line 155,searched,No confirmed candidate is not proof of absence.
+愛知-0085,東成岩,black_tea,東成岩駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0085,東成岩,taiwanese_tea,東成岩駅 台湾茶,genre_search_logs/batch_008.jsonl line 155,searched,No confirmed candidate is not proof of absence.
+愛知-0085,東成岩,chinese_tea,東成岩駅 中国茶,genre_search_logs/batch_008.jsonl line 155,searched,No confirmed candidate is not proof of absence.
+愛知-0085,東成岩,herbal,東成岩駅 ハーブティー,genre_search_logs/batch_008.jsonl line 155,searched,No confirmed candidate is not proof of absence.
+愛知-0085,東成岩,chai,東成岩駅 チャイ,genre_search_logs/batch_008.jsonl line 156,searched,No confirmed candidate is not proof of absence.
+愛知-0086,東上,black_tea,東上駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0086,東上,taiwanese_tea,東上駅 台湾茶,genre_search_logs/batch_008.jsonl line 197,searched,No confirmed candidate is not proof of absence.
+愛知-0086,東上,chinese_tea,東上駅 中国茶,genre_search_logs/batch_008.jsonl line 198,searched,No confirmed candidate is not proof of absence.
+愛知-0086,東上,herbal,東上駅 ハーブティー,genre_search_logs/batch_008.jsonl line 198,searched,No confirmed candidate is not proof of absence.
+愛知-0086,東上,chai,東上駅 チャイ,genre_search_logs/batch_008.jsonl line 198,searched,No confirmed candidate is not proof of absence.
+愛知-0087,青山,black_tea,青山駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0087,青山,taiwanese_tea,青山駅 台湾茶,genre_search_logs/batch_008.jsonl line 156,searched,No confirmed candidate is not proof of absence.
+愛知-0087,青山,chinese_tea,青山駅 中国茶,genre_search_logs/batch_008.jsonl line 156,searched,No confirmed candidate is not proof of absence.
+愛知-0087,青山,herbal,青山駅 ハーブティー,genre_search_logs/batch_008.jsonl line 156,searched,No confirmed candidate is not proof of absence.
+愛知-0087,青山,chai,青山駅 チャイ,genre_search_logs/batch_008.jsonl line 157,searched,No confirmed candidate is not proof of absence.
+愛知-0088,りんくう常滑,black_tea,りんくう常滑駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0088,りんくう常滑,taiwanese_tea,りんくう常滑駅 台湾茶,genre_search_logs/batch_008.jsonl line 157,searched,No confirmed candidate is not proof of absence.
+愛知-0088,りんくう常滑,chinese_tea,りんくう常滑駅 中国茶,genre_search_logs/batch_008.jsonl line 157,searched,No confirmed candidate is not proof of absence.
+愛知-0088,りんくう常滑,herbal,りんくう常滑駅 ハーブティー,genre_search_logs/batch_008.jsonl line 157,searched,No confirmed candidate is not proof of absence.
+愛知-0088,りんくう常滑,chai,りんくう常滑駅 チャイ,genre_search_logs/batch_008.jsonl line 158,searched,No confirmed candidate is not proof of absence.
+愛知-0089,桜町前,black_tea,桜町前駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0089,桜町前,taiwanese_tea,桜町前駅 台湾茶,genre_search_logs/batch_008.jsonl line 158,searched,No confirmed candidate is not proof of absence.
+愛知-0089,桜町前,chinese_tea,桜町前駅 中国茶,genre_search_logs/batch_008.jsonl line 158,searched,No confirmed candidate is not proof of absence.
+愛知-0089,桜町前,herbal,桜町前駅 ハーブティー,genre_search_logs/batch_008.jsonl line 158,searched,No confirmed candidate is not proof of absence.
+愛知-0089,桜町前,chai,桜町前駅 チャイ,genre_search_logs/batch_008.jsonl line 159,searched,No confirmed candidate is not proof of absence.
+愛知-0090,成岩,black_tea,成岩駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0090,成岩,taiwanese_tea,成岩駅 台湾茶,genre_search_logs/batch_008.jsonl line 159,searched,No confirmed candidate is not proof of absence.
+愛知-0090,成岩,chinese_tea,成岩駅 中国茶,genre_search_logs/batch_008.jsonl line 159,searched,No confirmed candidate is not proof of absence.
+愛知-0090,成岩,herbal,成岩駅 ハーブティー,genre_search_logs/batch_008.jsonl line 159,searched,No confirmed candidate is not proof of absence.
+愛知-0090,成岩,chai,成岩駅 チャイ,genre_search_logs/batch_008.jsonl line 160,searched,No confirmed candidate is not proof of absence.
+愛知-0091,碧南中央,black_tea,碧南中央駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0091,碧南中央,taiwanese_tea,碧南中央駅 台湾茶,genre_search_logs/batch_008.jsonl line 160,searched,No confirmed candidate is not proof of absence.
+愛知-0091,碧南中央,chinese_tea,碧南中央駅 中国茶,genre_search_logs/batch_008.jsonl line 160,searched,No confirmed candidate is not proof of absence.
+愛知-0091,碧南中央,herbal,碧南中央駅 ハーブティー,genre_search_logs/batch_008.jsonl line 160,searched,No confirmed candidate is not proof of absence.
+愛知-0091,碧南中央,chai,碧南中央駅 チャイ,genre_search_logs/batch_008.jsonl line 161,searched,No confirmed candidate is not proof of absence.
+愛知-0092,相見,black_tea,相見駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0092,相見,taiwanese_tea,相見駅 台湾茶,genre_search_logs/batch_008.jsonl line 161,searched,No confirmed candidate is not proof of absence.
+愛知-0092,相見,chinese_tea,相見駅 中国茶,genre_search_logs/batch_008.jsonl line 161,searched,No confirmed candidate is not proof of absence.
+愛知-0092,相見,herbal,相見駅 ハーブティー,genre_search_logs/batch_008.jsonl line 161,searched,No confirmed candidate is not proof of absence.
+愛知-0092,相見,chai,相見駅 チャイ,genre_search_logs/batch_008.jsonl line 162,searched,No confirmed candidate is not proof of absence.
+愛知-0093,野田城,black_tea,野田城駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0093,野田城,taiwanese_tea,野田城駅 台湾茶,genre_search_logs/batch_008.jsonl line 198,searched,No confirmed candidate is not proof of absence.
+愛知-0093,野田城,chinese_tea,野田城駅 中国茶,genre_search_logs/batch_008.jsonl line 199,searched,No confirmed candidate is not proof of absence.
+愛知-0093,野田城,herbal,野田城駅 ハーブティー,genre_search_logs/batch_008.jsonl line 199,searched,No confirmed candidate is not proof of absence.
+愛知-0093,野田城,chai,野田城駅 チャイ,genre_search_logs/batch_008.jsonl line 199,searched,No confirmed candidate is not proof of absence.
+愛知-0094,常滑,black_tea,常滑駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0094,常滑,taiwanese_tea,常滑駅 台湾茶,genre_search_logs/batch_008.jsonl line 162,searched,No confirmed candidate is not proof of absence.
+愛知-0094,常滑,chinese_tea,常滑駅 中国茶,genre_search_logs/batch_008.jsonl line 199,searched,No confirmed candidate is not proof of absence.
+愛知-0094,常滑,herbal,常滑駅 ハーブティー,genre_search_logs/batch_008.jsonl line 162,searched,No confirmed candidate is not proof of absence.
+愛知-0094,常滑,chai,常滑駅 チャイ,genre_search_logs/batch_008.jsonl line 162,searched,No confirmed candidate is not proof of absence.
+愛知-0095,米津,black_tea,米津駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0095,米津,taiwanese_tea,米津駅 台湾茶,genre_search_logs/batch_008.jsonl line 200,searched,No confirmed candidate is not proof of absence.
+愛知-0095,米津,chinese_tea,米津駅 中国茶,genre_search_logs/batch_008.jsonl line 200,searched,No confirmed candidate is not proof of absence.
+愛知-0095,米津,herbal,米津駅 ハーブティー,genre_search_logs/batch_008.jsonl line 200,searched,No confirmed candidate is not proof of absence.
+愛知-0095,米津,chai,米津駅 チャイ,genre_search_logs/batch_008.jsonl line 200,searched,No confirmed candidate is not proof of absence.
+愛知-0096,本宿,black_tea,本宿駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0096,本宿,taiwanese_tea,本宿駅 台湾茶,genre_search_logs/batch_008.jsonl line 163,searched,No confirmed candidate is not proof of absence.
+愛知-0096,本宿,chinese_tea,本宿駅 中国茶,genre_search_logs/batch_008.jsonl line 163,searched,No confirmed candidate is not proof of absence.
+愛知-0096,本宿,herbal,本宿駅 ハーブティー,genre_search_logs/batch_008.jsonl line 163,searched,No confirmed candidate is not proof of absence.
+愛知-0096,本宿,chai,本宿駅 チャイ,genre_search_logs/batch_008.jsonl line 163,searched,No confirmed candidate is not proof of absence.
+愛知-0097,半田,black_tea,半田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0097,半田,taiwanese_tea,半田駅 台湾茶,genre_search_logs/batch_008.jsonl line 164,searched,No confirmed candidate is not proof of absence.
+愛知-0097,半田,chinese_tea,半田駅 中国茶,genre_search_logs/batch_008.jsonl line 164,searched,No confirmed candidate is not proof of absence.
+愛知-0097,半田,herbal,半田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 164,searched,No confirmed candidate is not proof of absence.
+愛知-0097,半田,chai,半田駅 チャイ,genre_search_logs/batch_008.jsonl line 164,searched,No confirmed candidate is not proof of absence.
+愛知-0098,知多半田,black_tea,知多半田駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0098,知多半田,taiwanese_tea,知多半田駅 台湾茶,genre_search_logs/batch_008.jsonl line 165,searched,No confirmed candidate is not proof of absence.
+愛知-0098,知多半田,chinese_tea,知多半田駅 中国茶,genre_search_logs/batch_008.jsonl line 201,searched,No confirmed candidate is not proof of absence.
+愛知-0098,知多半田,herbal,知多半田駅 ハーブティー,genre_search_logs/batch_008.jsonl line 165,searched,No confirmed candidate is not proof of absence.
+愛知-0098,知多半田,chai,知多半田駅 チャイ,genre_search_logs/batch_008.jsonl line 165,searched,No confirmed candidate is not proof of absence.
+愛知-0099,新川町,black_tea,新川町駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0099,新川町,taiwanese_tea,新川町駅 台湾茶,genre_search_logs/batch_008.jsonl line 165,searched,No confirmed candidate is not proof of absence.
+愛知-0099,新川町,chinese_tea,新川町駅 中国茶,genre_search_logs/batch_008.jsonl line 166,searched,No confirmed candidate is not proof of absence.
+愛知-0099,新川町,herbal,新川町駅 ハーブティー,genre_search_logs/batch_008.jsonl line 166,searched,No confirmed candidate is not proof of absence.
+愛知-0099,新川町,chai,新川町駅 チャイ,genre_search_logs/batch_008.jsonl line 166,searched,No confirmed candidate is not proof of absence.
+愛知-0100,多屋,black_tea,多屋駅 紅茶,query_1,searched,No confirmed candidate is not proof of absence.
+愛知-0100,多屋,taiwanese_tea,多屋駅 台湾茶,genre_search_logs/batch_008.jsonl line 166,searched,No confirmed candidate is not proof of absence.
+愛知-0100,多屋,chinese_tea,多屋駅 中国茶,genre_search_logs/batch_008.jsonl line 167,searched,No confirmed candidate is not proof of absence.
+愛知-0100,多屋,herbal,多屋駅 ハーブティー,genre_search_logs/batch_008.jsonl line 167,searched,No confirmed candidate is not proof of absence.
+愛知-0100,多屋,chai,多屋駅 チャイ,genre_search_logs/batch_008.jsonl line 167,searched,No confirmed candidate is not proof of absence.
