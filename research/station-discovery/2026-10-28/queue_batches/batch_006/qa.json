@@ -9,14 +9,15 @@
   "distinct_query_strings": 400,
   "repeated_query_strings": {},
   "stations_not_having_exactly_two_queries": [],
-  "candidate_relation_rows": 2,
+  "candidate_relation_rows": 3,
   "candidate_validation_errors": [],
   "candidate_relations_without_source_url": [],
   "candidate_relations_without_genre": [],
   "unconfirmed_search_result_leads": 133,
   "baseline_shop_count": 258,
   "baseline_name_matches": {
-    "Rural Garden": "TSM-255"
+    "Rural Garden": "TSM-255",
+    "maison amsu tea": "TSM-250"
   },
   "prior_search_history_records_reused": 44,
   "prior_shop_observations_reused": 5,
